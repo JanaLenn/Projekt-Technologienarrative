@@ -1,0 +1,978 @@
+doc_id,sentence,p_positive,p_negative
+7,"$50 MILLION QUESTION
+
+To the Editor:
+ Your Aug. 5 news article ''U.S.",0.028062624856829643,0.12995024025440216
+7,"Weighs Risk That Atom War Could Bring Fatal Nuclear Winter'' made me wonder who would spend $50 million to discover if a nuclear war would exterminate some, most or all life in a cloud of dust that blots out the sun.",0.011861628852784634,0.688292384147644
+7,"It is clear that Government or military officials who would be concerned with the results of such studies differentiate between limited and unlimited nuclear exchanges, between death by incineration and death by refrigeration.",0.024338077753782272,0.3301810324192047
+7,"They are people whose fine-tuned minds may find a war that destroys millions of lives acceptable, but one that destroys billions too costly.",0.009620661847293377,0.8391290903091431
+7,"They are people whose fine-tuned minds may find a war that destroys millions of lives acceptable, but one that destroys billions too costly.",0.009620661847293377,0.8391290903091431
+7,"They may be hoping their studies will lead them to the unexpected discovery that a nuclear war will be followed by a nuclear spring, in which the surviving life will flourish.",0.16588406264781952,0.1247829869389534
+7,"If the fate of humanity is in the hands of people who weigh facts and people with the same cold computer precision, then it's time for all of us to button up our overcoats.",0.01143900491297245,0.8190832734107971
+8217,"Relying on Computer, U.S. Seeks To Prove Iran's Nuclear Aims
+
+In mid-July, senior American intelligence officials called the leaders of the international atomic inspection agency to the top of a skyscraper overlooking the Danube in Vienna and unveiled the contents of what they said was a stolen Iranian laptop computer.",0.03447716310620308,0.06863673776388168
+8217,"The Americans flashed on a screen and spread over a conference table selections from more than a thousand pages of Iranian computer simulations and accounts of experiments, saying they showed a long effort to design a nuclear warhead, according to a half-dozen European and American participants in the meeting.",0.021552428603172302,0.21322114765644073
+8217,"The documents, the Americans acknowledged from the start, do not prove that Iran has an atomic bomb.",0.016541404649615288,0.5813023447990417
+8217,"They presented them as the strongest evidence yet that, despite Iran's insistence that its nuclear program is peaceful, the country is trying to develop a compact warhead to fit atop its Shahab missile, which can reach Israel and other countries in the Middle East.",0.05488957464694977,0.19344112277030945
+8217,"The briefing for officials of the United Nations' International Atomic Energy Agency, including its director Mohamed ElBaradei, was a secret part of an American campaign to increase international pressure on Iran.",0.02187494933605194,0.15595366060733795
+8217,"But while the intelligence has sold well among countries like Britain, France and Germany, which reviewed the documents as long as a year ago, it has been a tougher sell with countries outside the inner circle.",0.08885228633880615,0.13743767142295837
+8217,"But while the intelligence has sold well among countries like Britain, France and Germany, which reviewed the documents as long as a year ago, it has been a tougher sell with countries outside the inner circle.",0.08885228633880615,0.13743767142295837
+8217,"The computer contained studies for crucial features of a nuclear warhead, said European and American officials who had examined the material, including a telltale sphere of detonators to trigger an atomic explosion.",0.030728265643119812,0.14690226316452026
+8217,"The documents specified a blast roughly 2,000 feet above a target -- considered a prime altitude for a nuclear detonation.",0.024944666773080826,0.16589747369289398
+8217,"Nonetheless, doubts about the intelligence persist among some foreign analysts.",0.01090313121676445,0.4886209964752197
+8217,"Moreover, this chapter in the confrontation with Iran is infused with the memory of the faulty intelligence on Iraq's unconventional arms.",0.00859032291918993,0.6871377825737
+8217,"In this atmosphere, though few countries are willing to believe Iran's denials about nuclear arms, few are willing to accept the United States' weapons intelligence without question.",0.018040837720036507,0.46030470728874207
+8217,"''I can fabricate that data,'' a senior European diplomat said of the documents.",0.023300861939787865,0.225224107503891
+8217,"Robert G. Joseph, the under secretary of state for arms control and international security, who led the July briefing, declined to discuss any classified material from the session but acknowledged the existence of the warhead intelligence.",0.022498585283756256,0.06573038548231125
+8217,He called it one of many indicators ''that together lead to the conclusion Iran is pursuing a nuclear weapons capability.'',0.021597037091851234,0.29026785492897034
+8217,"Even if the documents accurately reflect Iran's advances in designing a nuclear warhead, Western arms experts say that Iran is still far away from producing the radioactive bomb fuel that would form the warhead's heart.",0.01911213994026184,0.4437721371650696
+8217,American intelligence agencies recently estimated that Iran would have a working nuclear weapon no sooner than the early years of the next decade.,0.06317050009965897,0.049210745841264725
+8217,"Still, nuclear analysts at the international atomic agency studied the laptop documents and found them to be credible evidence of Iranian strides, European diplomats said.",0.1518482118844986,0.015044589526951313
+8217,A dozen officials and nuclear weapons experts in Europe and the United States with detailed knowledge of the intelligence said in interviews that they believed it reflected a concerted effort to develop a warhead.,0.018836695700883865,0.3093142807483673
+8217,"''They've worked problems that you don't do unless you're very serious,'' said a European arms official.",0.03144686296582222,0.49953609704971313
+8217,"And even while President Bush is defending his pronouncements before the war about Iraq's unconventional weapons, he has never publicly referred to the Iran documents.",0.015954673290252686,0.4808006286621094
+8217,"R. Nicholas Burns, the under secretary of state for political affairs, who has coordinated the Iran issue with the Europeans, also declined to discuss the intelligence, but insisted that the Bush administration's approach was one of ''careful, quiet diplomacy designed to increase international pressure on Iran to do one thing: abandon its nuclear weapons designs and return to negotiations with European countries.''",0.020060082897543907,0.1995932161808014
+8217,"Until now, there has been only one official reference to them: a year ago in a conversation with reporters, Colin L. Powell, then secretary of state, briefly referred to new, missile-related intelligence on Iran.",0.023112423717975616,0.10186096280813217
+8217,"In turn, several American officials confirmed the intelligence.",0.15982109308242798,0.016655143350362778
+8217,"All who spoke did so on the condition of anonymity, saying they had pledged to keep the intelligence secret, though it is being discussed by an array of senior government officials and International Atomic Energy Agency board members.",0.036965031176805496,0.05526009202003479
+8217,"Officials said scientists at the American weapons labs, as well as foreign analysts, had examined the documents for signs of fraud.",0.015695348381996155,0.3538019061088562
+8217,But one nongovernment expert cautioned that the intelligence could simply represent the work of a faction in Iran.,0.017852632328867912,0.26459449529647827
+8217,"''What we don't know is whether this is the uncoordinated effort of a particularly ambitious sector of the rocket program or is it, as some allege, a step-by-step effort to field a nuclear weapon within this decade,'' said Joseph Cirincione of the Carnegie Endowment for International Peace, who said he had not seen the secret documents.",0.017941582947969437,0.2754094898700714
+8217,The Iranians themselves deny any knowledge of the warhead plans.,0.0085089560598135,0.6423619985580444
+8217,The Iranians themselves deny any knowledge of the warhead plans.,0.0085089560598135,0.6423619985580444
+8217,"''We are sure that there are no such documents in Iran,'' Ali A. Larijani, secretary of the Supreme National Security Council and the country's chief nuclear negotiator, said in an interview in Tehran.",0.036161571741104126,0.061210859566926956
+8217,''I have no idea what they have or what they claim to have.,0.016473034396767616,0.6855966448783875
+8217,We just hear the claims.'',0.034378375858068466,0.3192847669124603
+8217,"As a measure of the skepticism the Bush administration faces, officials said the American ambassador to the international atomic agency, Gregory L. Schulte, was urging other countries to consult with his French counterpart.",0.017714422196149826,0.2630409300327301
+8217,"''On Iraq we disagreed, and on Iran we completely agree,'' a senior State Department official said.",0.033248718827962875,0.20340053737163544
+8217,''That gets attention.'',0.15536542236804962,0.15383698046207428
+8217,"Inspectors and Secret Sites
+  For years, American intelligence agencies argued that Iran was hiding a range of nuclear facilities.",0.02236418053507805,0.27496322989463806
+8217,"Then, in February 2003, inspectors from the International Atomic Energy Agency went to Iran and confirmed reports of two secret sites under construction that could make concentrated uranium and plutonium, standard fuels for nuclear arms.",0.027106348425149918,0.10444805771112442
+8217,"At Natanz, in central Iran, they found preparations for more than 50,000 whirling centrifuges meant to purify uranium.",0.016013476997613907,0.3549560308456421
+8217,"At Arak, to the west, they found construction of a heavy-water plant and reactor meant to make plutonium.",0.02040044218301773,0.07780100405216217
+8217,"Iran insisted the sites were for conducting peaceful research and making fuel for nuclear power, and were kept secret to evade American-led penalties on sales of atomic technology to Iran.",0.021102027967572212,0.3146692216396332
+8217,"Over time, a string of revelations challenged that explanation, even as inspectors eventually uncovered at least seven secret nuclear sites.",0.03001011721789837,0.1965150684118271
+8217,"In August 2003, agency inspectors discovered traces of uranium concentrated to the high levels necessary for a bomb, rather than the low levels for a power-producing reactor.",0.019553357735276222,0.20613664388656616
+8217,"In August 2003, agency inspectors discovered traces of uranium concentrated to the high levels necessary for a bomb, rather than the low levels for a power-producing reactor.",0.019553357735276222,0.20613664388656616
+8217,"Some of the uranium was shown to have arrived in Iran on nuclear equipment purchased from Pakistan, but a European diplomat disclosed that the origin of the rest was still a mystery.",0.014554736204445362,0.1023072749376297
+8217,"Then there were questions about what Iran had obtained from the atomic black market run by Abdul Qadeer Khan, the Pakistani rogue nuclear engineer.",0.011588744819164276,0.37864676117897034
+8217,"Iran has acknowledged buying from Dr. Khan, but the extent of those dealings is still under investigation.",0.015706665813922882,0.14461509883403778
+8217,"By late 2003, many government and nongovernment experts agreed that Iran was rapidly progressing.",0.10993809252977371,0.028865233063697815
+8217,"''Most people,'' said Gary Milhollin, director of the Wisconsin Project on Nuclear Arms Control in Washington, ''believed that they had mastered the essential capabilities and had the potential to develop what they needed to make a bomb.''",0.24813148379325867,0.02296786569058895
+8217,Diplomacy aimed at defusing Iran moved haltingly.,0.01768634282052517,0.43000465631484985
+8217,Diplomacy aimed at defusing Iran moved haltingly.,0.01768634282052517,0.43000465631484985
+8217,"Tehran agreed to suspend the enrichment of uranium as it negotiated with the West over the fate of its atom program, but months later began making uranium hexafluoride, the raw material for enrichment.",0.020919721573591232,0.13197657465934753
+8217,"If Iran hid parts of its atomic program, it boldly displayed its missiles.",0.02494550496339798,0.3655608892440796
+8217,"And in August 2004, it conducted a test that deepened suspicions that it was at work on a nuclear warhead.",0.01448757667094469,0.6283458471298218
+8217,Tehran test-fired an upgraded version of the Shahab -- shooting star in Persian -- in a flight that featured the first appearance of an advanced nose cone made up of three distinct shapes.,0.10901997983455658,0.00803091749548912
+8217,"Missile experts noted that such triconic nose cones have great range, accuracy and stability in flight, but less payload space.",0.468648761510849,0.026483669877052307
+8217,"Therefore, experts say, they have typically been used to carry nuclear arms.",0.03339305892586708,0.12925270199775696
+8217,"Iran insists it is pursuing only peaceful energy, and notes that nations like Japan, South Korea and Brazil have advanced civilian nuclear programs and sophisticated missiles, but have been aided by the West in building their programs rather than being accused of trying to make atomic warheads.",0.15223760902881622,0.04018991440534592
+8217,"''Second-class countries are allowed to produce only tomato paste,'' said Mr. Larijani, Iran's nuclear negotiator.",0.022645771503448486,0.2977837324142456
+8217,''The problem is that Iran has come out of its shell and is trying to have advanced technology.'',0.017308587208390236,0.5846265554428101
+8217,"A Laptop's Contents
+  American officials have said little in their briefings about the origins of the laptop, other than that they obtained it in mid-2004 from a source in Iran who they said had received it from a second person, now believed to be dead.",0.009854686446487904,0.47502970695495605
+8217,Foreign officials who have reviewed the intelligence speculate that the laptop was used by someone who worked in the Iranian nuclear program or stole information from it.,0.012157081626355648,0.41826146841049194
+8217,One senior arms expert said the material was so voluminous that it appeared to be the work of a team of engineers.,0.10262726247310638,0.059571992605924606
+8217,One senior arms expert said the material was so voluminous that it appeared to be the work of a team of engineers.,0.10262726247310638,0.059571992605924606
+8217,"Without revealing the source of the computer, American intelligence officials insisted that it had not come from any Iranian resistance groups, whose claims about Iran's nuclear program have had a mixed record for accuracy.",0.014121074229478836,0.40395450592041016
+8217,"In July, as the Bush administration began stepping up the pressure on the United Nations to take punitive action against Tehran, it decided to brief Dr. ElBaradei on the contents of the laptop.",0.02289566956460476,0.1486574411392212
+8217,The session on July 18 on the top floor of the American mission in Vienna was a meeting of former rivals.,0.03051207773387432,0.014353755861520767
+8217,"Before the Iraq war, Dr. ElBaradei had attracted the wrath of the Bush administration by declaring that his agency had found no evidence that Saddam Hussein was reconstituting his nuclear program.",0.009577118791639805,0.6656520962715149
+8217,"And the administration had tried to oust Dr. ElBaradei, an Egyptian, from his post, partly because they found him insufficiently tough on Iran.",0.00849179457873106,0.7019805312156677
+8217,''But that may not be the case.'',0.03945488482713699,0.3283313512802124
+8217,"One major revelation was work done on a sphere of detonators meant to ignite conventional explosives that, in turn, compress the radioactive fuel to start the nuclear chain reaction.",0.06059298291802406,0.11800689250230789
+8217,The documents also wrestled with how to position a heavy ball -- presumably of nuclear fuel -- inside the warhead to ensure stability and accuracy during the fiery plunge toward a target.,0.029324853792786598,0.16432151198387146
+8217,"And a bomb exploding at a height of about 2,000 feet, as envisioned by the documents, suggests a nuclear weapon, analysts said, since that altitude is unsuitable for conventional, chemical or biological arms.",0.01396841648966074,0.6625509858131409
+8217,"After more than a year of analysis, questions remain about the trove's authenticity.",0.015770476311445236,0.2598579525947571
+8217,"Gary Samore, the head of nonproliferation at the National Security Council in the Clinton administration, who recently directed a report on Iran that drew on interviews with government officials in many nations, said, ''The most convincing evidence that the material is genuine is that the technical work is so detailed that it would be difficult to fabricate.''",0.14381033182144165,0.022318392992019653
+8217,"An Unclassified Briefing
+  In August and September, as the United States was preparing for a showdown vote at the International Atomic Energy Agency on whether to recommend action by the United Nations Security Council against Iran, the Bush administration stepped up its campaign.",0.026730939745903015,0.10189872980117798
+8217,The United States rarely shares raw intelligence outside a small circle of close allies.,0.016949860379099846,0.4062223434448242
+8217,"For them, it developed the equivalent of the white paper on Iraq that Britain and the United States published before the Iraq war.",0.029409259557724,0.21439200639724731
+8217,"The 43-page unclassified briefing includes no reference to the warhead documents, but uses commercial satellite photos and economic analysis to argue that Iran has no need for nuclear power and has long hidden its true ambitions.",0.013038293458521366,0.5180462002754211
+8217,"Analysts from the Los Alamos National Laboratory and the Pacific Northwest National Laboratory wrote the briefing paper for the State Department, which distributed it widely.",0.032929569482803345,0.009734325110912323
+8217,"In graphic detail, the paper offers a tour of the previously hidden sites, saying, for instance, that a ''dummy'' building at the centrifuge plant in Natanz hides a secret entrance ramp to an underground factory.",0.03021354228258133,0.112521231174469
+8217,The briefing asserted that Iran did not have enough proven uranium reserves to fuel its nuclear power program beyond 2010.,0.012310080230236053,0.3770816922187805
+8217,"But it does have enough uranium, the report added, ''to give Iran a significant number of nuclear weapons.''",0.03651091083884239,0.1729045957326889
+8217,The briefing landed with something of a thud.,0.03508883714675903,0.1757633537054062
+8217,''How do you know what you're shown on a slide is true given past experience?'',0.031248940154910088,0.09550416469573975
+8217,"Even so, the American campaign helped produce a consensus among International Atomic Energy Agency board members, although a fragile one.",0.3856106102466583,0.02686602808535099
+8217,"On Sept. 24, the board passed the resolution against Iran by a vote of 22 to 1, with 12 countries abstaining, including China and Russia.",0.02016378939151764,0.11952312290668488
+8217,"On Sept. 24, the board passed the resolution against Iran by a vote of 22 to 1, with 12 countries abstaining, including China and Russia.",0.02016378939151764,0.11952312290668488
+8217,"It cited Iran for ''a long history of concealment and deception'' and repeated failure to live up to its obligations under the Nuclear Nonproliferation Treaty, which it signed in 1970.",0.0054550315253436565,0.8394569158554077
+8217,"The resolution said Iran's failings had set it up for consideration by the Security Council for possible punishment with economic penalties, though it left the timing of the referral to a future meeting.",0.007895433343946934,0.6162581443786621
+8217,"Manouchehr Mottaki, Iran's foreign minister, denounced the resolution as ''illegal and illogical'' and the result of a ''planned scenario determined by the United States.''",0.005693936254829168,0.7778559923171997
+8217,"Debating the Next Step
+  On Thanksgiving, Nov. 24, the board of the international atomic agency plans to meet again to confront the Iranian nuclear question -- and decide whether to take the next step and send the issue to the Security Council.",0.02849164605140686,0.020924793556332588
+8217,The Bush administration is confident in its evidence.,0.15008562803268433,0.05678428336977959
+8217,The Bush administration is confident in its evidence.,0.15008562803268433,0.05678428336977959
+8217,"''There is not a single country we deal with that does not believe Iran is seeking a nuclear weapon,'' said Mr. Burns, the under secretary of state.",0.033263612538576126,0.2247275561094284
+8217,The Iranians have taken steps to forestall any penalties.,0.05751209706068039,0.07886805385351181
+8217,"After months of delays, they have allowed inspectors into a secret military site, shared more information about the history of their program, and signaled a willingness to reopen negotiations, even while vowing to continue turning raw uranium into a gas that can be enriched.",0.17699772119522095,0.018077244982123375
+8217,Those steps may convince some atomic agency board members.,0.4324621558189392,0.01379510760307312
+8217,And at least two countries rotating onto the board for the next meeting -- Cuba and Syria -- are almost certain to defy Washington.,0.031347133219242096,0.3816060423851013
+8217,"In this case, he added, ''That has not happened.''",0.0608651340007782,0.12645909190177917
+8217,"European nations and the international atomic agency are now working out details of a new proposal that offers Tehran the chance to conduct very limited nuclear activities in Iran, but move any enrichment of uranium to Russia -- part of the effort to keep the country from obtaining the nuclear fuel that could go atop the Shahab missile.",0.03419216722249985,0.055119507014751434
+8217,"Some European diplomats are concerned that confronting the Iranians with strong evidence of the warhead studies could cause Tehran to abandon negotiations with the West, expel international inspectors and move forward with its plans, whatever they may be.",0.007650962099432945,0.6533408164978027
+8217,"''If there is information that can serve to make progress with the Iranians, without blowing up the system, that's better.''",0.4979526400566101,0.029491204768419266
+8217,"Chart/Map: ''Clues About Iran's Nuclear Activity''
+Despite scrutiny by the International Atomic Energy Agency, most of the nuclear-related sites in Iran were unknown until a string of disclosures that began in early 2003.",0.013548064976930618,0.14642027020454407
+8217,"One place of interest, the Lavizan-Shian Military Physics Research Center for Nuclear Defense, shown below, was bulldozed before inspectors were allowed to visit the site.",0.011982444673776627,0.5132585763931274
+8217,"Map of Iran highlights the following:
+(Sites outlined in black were unknown publicly until 2003 or later.)",0.016186660155653954,0.07776635140180588
+8218,Remember Iran?,0.0393063947558403,0.1291491687297821
+8218,We have long felt that Mohamed ElBaradei and his United Nations nuclear inspectors were too patient with Iran's cat-and-mouse games and constant evasions.,0.023543255403637886,0.5468154549598694
+8218,Even their patience is running out.,0.01548232976347208,0.8364118933677673
+8218,Even their patience is running out.,0.01548232976347208,0.8364118933677673
+8218,"In a report last week, the International Atomic Energy Agency declared that it had reached an impasse over Tehran's refusal to answer questions about its past nuclear activities.",0.010175704024732113,0.4552106261253357
+8218,(An official close to the agency told The Times: ''We seem to be at a dead end.''),0.007948467507958412,0.7205723524093628
+8218,(An official close to the agency told The Times: ''We seem to be at a dead end.''),0.007948467507958412,0.7205723524093628
+8218,The report also said that Iran had substantially improved its ability to produce nuclear fuel in direct defiance of a Security Council ban.,0.32217904925346375,0.012544033117592335
+8218,"We know that the United States and its allies are grappling with a lot right now, including a financial meltdown and a resurgent Russia.",0.01486265379935503,0.6318068504333496
+8218,"We know that the United States and its allies are grappling with a lot right now, including a financial meltdown and a resurgent Russia.",0.01486265379935503,0.6318068504333496
+8218,But Tehran's scientists are getting ever closer to mastering the skills that are the hardest part of building a nuclear weapon.,0.1219746395945549,0.16448962688446045
+8218,This is not a problem that can be shunted off to the next president.,0.01854386180639267,0.6510565876960754
+8218,"For that, Europe and the United States must agree quickly on a more persuasive set of punishments and incentives.",0.09153516590595245,0.10532756894826889
+8218,"That means far tougher restrictions on trade and investment in Iran -- if Russia and China block action at the Security Council, Europe and Washington will have to act without them -- and far more generous diplomatic incentives, including a credible American offer of improved relations and security guarantees if Tehran abandons its nuclear ambitions.",0.03563087806105614,0.4612850844860077
+8218,"Secretary of State Condoleezza Rice had hoped to salvage at least part of President Bush's legacy, and her own, by brokering an Israeli-Palestinian peace deal before Mr. Bush leaves office.",0.10067930072546005,0.03919890150427818
+8218,She could prove that she was serious by proposing to immediately open an American interests section in Tehran -- an idea her aides floated a few months ago that seems to have disappeared.,0.11154788732528687,0.0732731744647026
+8218,We don't know if any mix of sanctions and rewards can persuade Iran's leaders to abandon their nuclear program.,0.007389359641820192,0.7636497020721436
+8218,"But without such an effort, we are certain that Tehran will keep pressing ahead, while the voices in the United States and Israel arguing for military action will only get louder.",0.01492504496127367,0.6159805655479431
+8227,"Repeated Lapses With Nuclear Weapons Raise Questions of Safety
+
+In a cluster of oddly shaped industrial buildings rising from the wheat fields east of this city, behind strands of razor wire, guards with AR-15 military-style rifles and security devices that officials will not discuss, some 300 technicians are fulfilling the nation's commitment to dismantle thousands of nuclear weapons.",0.021020637825131416,0.4845547080039978
+8227,"It is the most dangerous, tricky and vital operation with nuclear armaments -- prying the plutonium, a toxic and radioactive material that is the main fuel of atomic bombs, away from the conventional explosives used to set off the nuclear chain reaction.",0.016068371012806892,0.7018677592277527
+8227,The explosives are old and in some cases prone to detonate from heat or shock.,0.011611995287239552,0.6892573833465576
+8227,"Other barrels marked ""empty"" contained high explosives, including one used as a desk where technicians filled out paperwork.",0.015316162258386612,0.36705148220062256
+8227,"The Energy Department's Office of Nuclear Safety recently reported finding drums of explosives manufactured in 1959 and 1965 that are supposed to be checked every year, since, as it noted in industrial-grade prose, ""personnel injury and loss of facilities could occur should old explosive detonate.""",0.015140100382268429,0.49773532152175903
+8227,But there was no evidence that they had ever been checked.,0.01749311573803425,0.4985354542732239
+8227,But there was no evidence that they had ever been checked.,0.01749311573803425,0.4985354542732239
+8227,"Even a regulation meant to block the unthinkable, the detonation of a nuclear weapon, is not consistently followed.",0.010587823577225208,0.7472286820411682
+8227,"One embattled technician, who blew the whistle on many violations and has brought legal action against Mason & Hanger charging that it retaliated against him, says the situation is more dangerous still because of an atmosphere of fear in which workers at the plant, named Pantex for its Texas Panhandle locale, hesitate to raise safety issues.",0.008183534257113934,0.751788854598999
+8227,"He added, however, that while all the plant's safety measures should be followed, it would take errors or accidents far more serious than those documented by the Energy Department and in company reports to cause a major accident.",0.01544282864779234,0.6210935115814209
+8227,"""Nuclear weapons were made to drop 20 feet without consequence,"" Mr. Barton said.",0.036501120775938034,0.29489782452583313
+8227,"""They may need to be repaired, but you don't get a blinding white flash and a mushroom cloud.""",0.028709908947348595,0.5794140696525574
+8227,"Thomas P. Grumbly, the Energy Department's chief environmental safety and health official, said only, ""It's clear we need to pay more attention to how we're managing these kind of situations at the lowest levels, so they don't escalate.""",0.07164333015680313,0.07376697659492493
+8227,"Taken individually, many violations noted in department and company reports seem minor, almost comical: In December 1995, a nuclear artillery shell, which can be used as a neutron bomb, dropped 15 to 17 inches when the platform it sat on collapsed, and a small-yield ""tactical"" nuclear bomb smacked into a concrete wall because workers locked the wrong set of caster wheels on its dolly.",0.021568918600678444,0.6180922389030457
+8227,"Then there was the time in February 1995, also documented in the plant's ""occurrence reports"" to the Energy Department, when workers used a paper clip instead of an approved part to secure a load-bearing pin joining a dolly to a forklift towing weapons around the plant.",0.013629646971821785,0.43313947319984436
+8230,"Report Details Cheaper Source For Bomb Fuel
+
+The chronic difficulties in producing a critical gas for the nation's nuclear weapons could be solved for about a third the cost of the proposal being backed by the Energy Department, according to an executive report prepared for the department.",0.20690502226352692,0.04236695170402527
+8230,"Spending $2.3 billion to build the world's most powerful linear accelerator would insure an adequate supply of the perishable gas, tritium, according to the report.",0.27906695008277893,0.019375359639525414
+8230,"Spending $2.3 billion to build the world's most powerful linear accelerator would insure an adequate supply of the perishable gas, tritium, according to the report.",0.27906695008277893,0.019375359639525414
+8230,"It says the device could be completed in 1996, at least six years faster than it would take the Energy Department to build five new nuclear reactors, costing a total of $6.8 billion, to produce tritium as it has told Congress it plans to do.",0.2423151135444641,0.022419966757297516
+8230,"The report, which has not been submitted, was completed this month by physicists and engineers from two national laboratories in New York and New Mexico and a nuclear weapons plant in Washington State.",0.03680964186787605,0.023730875924229622
+8230,"Increase in Safety
+A linear accelerator was used to discover tritium in 1935, but the technology had been considered too expensive to use to produce the gas in the quantities needed for nuclear weapons.",0.02593315578997135,0.31651952862739563
+8230,The report says advances in technology to accelerate continuous streams of atomic particles to nearly the speed of light have made it possible to use linear accelerators to produce tritium far more safely and cheaply than with nuclear reactors.,0.7107040286064148,0.0062512969598174095
+8230,"The proposed accelerator, at least 100 times more powerful than any on earth, would be 1,051 meters long, slightly more than six-tenths of a mile, and generate a 1.6-billion-volt beam of protons so powerful that it could vaporize steel.",0.7696507573127747,0.01341304276138544
+8230,"The report said the proposed accelerator would cost about $250 million annually to operate, two-thirds of it to pay for 800 megawatts of electricity to power the plant.",0.02105836197733879,0.25388044118881226
+8230,The accelerator is different from the atom smasher that may be built in Texas for a civilian research program on the basis of matter.,0.0252255629748106,0.08283216506242752
+8230,The latter device is circular and will accelerate subatomic particles in opposite directions to collide.,0.0659695565700531,0.08939463645219803
+8230,Independent physicists who reviewed a copy of the full executive report said its conclusions were consistent with the state of the art in linear accelerator technology.,0.1366855353116989,0.012004771269857883
+8230,"They agreed that if the Energy Department furnished the capital, a machine capable of providing all of the tritium needed for the nation's nuclear arsenal could be built.",0.17993378639221191,0.015969935804605484
+8230,"The emergence of the issue of using a linear accelerator to produce tritium has upset top officials of the Energy Department, which rejected the idea last summer and decided instead to ask Congress for $6.8 billion to build a nuclear reactor in South Carolina and four in Idaho to produce tritium in the 21st century.",0.014129560440778732,0.411789208650589
+8230,"''If it turns out this is something the national laboratories will stand behind, we will examine this proposal more carefully,'' said Ronald W. Cochran, Acting Director of the Energy Department's Office of New Production Reactors.",0.046045683324337006,0.07570472359657288
+8230,"''Until now, Congress was in a hell of a box,'' said Representative Les AuCoin, a Democrat of Oregon and member of the House Appropriations Committee.",0.02285972237586975,0.3836216330528259
+8230,''We either coughed up $6.8 billion at a minimum and rubber stamp their proposal or be accused of unilaterally disarming our nuclear defense capability.,0.01124507561326027,0.7527404427528381
+8230,"''Now something new has emerged on the screen, a technology which is cheaper and safer and an alternative to the kind of facilities they built in the past.",0.6115848422050476,0.013440367765724659
+8230,"The 35-year-old reactors have exceeded by years their designed life span, and the Energy Department has expressed doubt that even repaired reactors could be safely operated for the decade or so before a new reactor is completed.",0.008423557505011559,0.7926825881004333
+8230,"Chain Reaction Process
+To produce tritium, the element lithium is split by neutrons, which along with protons are the principal atomic particles in the nuclei of most elements.",0.05242256447672844,0.019867684692144394
+8230,"The source of the neutrons for weapon material for nearly half a century has been the nuclei of enriched uranium, which are split in the controlled chain reaction in a nuclear reactor.",0.03601702302694321,0.06455796957015991
+8230,"The cleaving process, called fission, yields enormous amounts of energy in the form of heat and radiation that can run out of control if coolant is cut off from reaching the reactor.",0.022688010707497597,0.4923597574234009
+8230,"The process, according to the authors, involves a different source of energy that is powered by electricity and can be switched off instantaneously just like a lamp.",0.06719936430454254,0.01733921468257904
+8230,"Moreover, because a nuclear chain reaction is not involved, the accelerator will produce far less long-lived radioactive wastes.",0.07163650542497635,0.3432423770427704
+8230,"''The concept has a lot of merit,'' said Roger W. Powell, manager of engineering development for Westinghouse Electric at Hanford.",0.6604804992675781,0.004128577653318644
+8230,''We're in position to provide all the technical aspects and let the Energy Department make a decision.'',0.06862480938434601,0.014699166640639305
+8230,"Technical Threshold Crossed
+Since 1947, when Dr. Ernest O. Lawrence of the University of California at Berkeley proposed building a linear accelerator to produce nuclear materials for atomic weapons, the idea has periodically surfaced at the top of the nation's nuclear weapons hierarchy, but the concept never became practical technically.",0.036265287548303604,0.055477600544691086
+8230,"Now, however, according to the authors of the new report, and independent physicists who have reviewed it, a linear accelerator capable of producing nuclear materials for weapons is possible because of a technical threshold that was crossed this decade.",0.1307460069656372,0.027503052726387978
+8230,The key to building an accelerator powerful enough to continuously shower lithium with neutrons is to operate a particle beam at extremely high voltages and high currents.,0.22639691829681396,0.04505307227373123
+8230,"Its 1.6 billion volt beam would have a continuous current of 250 milliamps, hundreds of times higher than most existing linear accelerators, which operate at 1 milliamp or lower.",0.4019821882247925,0.0282722357660532
+8230,The beam would be composed of protons gained by stripping hydrogen atoms of their lone electrons.,0.06602734327316284,0.04890613257884979
+8230,The protons would be accelerated down the center of a vacuum tube made of copper or aluminum.,0.0456257089972496,0.08219322562217712
+8231,"Report Details Progress By Iran at Nuclear Bunker
+
+WASHINGTON -- Iran has installed three-quarters of the nuclear centrifuges it needs to complete a site deep underground for the production of nuclear fuel, international inspectors reported Thursday, a finding that led the White House to warn that ''the window that is open now to resolve this diplomatically will not remain open indefinitely.''",0.030945025384426117,0.11381528526544571
+8231,"The report by the International Atomic Energy Agency, the last to be issued before the American presidential election, lays out in detail how Iran over the summer has doubled the number of centrifuges installed deep under a mountain near Qum.",0.021577291190624237,0.11466586589813232
+8231,"Iran has also, the report said, cleansed another site where the agency has said it suspects that the country has conducted explosive experiments that could be relevant to the production of a nuclear weapon.",0.009966112673282623,0.43789899349212646
+8231,"Based on satellite photographs, the agency said the cleanup had been so extensive that it would ''significantly hamper'' the ability of inspectors to understand what kind of work had taken place there.",0.011373908258974552,0.5440347194671631
+8231,"But it left open the question of what, exactly, Ayatollah Khamenei and other Iranian leaders intended to do with those machines, and whether, by racing ahead with construction, they were seeking negotiating advantage or trying to gain the ability to build a bomb before sanctions, sabotage or military action could stop them.",0.013833172619342804,0.420856237411499
+8231,The report offers arguments for both sides in the debate over whether a military strike on Iran's nuclear sites is necessary to prevent Iran from producing a nuclear weapon.,0.020550088956952095,0.17791974544525146
+8231,"The Israelis in favor of military action, led by Defense Minister Ehud Barak, the most outspoken proponent of moving quickly against the Iranian program, will point to evidence that Iran has now installed more than 2,100 of the roughly 2,800 centrifuges destined for the underground site, called Fordow.",0.08648211508989334,0.08395495265722275
+8231,"More than 1,000 have been installed in the past three months, since the last report by the agency.",0.15279211103916168,0.007849998772144318
+8231,"For Mr. Barak, that is evidence that the ''zone of immunity'' he has warned about -- the point at which Iran will be able to produce nuclear fuel from a site invulnerable to attack -- will be reached in a matter of weeks.",0.12706626951694489,0.07370438426733017
+8231,But American officials urging caution will find plenty in the report to bolster their view as well.,0.2516542375087738,0.027876416221261024
+8231,"The centrifuges being installed at Fordow, American officials noted, are of the old and unreliable model that Iran obtained from Pakistan, and they do not include any newer, more efficient models that the Iranians have claimed, for years, that they would move to.",0.009989744052290916,0.6147504448890686
+8231,"And while the agency's statistics show that Iran has, since February, nearly doubled its stockpile of fuel enriched to 20 percent purity -- a level that experts say could be converted to bomb grade in months -- it still does not possess enough of that fuel to produce a complete nuclear weapon.",0.030498623847961426,0.44582340121269226
+8231,"Some of the 20 percent fuel is in a form that is extremely difficult to use in a bomb, and most of the stockpile is composed of a fuel enriched at a lower level that would take considerably longer to process for weapons use.",0.01015425007790327,0.7577751278877258
+8231,The report says that Iran has produced 417 pounds of uranium enriched to 20 percent.,0.02121877670288086,0.20458203554153442
+8231,"That is not enough for a single nuclear weapon, but for the first time, the figure exceeds the quantity needed to make fuel for the Tehran Research Reactor.",0.03625515475869179,0.43156522512435913
+8231,Iran has long pointed to that reactor as the rationale for its 20 percent enrichment.,0.017112912610173225,0.4066292345523834
+8234,Report Finds Perils at Atom Plant Greater Than Energy Dept.,0.005305395927280188,0.8871079683303833
+8234,"Said
+
+The decision by the Energy Department to close part of the Rocky Flats nuclear weapon plant this month was based on far more extensive safety problems than the department publicly acknowledged at the time, according to a report by the General Accounting Office, the investigative and auditing arm of Congress.",0.010646531358361244,0.6841753125190735
+8234,"Reached in Washington today, the chief spokesman for the department responded to the report by saying it appeared to be correct.",0.14676426351070404,0.007288296241313219
+8234,"Reached in Washington today, the chief spokesman for the department responded to the report by saying it appeared to be correct.",0.14676426351070404,0.007288296241313219
+8234,"The report, a copy of which was obtained by The New York Times, comes at a critical point for the nation's nuclear weapon industry, a number of whose production centers are now closed, largely because of safety problems uncovered there.",0.028046293184161186,0.46902263164520264
+8234,"In Washington today, the Governor of Ohio, a majority of the House Armed Services Committee and an anti-nuclear group took steps to pressure the Reagan Administration to raise the industry's safety standards.",0.037647854536771774,0.124571293592453
+8234,[Page B10.],0.051793862134218216,0.02479523792862892
+8234,"Mr. Heintz also said Rockwell and the department had reached agreement on a new five-year contract for managing Rocky Flats beginning this fall, although he said it had not yet been signed.",0.08195170760154724,0.004154880065470934
+8234,"Key Part of Network
+Rocky Flats is a particularly important part of the nation's weapon production network, because it is the only plant that makes plutonium triggers for nuclear bombs and the only one that recycles plutonium from old warheads into new bombs.",0.7238516211509705,0.004415425937622786
+8234,"Building 771, an aging structure built in 1951, is the main center for reprocessing plutonium.",0.046957843005657196,0.01447637565433979
+8234,"Mr. Whiteman, a slender, mild-mannered man with a Charlie Chaplin mustache, recounted the Sept. 29 contamination incident in dry tones, complete with a slide projector and a pointer.",0.06094355136156082,0.05896753817796707
+8234,"But over shouts of ''Shut it down'' and ''Nuclear weapons are illegal'' from some members of the audience, he did provide some new information.",0.09364569932222366,0.21177460253238678
+8234,"Under questioning by a member of the council, Mr. Whiteman acknowledged that there might have been a worrisome amount of plutonium in the air inside Building 771.",0.013369610533118248,0.26909080147743225
+8234,"The plant produces about one boxcar of waste a week, and he said that each boxcar was loaded with 140 55-gallon drums of waste and that each drum was permitted by Energy Department regulations to contain up to 200 grams of plutonium.",0.028331955894827843,0.18434318900108337
+8234,"Niels Schonbeck, a biochemist on the council, immediately pointed out that 200 grams of plutonium, highly combustible in contact with the air, is twice the amount that Rocky Flats says would cause a serious nuclear accident - what the plant calls a ''maximum credible accident'' - if it were to be released.",0.020549435168504715,0.32445472478866577
+8234,"In some Energy Department reports, this is described as what would happen if a 747 jetliner crashed into the plant.",0.016249097883701324,0.3253003656864166
+8235,"Report May Complicate Denials by Iran
+
+WASHINGTON -- Even as Iran on Tuesday angrily dismissed a new United Nations report on its nuclear ambitions as an American fabrication and a pretext for military action, some analysts said the report's wealth of data could complicate efforts by Iran and its allies to defend the nuclear program as peaceful.",0.019327543675899506,0.38784369826316833
+8235,"In the past, Iranian diplomats have repeatedly challenged United Nations weapons inspectors to publish any evidence that Iran is seeking nuclear weapons.",0.012184756807982922,0.46711814403533936
+8235,"Now the inspectors have done that, in a landmark report that cites numerous documents from a variety of sources suggesting that Iran has tried to build warheads.",0.04585825279355049,0.120520681142807
+8235,"Now the inspectors have done that, in a landmark report that cites numerous documents from a variety of sources suggesting that Iran has tried to build warheads.",0.04585825279355049,0.120520681142807
+8235,"The weight of evidence in the new report might even alter the calculus of Russia and China, who have for years been Iran's chief defenders against European and American claims about Iran's nuclear intentions, analysts said.",0.0215307604521513,0.23862449824810028
+8235,"But it is unlikely, at least for now, to alter their resistance to a military strike intended to disable Iran's uranium enrichment facilities.",0.011861469596624374,0.44215264916419983
+8235,"But in a possible indication of deepening concern, Iranian officials have also stepped up a campaign of threats to retaliate massively against any military action, with one lawmaker warning Tuesday that such a strike would make a battlefield not of Iran but of ''the entire Europe and the U.S.,'' according to Iran's Fars news agency.",0.011048579588532448,0.5494223833084106
+8235,"On Tuesday, President Mahmoud Ahmadinejad of Iran delivered a speech before the report's release mocking Western claims about the nuclear program -- which Iran maintains is for civilian purposes only -- and saying that Iran did not need nuclear weapons to ''cut off the hands of the United States.''",0.027929645031690598,0.16392935812473297
+8235,"After the report was released, Iran's state news agency, IRNA, published a more detailed rebuttal, saying the new evidence was all derived from a laptop said to have been stolen from an Iranian official in 2004.",0.018355460837483406,0.2783404290676117
+8235,"After the report was released, Iran's state news agency, IRNA, published a more detailed rebuttal, saying the new evidence was all derived from a laptop said to have been stolen from an Iranian official in 2004.",0.018355460837483406,0.2783404290676117
+8235,"The news agency noted that the International Atomic Energy Agency's director, Yukiya Amano, visited Washington last week, and accused him of following American orders to release the report.",0.020032834261655807,0.18727825582027435
+8235,"And somewhat bizarrely, the news agency argued that the detailed simulations and tests described in the document might have been purely speculative and unrelated to any real weapons program.",0.010484217666089535,0.6454896330833435
+8235,There is no evidence in those documents to prove that the studies have been changed into practical projects or activities.'',0.013008443638682365,0.6193529367446899
+8235,"Finally, IRNA referred to diplomatic cables released by WikiLeaks in 2010 in which Mr. Amano appeared to say that his position on Iran's nuclear program was not substantially different from the American administration -- an admission it takes as proof that he is an American pawn.",0.020777279511094093,0.3023681044578552
+8235,"It is true that the basic allegations in the report are not substantially new, and have been discussed by experts for years.",0.11046084761619568,0.04743121191859245
+8235,"It is true that the basic allegations in the report are not substantially new, and have been discussed by experts for years.",0.11046084761619568,0.04743121191859245
+8235,"Many of them appear to be those first uncovered in the laptop stolen in 2004, said Muhammad Sahimi, a professor of chemical engineering and materials science at the University of Southern California who has written extensively on Iran's nuclear program.",0.02270665019750595,0.10250480473041534
+8235,But the new report states that the allegations have been corroborated in evidence provided by 10 member nations and by the inspectors' own research.,0.14866358041763306,0.015996893867850304
+8236,"Report Raises New Doubts On Iran Nuclear Program
+
+The International Atomic Energy Agency said in a report on Thursday that Iran had made new but incomplete disclosures about its past nuclear activities, missing a critical deadline under an agreement with the agency and virtually assuring a new push by the United States to impose stricter international sanctions.",0.00949745625257492,0.5617823600769043
+8236,"In the report, the agency confirmed for the first time that Iran had reached the major milestone of 3,000 operating centrifuges, a tenfold increase from just a year ago.",0.47189825773239136,0.00582517683506012
+8236,"In the report, the agency confirmed for the first time that Iran had reached the major milestone of 3,000 operating centrifuges, a tenfold increase from just a year ago.",0.47189825773239136,0.00582517683506012
+8236,"In theory, that means that it could produce enough uranium to make a nuclear weapon within a year to 18 months.",0.09951882064342499,0.05058576166629791
+8236,"But the agency said that the centrifuges -- fast-spinning machines used to enrich uranium -- were operating well below their capacity, and that so far it had not discovered any evidence that Iran was enriching to a level that would produce bomb-grade fuel.",0.010337422601878643,0.6161323189735413
+8236,"But the agency said that the centrifuges -- fast-spinning machines used to enrich uranium -- were operating well below their capacity, and that so far it had not discovered any evidence that Iran was enriching to a level that would produce bomb-grade fuel.",0.010337422601878643,0.6161323189735413
+8236,"The report made clear that even while providing some answers, Iran has continued to shield many aspects of its nuclear program.",0.01684030331671238,0.47704750299453735
+8236,"Iran's ''cooperation has been reactive rather than proactive,'' the report said, adding that because of restrictions Iran has placed on inspectors the agency's understanding of the full scope of Iran's nuclear program is ''diminishing.''",0.007871504873037338,0.6433830261230469
+8236,"The Bush administration, which suspects Iran of having a nuclear weapons program, seized on the report's findings as evidence of Tehran's determination to forge ahead with its nuclear program in defiance of the United Nations Security Council.",0.011842500418424606,0.5967000126838684
+8236,"''We think that today's report does not in any way, shape or form answer the questions that the U.N. Security Council has had about Iran's nuclear program,'' R. Nicholas Burns, the under secretary of state for political affairs, said.",0.007959142327308655,0.5769326686859131
+8236,''Nothing in today's I.A.E.A.,0.04032016918063164,0.2737826704978943
+8236,''Nothing in today's I.A.E.A.,0.04032016918063164,0.2737826704978943
+8236,report alleviates our major concern that Iran is trying to develop the technology that would lead to a nuclear capability.'',0.04510238394141197,0.2646555006504059
+8236,"The British Foreign Office, meanwhile, urged Tehran to ''come clean on all outstanding issues without delay.''",0.059207484126091,0.04038403183221817
+8236,The report clearly acknowledges that Iran has ignored for more than a year the Security Council's demand that it stop enriching uranium.,0.007136761210858822,0.8031836748123169
+8236,Iran's leaders hailed the report as proof that it had been truthful about its nuclear program and was right to resist Western pressure to halt the program.,0.30071762204170227,0.02821170911192894
+8236,"''The world will see that the Iranian nation has been right and the resistance of our nation has been correct,'' President Mahmoud Ahmadinejad said in Iran.",0.6236226558685303,0.008985476568341255
+8236,"''The world will see that the Iranian nation has been right and the resistance of our nation has been correct,'' President Mahmoud Ahmadinejad said in Iran.",0.6236226558685303,0.008985476568341255
+8236,"Iran's new chief nuclear negotiator, Saeed Jalili, told reporters that the report ''means all the claims that Iran's nuclear activities have a military agenda and are deviant are not true,'' and that the basis for Security Council sanctions ''has collapsed.''",0.008805613033473492,0.6792899370193481
+8236,"At the United Nations, Zalmay Khalilzad, the American ambassador, said the United States would move for a new Council resolution imposing additional sanctions on Tehran.",0.035710204392671585,0.034887898713350296
+8236,"The confirmation that Iran has 3,000 operational centrifuges suggests that it is quickly moving to a position where it could, if it wanted to, produce a bomb.",0.040928132832050323,0.18584005534648895
+8236,Iran has denied that it seeks a nuclear weapon.,0.01644699089229107,0.376097708940506
+8236,"Under the terms of a ''work plan'' concluded last summer, Iran was to have met a series of deadlines to resolve all unanswered questions about suspicious nuclear activities dating back two decades.",0.0323498360812664,0.047874126583337784
+8236,"Mohamed ElBaradei, the Egyptian lawyer who leads the agency, was harshly criticized by skeptics who said that deal would simply give Iran more time to stall while progressing toward its goal of making a nuclear weapon.",0.011354324407875538,0.5385211706161499
+8236,"Dr. ElBaradei defended the plan at the time, saying there were ''clear deadlines'' that proved it was ''not an open-ended invitation to dallying with the agency or a ruse to prolong negotiations and avoid sanctions.''",0.04725120589137077,0.09995166212320328
+8236,They said the deadlines could slip into January or February.,0.018693234771490097,0.06995679438114166
+8236,The report acknowledged that Iran had provided the agency with considerable new documentation and allowed interviews with top nuclear officials involved in the centrifuge program in the 1980s and 1990s.,0.07488192617893219,0.017666345462203026
+8236,"Iran ''has provided sufficient access to individuals and has responded in a timely manner to questions and provided clarifications and amplifications on issues raised in the context of the work plan,'' the report said.",0.2729526162147522,0.013894540257751942
+8236,But it concluded that additional verification was needed to guarantee that the explanations were complete.,0.10697931051254272,0.025902841240167618
+8236,One senior official linked to the nuclear agency described overall progress on the work plan as ''a significant step forward.'',0.6438359618186951,0.006223167292773724
+8236,"But he said that he ''would not call'' the centrifuge file ''closed,'' stressing that verification was a ''continuous process.''",0.03273830935359001,0.09864718466997147
+8236,"He compared the agency's information to a jigsaw puzzle of the Mona Lisa, saying that it was a painting of a ''charming, good-looking young lady, smiling,'' but that there were ''bits and pieces missing.''",0.09486641734838486,0.1354479044675827
+8236,"In Washington, the Institute for Science and International Security, a private group that tracks nuclear issues, said  the report ''shows the centrifuge issue is not closed.''",0.023110268637537956,0.08797480911016464
+8236,One major concern centers on a new generation of centrifuges that Mr. Ahmadinejad last year claimed Iran was developing.,0.01303675677627325,0.5552117228507996
+8236,"The report said that Iran on divulged some information about the P-2 program on Nov. 8, adding that it would discuss the issue further in December.",0.02051825076341629,0.02841227501630783
+8236,That means Iran missed a reporting deadline to clear up the issue even while pursuing the far more sophisticated and faster way of making atomic fuel.,0.017988264560699463,0.5897219777107239
+8236,American officials and inspectors fear the new generation of centrifuges could speed Iran's path to developing a nuclear weapon.,0.014049581252038479,0.5503265261650085
+8236,"One of the officials close to the agency said that even if all other issues of Iran's past activities were resolved, a sticking point could be the refusal of the United States to turn over classified documents Iran is demanding that involve a suspected Iranian entity called the Green Salt Project.",0.012745632790029049,0.3295060992240906
+8236,All officials spoke on condition of anonymity under normal diplomatic rules.,0.07609224319458008,0.03014012984931469
+8236,"The project is said to have worked on uranium processing, high explosives and a missile warhead design, and the agency suspects links between Green Salt and Iran's ostensibly peaceful nuclear program.",0.027801351621747017,0.08649397641420364
+8236,"If that evidence were substantiated, it would undercut Iran's claims that its program is aimed solely at producing electrical power.",0.03905403986573219,0.21016891300678253
+8236,"''Iran's active cooperation and full transparency are indispensable for full and prompt implementation of the work plan,'' the report said.",0.4649524390697479,0.01301941554993391
+8236,The report also faulted Iran for continuing to deny  inspectors broad access to its nuclear facilities and manufacturing sites under a voluntary protocol that Iran has suspended.,0.005985176656395197,0.7613673210144043
+8236,The agency's limited access means that it cannot say with certainty that Iran does not have a secret weapons-related uranium enrichment program.,0.010693104937672615,0.5298473834991455
+8236,The agency's 35-nation board  is to meet next week to discuss the report.,0.03028257191181183,0.008408503606915474
+8236,"Javier Solana, the European Union's foreign policy chief, is expected to deliver a second separate report on the status of negotiations with Iran's nuclear team.",0.029863405972719193,0.013384280726313591
+8236,"Mr. Solana represents the five permanent members of the Security Council -- the United States, Russia, China, France and Britain -- plus Germany in a stalemated process designed to persuade Iran to suspend its enrichment activities as required by the Council.",0.07058639079332352,0.019403204321861267
+8238,"Report Says Iran Has Data to Make Bomb
+
+Senior staff members of the United Nations nuclear agency have concluded in a confidential analysis that Iran has acquired ''sufficient information to be able to design and produce a workable'' atom bomb.",0.04896416887640953,0.04580531269311905
+8238,"The report by experts in the International Atomic Energy Agency stresses in its introduction that its conclusions are tentative and subject to further confirmation of the evidence, which it says came from intelligence agencies and its own investigations.",0.024216318503022194,0.09189393371343613
+8238,"But the report's conclusions, described by senior European officials, go well beyond the public positions taken by several governments, including the United States, and follow the revelation of a new underground nuclear enrichment center under construction near the Iranian city of Qum.",0.04031882807612419,0.06519744545221329
+8238,"Questioned on Sunday about whether Iran was closer to producing a nuclear weapon, General James L. Jones, the U.S. national security adviser, said, ''No, we stand by the reports that we've put out.''",0.02368421107530594,0.12478140741586685
+8238,"At the same time, he said that Iran's recent show of greater cooperation was a positive development.",0.8474103212356567,0.003992173355072737
+8238,"In Tehran, the director of the I.A.E.A., Mohammed ElBaradei, announced on Sunday that the United Nations agency would inspect the suspect site near Qum on Oct. 25, and he praised a shift ''from conspiracy to cooperation'' by Iran, Reuters reported.",0.07941696792840958,0.016028601676225662
+8238,"Two years ago, American intelligence agencies published a detailed report concluding that Tehran halted its efforts to design a nuclear weapon in 2003.",0.013379290699958801,0.34221968054771423
+8238,"But in recent months, Britain has joined France, Germany and Israel in disputing that conclusion, saying the work has been resumed.",0.021062996238470078,0.19766822457313538
+8238,"But in recent months, Britain has joined France, Germany and Israel in disputing that conclusion, saying the work has been resumed.",0.021062996238470078,0.19766822457313538
+8238,"The atomic agency's report presents evidence that beyond improving upon bomb-making information gathered from rogue nuclear experts around the world, Iran has done extensive research and testing on how to fashion the components of a weapon.",0.03833857178688049,0.13427363336086273
+8238,It does not say how far that work has progressed.,0.0215742364525795,0.4275496006011963
+8238,It does not say how far that work has progressed.,0.0215742364525795,0.4275496006011963
+8238,"The report, titled ''Possible Military Dimensions of Iran's Nuclear Program,'' was produced in consultation with a range of nuclear weapons experts inside and outside the agency.",0.022396225482225418,0.036682069301605225
+8238,"It draws a picture of a complex program, run by Iran's Ministry of Defense, ''aimed at the development of a nuclear payload to be delivered using the Shahab-3 missile system,'' Iran's medium-range missile, which can strike the Middle East and parts of Europe.",0.023474128916859627,0.23781931400299072
+8238,"The program, according to the report, apparently began in early 2002.",0.026493599638342857,0.018865445628762245
+8238,"The program, according to the report, apparently began in early 2002.",0.026493599638342857,0.018865445628762245
+8238,"If Iran is designing a warhead, that would represent only part of the complex process of making nuclear arms.",0.011815204285085201,0.6140682101249695
+8238,"Experts say Iran has already mastered the hardest part, enriching the uranium that can be used as nuclear fuel.",0.05064576119184494,0.15897029638290405
+8238,"While the analysis represents the judgment of the nuclear agency's senior staff, a struggle has erupted in recent months over whether to make it public.",0.017300117760896683,0.24900907278060913
+8238,"The dispute pits the agency's departing director, Dr. ElBaradei, against his own staff and against foreign governments eager to intensify pressure on Iran.",0.00898230355232954,0.5566279888153076
+8238,"Responding to calls for the report's release, he has raised doubts about its completeness and reliability.",0.010906379669904709,0.5328231453895569
+8238,"Last month, the agency issued an unusual statement cautioning it ''has no concrete proof'' that Iran ever sought to make nuclear arms, much less to perfect a warhead.",0.010009422898292542,0.47006237506866455
+8238,"On Saturday in India, Dr. ElBaradei was quoted as saying that ''a major question'' about the authenticity of the evidence kept his agency from ''making any judgment at all'' on whether Iran had ever sought to design a nuclear warhead.",0.018544353544712067,0.13665571808815002
+8238,"Even so, the emerging sense in the intelligence world that Iran has solved the major nuclear design problems poses a new diplomatic challenge for President Barack Obama and his allies.",0.2568085193634033,0.03304826095700264
+8238,"American officials say that in the direct negotiations with Iran that began last week, it will be vital to get the country to open all of its suspected sites to international inspectors.",0.244507297873497,0.01800392009317875
+8238,"That is a long list, topped by the facility at Qum.",0.23392553627490997,0.11908968538045883
+8238,"Iran has acknowledged that the underground facility there is intended for nuclear enrichment, but says the fuel it makes will be used solely to produce nuclear power and medical isotopes.",0.024934427812695503,0.11969806998968124
+8238,"It was kept heavily protected, Iranian officials said, to ward off potential attacks.",0.05960690975189209,0.04028285667300224
+8238,Iran said last week that it would allow inspectors to visit the site this month.,0.05092058703303337,0.014290537685155869
+8238,"In the past three years, amid mounting evidence of a possible military dimension to its nuclear program, Iran has denied the agency wide access to installations, documents and personnel.",0.008767171762883663,0.561918318271637
+8238,"In recent weeks, there have been leaks about the internal report, perhaps intended to press Dr. ElBaradei into releasing it.",0.015189138241112232,0.21786627173423767
+8238,"The report's existence has been rumored for months, and The Associated Press, saying it had seen a copy, reported fragments of it in September.",0.04143955186009407,0.05685623362660408
+8238,"On Friday, more detailed excerpts appeared on the Web site of the Institute for Science and International Security, run by David Albright, a nuclear expert.",0.06254500150680542,0.007525700144469738
+8238,"In recent interviews, a senior European official familiar with the report described it to The New York Times.",0.02457362227141857,0.040276896208524704
+8238,But he added that it was ''not ready for publication as an official document.'',0.008629129268229008,0.5844106078147888
+8238,"Most dramatically, the report says the agency ''assesses that Iran has sufficient information to be able to design and produce a workable implosion nuclear device'' based on highly enriched uranium.",0.04104803130030632,0.27635544538497925
+8238,Weapons based on the principle of implosion are considered advanced models compared with the simple gun-type bomb that the United States dropped on Hiroshima.,0.06887636333703995,0.20487293601036072
+8238,Weapons based on the principle of implosion are considered advanced models compared with the simple gun-type bomb that the United States dropped on Hiroshima.,0.06887636333703995,0.20487293601036072
+8238,"They use a blast wave from a sphere of conventional explosives to compress a ball of bomb fuel into a supercritical mass, starting the atomic chain reaction and progressing to the fiery blast.",0.0394870825111866,0.17596520483493805
+8238,"Implosion designs, compact by nature, are considered necessary for making nuclear warheads small and powerful enough to fit atop a missile.",0.17331673204898834,0.03868664801120758
+8238,"The excerpts of the analysis also suggest the Iranians have done a wide array of research and testing to perfect nuclear arms, like making high-voltage detonators, firing test explosives and designing warheads.",0.08783014863729477,0.039268627762794495
+8238,"The evidence underlying these conclusions is not new: Some of it was reported in a confidential presentation to many nations in early 2008 by the agency's chief inspector, Ollie Heinonen.",0.03923211619257927,0.061100948601961136
+8238,by its staff concluded that the evidence of Iran's alleged military activity was probably genuine.,0.03091130033135414,0.14471934735774994
+8238,"It said: ''the information contained in that documentation appears to have been derived from multiple sources over different periods of time, appears to be generally consistent, and is sufficiently comprehensive and detailed that it needs to be addressed by Iran with a view to removing the doubts'' about its nuclear program.",0.23361492156982422,0.02422623708844185
+8238,The agency's tentative analysis also says that Iran ''most likely'' obtained the needed information for designing and building an implosion bomb ''from external sources.'',0.015347949229180813,0.27820855379104614
+8238,"Khan, the rogue Pakistani black marketer.",0.00892943236976862,0.7386102676391602
+8238,"That information may have been supplemented by a Russian nuclear weapons scientist, investigators say.",0.02183230221271515,0.13400724530220032
+8240,"Report Showing Rise in Iran's Nuclear Activity Exposes Split Between U.S. and U.N.
+
+A report released Thursday showing a slow but steady expansion of Iran's nuclear technology has exposed a new divide between United Nations arms inspectors and the United States and its allies over how to contain Tehran's atomic program.",0.018192293122410774,0.2672737240791321
+8240,The International Atomic Energy Agency said in its report that Iran was being unusually cooperative and had reached an agreement with the agency to answer questions about an array of suspicious past nuclear activities that have led many nations to suspect it harbors a secret effort to make nuclear arms.,0.0734860971570015,0.027308350428938866
+8240,"The agency added that while Tehran's uranium enrichment effort is growing, the output is far less than experts had expected.",0.016701608896255493,0.513814389705658
+8240,"Sanctions alone, I know for sure, are not going to lead to a durable solution.''",0.007195038255304098,0.8766952157020569
+8240,"The agreement, announced Monday, laid out a timetable of cooperation with the goal of wrapping up by December nuclear issues that have been under investigation for four years.",0.08130449801683426,0.022175518795847893
+8240,"By then, Dr. ElBaradei said, the agency will know whether Iran was ''serious'' or ''was trying to take us for a ride.''",0.02853735350072384,0.14033840596675873
+8240,"By then, Dr. ElBaradei said, the agency will know whether Iran was ''serious'' or ''was trying to take us for a ride.''",0.02853735350072384,0.14033840596675873
+8240,"The report released Thursday, a quarterly update of Iran's nuclear activity, said the country was operating nearly 2,000 centrifuges, the machines that enrich uranium, at its vast underground plant at Natanz, an increase of several hundred from three months ago.",0.044745322316884995,0.042725883424282074
+8240,"More than 650 additional centrifuges are being tested or are under construction, the agency said.",0.024075036868453026,0.04325586184859276
+8240,"In addition, the agency said that uranium was enriched to a lower level than the Iranians had claimed.",0.03899964317679405,0.06253299862146378
+8240,These results have raised questions among private experts and officials at the atomic agency about whether Iran is facing technical difficulties or has made a political decision to curtail its nuclear operations.,0.009369865991175175,0.4150766432285309
+8240,"Low enriched uranium can fuel power reactors, and highly enriched uranium can fuel a bomb.",0.0255508441478014,0.4055432379245758
+8240,"Low enriched uranium can fuel power reactors, and highly enriched uranium can fuel a bomb.",0.0255508441478014,0.4055432379245758
+8240,"David Albright, president of the Institute for Science and International Security, a private group in Washington that tracks nuclear proliferation, said his own calculations, based on the report's data, suggested that Iran was operating its centrifuges at as little as 10 percent of their potential.",0.019949980080127716,0.24764125049114227
+8240,"''That's very low -- and we don't know why,'' he said.",0.007092936430126429,0.841536283493042
+8240,"The evolving divide places Dr. ElBaradei in conflict with President Bush, and not for the first time.",0.00923638604581356,0.651281476020813
+8240,The White House bristled in 2003 when Dr. ElBaradei reported that there was no evidence to support claims that Iraq was reconstituting its nuclear program.,0.009822378866374493,0.6632869243621826
+8240,Later the administration tried to block Dr. ElBaradei's nomination for a second term at the agency just months before he won the 2005 Nobel Peace Prize.,0.030555790290236473,0.24754196405410767
+8240,"But now the administration needs Dr. ElBaradei, an Egyptian diplomat, more than ever, because his agency's findings have formed the core of its case against Iran.",0.2712973952293396,0.04561830312013626
+8240,The conflict between the atomic agency and the United States and its allies centers on whether Iran should be afforded a modicum of trust after years of deception about its nuclear efforts.,0.016533024609088898,0.34592223167419434
+8240,"In its report, the I.A.E.A.",0.05751320719718933,0.014864832162857056
+8240,"In its report, the I.A.E.A.",0.05751320719718933,0.014864832162857056
+8240,"said that Iran had recently provided fresh information that resolved a series of questions about a part of its nuclear program that deals with plutonium, which can also be used as bomb fuel.",0.05419209599494934,0.015537646599113941
+8240,"After Iran resisted agency entreaties for two years, agency officials said, it suddenly provided access to a key expert, documentation and other data that allowed them to declare the plutonium questions answered to their satisfaction.",0.12023863941431046,0.02837347611784935
+8240,"Tehran, in turn, praised the agency, saying it had vindicated Iran.",0.7395765781402588,0.008113469928503036
+8240,"''This report ended all the baseless U.S. accusations against Iran,'' Mohammad Saeedi, deputy head of Iran's Atomic Energy Organization, was quoted as saying by the state-run IRNA news agency.",0.09841369092464447,0.043337058275938034
+8240,''Once again the agency confirmed the validity of Iran's stances.'',0.1990380883216858,0.012791161425411701
+8240,"One involves what Western intelligence officials say is a secretive Iranian entity called the Green Salt Project, which worked on uranium processing, high explosives and a missile warhead design.",0.016093065962195396,0.23349657654762268
+8240,They suspect links between Green Salt and Iran's ostensibly peaceful nuclear program.,0.02054663561284542,0.2810039818286896
+8240,"If that evidence were substantiated, it would undercut Iran's assertions that its program's sole aim is producing electrical power.",0.038094453513622284,0.23191982507705688
+8240,Another sensitive issue that the agency wants to explore with Tehran is how it acquired the skill to build two types of centrifuges that can enrich uranium.,0.028360985219478607,0.08178708702325821
+8240,"Iran has also agreed to explain a document it received from the network of Abdul Qadeer Khan, the Pakistani nuclear engineer, showing how to cast uranium into hemispheres to form the core of an atom bomb.",0.029035713523626328,0.07341203093528748
+8240,Dr. ElBaradei said he told the Iranians that this was a critical moment for candor.,0.11878043413162231,0.025258542969822884
+8241,"Report Suggests Problems With Iran's Nuclear Effort
+
+Atomic inspectors reported Tuesday that Iran mysteriously stopped feeding uranium into thousands of centrifuges at its main enrichment plant this month, and independent experts suggested that the computer worm suspected of being aimed at Iran's nuclear program had caused the spinning machines to break down.",0.008326434530317783,0.6062650084495544
+8241,"Iran vehemently denied that assertion, and the experts said they had no proof that the unexplained shutdown resulted from the so-called Stuxnet worm -- a malicious program detected this year on computers, primarily in Iran but also in India, Indonesia and other countries.",0.00923389196395874,0.679096519947052
+8241,"Iran vehemently denied that assertion, and the experts said they had no proof that the unexplained shutdown resulted from the so-called Stuxnet worm -- a malicious program detected this year on computers, primarily in Iran but also in India, Indonesia and other countries.",0.00923389196395874,0.679096519947052
+8241,"Cyberattackers ''tried to infiltrate our country's nuclear sites'' beginning a year ago, Ali Akbar Salehi, the head of the country's atomic program, told an Iranian news agency on Tuesday.",0.010380668565630913,0.534343421459198
+8241,But he added that ''the country's young experts stopped the virus exactly at those points that enemies intended to infiltrate.'',0.06605582684278488,0.15504010021686554
+8241,But he added that ''the country's young experts stopped the virus exactly at those points that enemies intended to infiltrate.'',0.06605582684278488,0.15504010021686554
+8241,"Recently, Western experts dissecting the computer worm reported that it was precisely fabricated in a way that could send nuclear centrifuges wildly out of control.",0.010745485313236713,0.6712173819541931
+8241,"The report on Tuesday from the International Atomic Energy Agency said that its inspectors, when visiting the sprawling main enrichment plant at Natanz, in the Iranian desert, on Nov. 16, found that engineers had stopped feeding uranium into the long rows of centrifuges.",0.02026686817407608,0.14887824654579163
+8241,"Six days later, Iran said it had restarted the process.",0.03316348418593407,0.025886300951242447
+8241,"In other words, the plant's output had remained roughly the same despite Iran's putting many more resources into the job.",0.1115589439868927,0.041536685079336166
+8241,"''The efficiency is down,'' said a European nuclear expert familiar with the report of the atomic inspectors, who spoke on the condition of anonymity because of the diplomatic sensitivity.",0.013853884302079678,0.5041160583496094
+8241,"David Albright, president of the Institute for Science and International Security, a private group in Washington that tracks nuclear proliferation, said in an interview that the new disclosures made incapacitation from the Stuxnet worm ''sound more credible.''",0.04675222188234329,0.05278203636407852
+8241,"American officials have not claimed responsibility for the worm, but they do say the Obama administration has stepped up a broad covert program, inherited from the Bush administration, to undermine Iran's nuclear program.",0.008704029023647308,0.6919896006584167
+8241,"Starting in 2006, the United Nations Security Council has repeatedly called on Iran to halt its rush for uranium enrichment and has punished the nation with four rounds of sanctions for its refusal.",0.011700957082211971,0.6107147932052612
+8241,"Starting in 2006, the United Nations Security Council has repeatedly called on Iran to halt its rush for uranium enrichment and has punished the nation with four rounds of sanctions for its refusal.",0.011700957082211971,0.6107147932052612
+8241,"Iran insists that its nuclear work is peaceful, while the West fears it has built enrichment factories and is enriching uranium to make fuel for atomic bombs.",0.025475086644291878,0.39044201374053955
+8241,"The report also said that Tehran, extending a rebuff that began more than two years ago, had once again refused to answer questions about possible military work by its nuclear program.",0.007304228376597166,0.5530744791030884
+8241,"The inspectors said the agency had provided Iran in late October with a list of outstanding questions about documents and other material that appeared to be studies involving nuclear weapons, which Iran has repeatedly dismissed as forgeries.",0.014041494578123093,0.4484405517578125
+8241,"The questions centered on safety arrangements, project management related to nuclear explosives, ''details of the manufacture of components for high explosives initiation systems'' and experiments involving subatomic particles that can act as nuclear triggers.",0.025918440893292427,0.07644739747047424
+8241,"The questions to Iranian officials, according to the report, stressed resolving ''all of the issues which have given rise to concerns about the possible military dimensions.''",0.019461996853351593,0.17011016607284546
+8241,"The questions to Iranian officials, according to the report, stressed resolving ''all of the issues which have given rise to concerns about the possible military dimensions.''",0.019461996853351593,0.17011016607284546
+8241,"The report added that the atomic agency ''remains concerned about the possible existence in Iran of past or current undisclosed nuclear related activities,'' including ''development of a nuclear payload for a missile.''",0.009512270800769329,0.4763500392436981
+8247,"Reports Back Alternative for Bomb Fuel
+
+Seizing a nuclear reactor from a utility company and converting it to make tritium for use in bombs, as envisioned in an executive order signed Friday by President Reagan, presents no serious technical obstacles and appears to be substantially faster than building a new military tritium producer, according to two studies done last year by the Department of Energy.",0.2942778766155243,0.012957597151398659
+8247,"The studies explored buying an unfinished civilian reactor on the Government's nuclear reservation at Hanford, Wash., and modifying it to make tritium or plutonium.",0.01680472120642662,0.04999304562807083
+8247,But the research can also be viewed as a blueprint for taking over an existing reactor of the same design as the one at Hanford and loading it with new fuel that would be turned to tritium when irradiated inside the reactor.,0.02774902619421482,0.11219198256731033
+8247,"In an emergency, making the fuel and target elements could probably be accelerated, experts say, and some existing Government facilities could be converted for that purpose.",0.051274899393320084,0.07315688580274582
+8247,"Engineers at the Babcock & Wilcox Company and the Westinghouse Electric Corporation, two manufacturers of commercial nuclear reactors, said yesterday that a reactor could be converted into an inefficient but still useful tritium producer in a matter of months.",0.1198999360203743,0.03268146142363548
+8247,"The two studies of Washington Public Power Supply System plant 1, a 1,250-megawatt reactor, were completed last year.",0.035981953144073486,0.017718423157930374
+8247,The Department of Energy's existing production reactors do not.,0.014206659980118275,0.2000378966331482
+8247,"A conversion also creates the hazard that after a fuel melting accident of the kind that occured at Three Mile Island, an uncontrollable nuclear reaction could spontaneously resume in the reactor vessel as a molten pool of enriched uranium formed.",0.012527831830084324,0.5524224638938904
+8247,But an August 1988 study said that such a hazard exists at other military plants.,0.014673827216029167,0.4864566922187805
+8247,The physics of producing tritium would be similar in a civilian or a military plant.,0.04338758811354637,0.08380179852247238
+8247,"In both cases, a special type of lithium would be exposed to neutrons, the sub-atomic particles that are released when radioactive atoms are split and which carry on the nuclear reaction by going on to split additional atoms.",0.03671383112668991,0.0663011372089386
+8247,"The neutrons would break apart the litium atoms into one atom of helium and one of tritium, a form of hydrogen with two extra neutrons.",0.05205914005637169,0.03243391588330269
+8247,But the process would not be as efficient in a civilian reactor as it is in a military one.,0.011940734460949898,0.6711157560348511
+8250,"Republican Congressman Says of Gaza: ‘It Should Be Like Nagasaki and Hiroshima’
+
+Representative Tim Walberg denied that he was advocating the use of nuclear weapons and said that his town hall remarks were taken out of context.",0.013912554830312729,0.3976195752620697
+8250,"A Republican House member from Michigan openly mused during a town hall last week about wiping out Gaza, telling his constituents that “it should be like Nagasaki and Hiroshima.”
+“Get it over quick,” Representative Tim Walberg said, according to a video that emerged online from the March 25 event in Dundee, Mich.
+His remarks, invoking the U.S. atomic bombings of Japan during World War II while discussing his opposition to U.S. humanitarian aid for Gaza, drew swift condemnation, including at least one call for his resignation.",0.016993798315525055,0.4387402832508087
+8250,He said that his remarks were taken out of context and that the clip showed only part of his response.,0.008003474213182926,0.600536584854126
+8250,"In a post on X on Sunday morning, Mr. Walberg, 72, a former pastor and a longtime House member who represents southern Michigan, sought to clean up his remarks and accused his critics of twisting his words.",0.025339562445878983,0.10237603634595871
+8250,"“As a child who grew up in the Cold War Era, the last thing I’d advocate for would be the use of nuclear weapons,” he wrote.",0.01817343197762966,0.6895890831947327
+8250,"“In a shortened clip, I used a metaphor to convey the need for both Israel and Ukraine to win their wars as swiftly as possible, without putting American troops in harm’s way.”
+Mr. Walberg’s office also provided an audio recording and a transcript of the exchange that prompted his remarks.",0.065640889108181,0.08365017175674438
+8251,"Republican Congressman Suggests Wiping Out Gaza
+
+Representative Tim Walberg denied that he was advocating the use of nuclear weapons and said that his town hall remarks were taken out of context.",0.01598159223794937,0.29142946004867554
+8251,"A Republican House member from Michigan openly mused during a town hall last week about wiping out Gaza, telling his constituents that ''it should be like Nagasaki and Hiroshima.''",0.01142567303031683,0.6397716403007507
+8251,"A Republican House member from Michigan openly mused during a town hall last week about wiping out Gaza, telling his constituents that ''it should be like Nagasaki and Hiroshima.''",0.01142567303031683,0.6397716403007507
+8251,"''Get it over quick,'' Representative Tim Walberg said, according to a video that emerged online from the March 25 event in Dundee, Mich.
+  His remarks, invoking the U.S. atomic bombings of Japan during World War II while discussing his opposition to U.S. humanitarian aid for Gaza, drew swift condemnation, including at least one call for his resignation.",0.01635018363595009,0.3874660134315491
+8251,He said that his remarks were taken out of context and that the clip showed only part of his response.,0.008003474213182926,0.600536584854126
+8251,"In a post on X on Sunday morning, Mr. Walberg, 72, a former pastor and a longtime House member who represents southern Michigan, sought to clean up his remarks and accused his critics of twisting his words.",0.025339562445878983,0.10237603634595871
+8251,"''As a child who grew up in the Cold War Era, the last thing I'd advocate for would be the use of nuclear weapons,'' he wrote.",0.016581416130065918,0.7082581520080566
+8251,"''In a shortened clip, I used a metaphor to convey the need for both Israel and Ukraine to win their wars as swiftly as possible, without putting American troops in harm's way.''",0.07258890569210052,0.12613585591316223
+8258,"Required Reading 'On Reagan'
+
+Increasing belief that a nuclear war is coming is itself very dangerous.",0.0134747214615345,0.687873363494873
+8258,"Officials of the superpowers, knowing the calamity that being hit by a first strike would be, are likelier to strike first if they think such a war is coming anyway.",0.026574451476335526,0.5493267178535461
+8258,"Officials of the superpowers, knowing the calamity that being hit by a first strike would be, are likelier to strike first if they think such a war is coming anyway.",0.026574451476335526,0.5493267178535461
+8258,Yet defeatism about preventing nuclear war is spreading just as the world is entering what Senators Kennedy and Hatfield call ''the impending era of first- strike temptations.'',0.010464351624250412,0.7749993205070496
+8258,"''First-strike capability'' (as defined, for instance, in a 1969 C.I.A.",0.04711976647377014,0.030167557299137115
+8258,"''First-strike capability'' (as defined, for instance, in a 1969 C.I.A.",0.04711976647377014,0.030167557299137115
+8258,study) is one nation's ability to launch a surprise nuclear attack against another one without receiving in retaliation damage that it would regard as ''unacceptable.'',0.014664431102573872,0.5421399474143982
+8258,"A superpower that achieved first-strike capability might decide to destroy its adversary nation, but a nation so threatened might strike first to avoid being struck first.",0.03263845294713974,0.34509921073913574
+8258,"A superpower that achieved first-strike capability might decide to destroy its adversary nation, but a nation so threatened might strike first to avoid being struck first.",0.03263845294713974,0.34509921073913574
+8258,"In 1983 former Senator Jacob Javits, the New York Republican, wrote, in an aside, that there are suspicions in both the U.S. and the U.S.S.R. that the superpowers are plotting atomic war.",0.020012114197015762,0.14109519124031067
+8258,"''Weapons are about to be deployed,'' according to Kennedy and Hatfield, ''that would compel one side to strike first in a crisis.",0.017762910574674606,0.25286033749580383
+8258,"Both sides could pass beyond the 'first-strike' threshold, where either side might assume that it had first-strike capability and first- strike vulnerability simultaneously.",0.062116216868162155,0.033333249390125275
+8258,The inexorable development of nuclear technology is heading inevitably to a world governed by a 'use them or lose them' nuclear psychology.,0.031094323843717575,0.5450788140296936
+8258,"Seen over a five-year span, Reagan's statements that the Soviets are preparing to fight and win a nuclear war are doubly alarming because they are resonant with so many implications.",0.018108129501342773,0.6416333913803101
+8258,In 1975 he said that SALT II ''guarantees the Soviets a clear missile superiority sufficient to make a first strike possible with little fear of reprisal.'',0.22620543837547302,0.02517113834619522
+8258,"His 1979 formulation of this same idea was: ''While we plan to prevent a war, the Soviets plan to win a war.''",0.031220892444252968,0.26513323187828064
+8258,In 1980 he said ''the Soviet Union decided some time ago that a nuclear war was possible and was winnable.'',0.06210045889019966,0.11822651326656342
+8258,"He appeared to believe that the U.S. did not have the ability to inflict unacceptable damage on the U.S.S.R. after absorbing a Soviet first strike, telling Business Week that we needed either a defensive system or ''an offensive weapon that would give us a second-strike capability.''",0.011671756394207478,0.6515817642211914
+8258,"He appeared to believe that the U.S. did not have the ability to inflict unacceptable damage on the U.S.S.R. after absorbing a Soviet first strike, telling Business Week that we needed either a defensive system or ''an offensive weapon that would give us a second-strike capability.''",0.011671756394207478,0.6515817642211914
+8258,On radio he quoted Brezhnev and Soviet military and propaganda officials to the effect that world socialism would be victorious in a nuclear war and that civil defense was a decisive factor in ''the attainment of victory.'',0.13271455466747284,0.054586779326200485
+8258,"None of the Soviets' statements threatened to start a nuclear war, but perhaps Reagan was conveying a suspicion that they might do it.",0.013502505607903004,0.5250899791717529
+8258,"If so, he was only mirroring Soviet suspicions about the U.S.",0.017733193933963776,0.47268036007881165
+8268,"Researchers Pursue An Atomic Mystery
+
+Fifty years after the fact, historians and other researchers are still studying the possibility that uranium from a captured Nazi submarine went into the mix of raw materials used to make the atomic bombs that the United States dropped on Japan at the end of World War II.",0.03897552937269211,0.05590147525072098
+8268,The reason for the mystery is that Government records available for public scrutiny are silent on what happened to the radioactive cargo of the U-234.,0.008531004190444946,0.5164288282394409
+8268,The reason for the mystery is that Government records available for public scrutiny are silent on what happened to the radioactive cargo of the U-234.,0.008531004190444946,0.5164288282394409
+8268,"Now, a former official of the Manhattan Project, which built the first nuclear weapons, says he has no doubt that the United States used the explosive material.",0.04855725169181824,0.11396025866270065
+8268,"Article, page 22.",0.060595061630010605,0.015316999517381191
+8273,"Reshaping Nuclear Rules
+
+Behind President Bush's recent shift in dealing with Iran's nuclear program lies a less visible goal: to rewrite, in effect, the main treaty governing the spread of nuclear technology, without actually renegotiating it.",0.015087932348251343,0.43636754155158997
+8273,"In their public statements and background briefings in recent days, Mr. Bush's aides have acknowledged that Iran appears to have the right -- on paper, at least -- to enrich uranium to produce electric power.",0.09593359380960464,0.019409531727433205
+8273,But Mr. Bush has managed to convince his reluctant European allies that the only acceptable outcome of their negotiations with Iran is that it must give up that right.,0.0454031378030777,0.3696478307247162
+8273,"In what amounts to a reinterpretation of the Nuclear Nonproliferation Treaty, Mr. Bush now argues that there is a new class of nations that simply cannot be trusted with the technology to produce nuclear material even if the treaty itself makes no such distinction.",0.01563240773975849,0.4274730682373047
+8273,"So far the administration has not declared publicly that its larger goal beyond Iran is to remake a treaty whose intellectual roots date back to the Eisenhower administration, under the cold war banner of ''Atoms for Peace.''",0.016006018966436386,0.41481447219848633
+8273,"To state publicly that Iran is really a test case of Mr. Bush's broader effort, one senior administration official said, ''would complicate what's already a pretty messy negotiation.''",0.009977531619369984,0.6064342856407166
+8273,"To state publicly that Iran is really a test case of Mr. Bush's broader effort, one senior administration official said, ''would complicate what's already a pretty messy negotiation.''",0.009977531619369984,0.6064342856407166
+8273,But just three days before the White House announced its new approach to Iran -- in which it allowed Europe to offer broader incentives in return for an agreement to ask the United Nations for sanctions if Iran refuses to give up the ability to make nuclear material -- Mr. Bush issued a statement that left little doubt about where he was headed.,0.03502695634961128,0.10938488692045212
+8273,"The statement was advertised by the White House as a routine commemoration of the treaty's 35th anniversary, and a prelude to a meeting in May in New York to consider its future.",0.05679808184504509,0.006442469544708729
+8273,It never mentioned Iran by name.,0.018688827753067017,0.448339581489563
+8273,"But after lauding the past accomplishments of the treaty, also known as the N.P.T., in limiting the spread of nuclear arms, Mr. Bush went on to say, ''We cannot allow rogue states that violate their commitments and defy the international community to undermine the N.P.T.",0.14346502721309662,0.06822532415390015
+8273,'s fundamental role in strengthening international security.,0.5148928761482239,0.013093476183712482
+8273,'s fundamental role in strengthening international security.,0.5148928761482239,0.013093476183712482
+8273,''We must therefore close the loopholes that allow states to produce nuclear materials that can be used to build bombs under the cover of civilian nuclear programs.'',0.017623942345380783,0.4535437524318695
+8273,"On Sunday, his new national security adviser, Stephen J. Hadley, took the next step, making clear the connection to the current crisis with Iran.",0.04330728203058243,0.020733779296278954
+8273,"On Sunday, his new national security adviser, Stephen J. Hadley, took the next step, making clear the connection to the current crisis with Iran.",0.04330728203058243,0.020733779296278954
+8273,"Yes, he said on CNN, the Iranians say their nuclear work is entirely for peaceful purposes.",0.12682092189788818,0.03353162482380867
+8273,"He cited no new evidence of a secret Iranian project to build a bomb, though that is what the Central Intelligence Agency and officials like Mr. Hadley insist is happening.",0.016734084114432335,0.4590093195438385
+8273,"He cited no new evidence of a secret Iranian project to build a bomb, though that is what the Central Intelligence Agency and officials like Mr. Hadley insist is happening.",0.016734084114432335,0.4590093195438385
+8273,"(Inspectors from the International Atomic Energy Agency say they join in the suspicion, but have no compelling evidence.)",0.016265269368886948,0.3785560727119446
+8273,But Mr. Hadley emphasized that Iran's leaders ''keep their secrets very well.'',0.23332726955413818,0.017154617235064507
+8273,"Israel, India and Pakistan never signed it.)",0.03991773724555969,0.3294048309326172
+8273,"After a visit to Tehran last week for a conference that Iran sponsored to explain its nuclear ambitions, George Perkovich, a nuclear expert at the Carnegie Endowment for International Peace in Washington, said he had concluded that Mr. Bush had the right instinct, but might not be taking the right approach.",0.02404649369418621,0.1316279172897339
+8273,"''The Iranians have decided to go on the offensive and simply assert their right, even if the treaty doesn't explicitly say that they have a right to enrich their own uranium,'' he said Monday.",0.018627332523465157,0.19936242699623108
+8273,"''The Iranians have decided to go on the offensive and simply assert their right, even if the treaty doesn't explicitly say that they have a right to enrich their own uranium,'' he said Monday.",0.018627332523465157,0.19936242699623108
+8273,"The view expressed by Iran's nuclear negotiators, he said, amounted to ''We're not hiding it, we're not embarrassed by it, and no one is going to take our right away.''",0.059888023883104324,0.15616486966609955
+8273,"Iran's leaders are still testing the Europeans, believing that in the end, Europe will decide to take the risk of letting Iran manufacture its own nuclear fuel rather than engage in a confrontation, Mr. Perkovich said.",0.03129136189818382,0.1116744726896286
+8273,At the heart of Mr. Bush's concern is a fundamental flaw in the treaty.,0.010219615884125233,0.7398177981376648
+8273,At the heart of Mr. Bush's concern is a fundamental flaw in the treaty.,0.010219615884125233,0.7398177981376648
+8273,"As long as nations allow inspections and declare their facilities and nuclear work, they get the atomic agency's seal of approval and, often, technical aid.",0.1471489667892456,0.026856418699026108
+8273,"But there is nothing to prevent a country, once it has learned how to enrich uranium or reprocess spent nuclear fuel rods, from withdrawing from the treaty and moving full-bore toward a bomb.",0.02003747783601284,0.429893434047699
+8273,"North Korea did exactly that two years ago, and now says it reprocessed a huge cache of spent nuclear fuel to make it suitable for weapons.",0.036315035074949265,0.29694604873657227
+8273,"While American intelligence estimates vary, the consensus appears to be that that is enough to produce six or eight nuclear weapons.",0.049928970634937286,0.19459345936775208
+8273,"While Mr. Bush and the director general of the I.A.E.A., Dr. Mohamed ElBaradei, have different proposals to deal with the problem, they agree that established nuclear nations should supply fuel to countries that need it.",0.044327229261398315,0.10182632505893707
+8273,"While this would help ensure that no nation could secretly produce bomb-grade fuel, smaller countries say they should not be dependent on the West or international consortiums for a crucial source of energy.",0.06572125107049942,0.2620064914226532
+8273,"A little more than a year ago, after the arrest of A.Q.",0.023077169433236122,0.03129167854785919
+8273,"Khan, the Pakistani nuclear engineer who helped arm Iran, North Korea and Libya, Mr. Bush announced a proposal: in the future, the world will not allow countries to manufacture nuclear fuel.",0.037358421832323074,0.21103285253047943
+8273,"He exempted any nation already producing it -- meaning the United States, many European nations and Japan, among others.",0.06463291496038437,0.0778503492474556
+8273,"So far, he has done little to turn that proposal into legal language, and so far he has garnered almost no support.",0.005976760759949684,0.9108989834785461
+8273,"But the nuclear clock is ticking, and some of Mr. Bush's aides fear that Iran is heading the same way as North Korea did in the 1990's -- playing out the negotiations while its scientists and engineers pick up skills, leaving open a withdrawal from the treaty.",0.011289331130683422,0.5032768249511719
+8273,"Alternatively, some in the C.I.A.",0.03595716878771782,0.04164915531873703
+8273,"Alternatively, some in the C.I.A.",0.03595716878771782,0.04164915531873703
+8273,"believe that there are really two nuclear projects under way in Iran: a public one that inspectors visit, and a parallel, secret one on the country's military reservations.",0.06877901405096054,0.06346288323402405
+8273,"The Iranians deny that, but admit they have built huge tunnels at some crucial sites and buried other facilities altogether.",0.007831129245460033,0.7606553435325623
+8282,"Restraints Fray and Risks Grow As Nuclear Club Gains Members
+
+The declaration last Monday by North Korea that it had conducted a successful atomic test brought to nine the number of nations believed to have nuclear arms.",0.029749209061264992,0.18521910905838013
+8282,"But atomic officials estimate that as many as 40 more countries have the technical skill, and in some cases the required material, to build a bomb.",0.08515693247318268,0.15347810089588165
+8282,"That ability, coupled with new nuclear threats in Asia and the Middle East, risks a second nuclear age, officials and arms control specialists say, in which nations are more likely to abandon the old restraints against atomic weapons.",0.01755124144256115,0.44290703535079956
+8282,The spread of nuclear technology is expected to accelerate as nations redouble their reliance on atomic power.,0.24142830073833466,0.01580584980547428
+8282,"That will give more countries the ability to make reactor fuel, or, with the same equipment and a little more effort, bomb fuel -- the hardest part of the arms equation.",0.03842810541391373,0.43205803632736206
+8282,"Argentina, Australia and South Africa are drawing up plans to begin enriching uranium, and other countries are considering doing the same.",0.058953724801540375,0.010870163328945637
+8282,Egypt is reviving its program to develop nuclear power.,0.26391032338142395,0.010044431313872337
+8282,Concern about the situation led the International Atomic Energy Agency to summon hundreds of government officials and experts from around the world to Vienna in September to discuss tightening restrictions on who is permitted to produce nuclear fuel.,0.02460932545363903,0.1609053909778595
+8282,"''These dangers are urgent,'' Sam Nunn, an expert on nuclear proliferation and a former Democratic senator, told the group.",0.021451862528920174,0.1785946935415268
+8282,"''We are in a race between cooperation and catastrophe and, at this moment, the outcome is unclear.''",0.009986264631152153,0.6518778204917908
+8282,"''We are in a race between cooperation and catastrophe and, at this moment, the outcome is unclear.''",0.009986264631152153,0.6518778204917908
+8282,But even the atomic agency itself exemplifies some of the underlying tensions inherent in the development of nuclear energy.,0.011359905824065208,0.5566167235374451
+8282,"For decades, the I.A.E.A., known as the world's nuclear policeman, has pursued its other mandate -- to promote safe nuclear power -- by running technical aid programs with roughly a hundred states.",0.19649113714694977,0.013347570784389973
+8282,"Some of that knowledge could be useful in a weapons program, though the aid is meant exclusively for civilian use.",0.07315174490213394,0.12945009768009186
+8282,"Some of that knowledge could be useful in a weapons program, though the aid is meant exclusively for civilian use.",0.07315174490213394,0.12945009768009186
+8282,"The agency still helps Pakistan, which exploded a nuclear bomb in 1998.",0.011949553154408932,0.6450241208076477
+8282,It also helped North Korea until a decade ago.,0.22464877367019653,0.05102485045790672
+8282,"Even today, it is assisting Iran, which many experts fear is close to mastering the basics of making a bomb.",0.01337494794279337,0.7684492468833923
+8282,"It has 14 programs under way with Iran, including a study on upgrading a nuclear research laboratory, as well as helping it start up its Bushehr reactor.",0.15025006234645844,0.007082957774400711
+8282,"North Korea's reported test has shaken the nuclear status quo and raised anew the question of whether Asia will be the first to feel a nuclear ''domino effect,'' in which states clandestinely hedge their bets by assembling the crucial technologies needed to make a bomb, or actually cross the line to become new weapons states.",0.015798503533005714,0.3031238913536072
+8282,"In the Middle East, the confrontation with Iran has focused new attention on countries like Saudi Arabia and Egypt, both of which fear that an Iranian bomb would make Tehran the greatest power in the region.",0.020639317110180855,0.5277120471000671
+8282,"In the Middle East, the confrontation with Iran has focused new attention on countries like Saudi Arabia and Egypt, both of which fear that an Iranian bomb would make Tehran the greatest power in the region.",0.020639317110180855,0.5277120471000671
+8282,"Mohamed ElBaradei, the director general of the I.A.E.A., has estimated that up to 49 nations now know how to make nuclear arms, and he has warned that global tensions could push some over the line.",0.0310329869389534,0.1654779464006424
+8282,"''We are relying,'' he said, ''primarily on the continued good intentions of these countries -- intentions which are in turn based on their sense of security or insecurity, and could therefore be subject to rapid change.''",0.15778276324272156,0.061689574271440506
+8282,Worry about proliferation is hardly new.,0.03111974336206913,0.49151328206062317
+8282,"In March 1963, President John F. Kennedy said, ''I am haunted by the feeling that by 1970, unless we are successful, there may be 10 nuclear powers instead of 4, and by 1975, 15 or 20.''",0.021787362173199654,0.45351511240005493
+8282,That timetable proved to be inaccurate.,0.008440014906227589,0.8399493098258972
+8282,"But in recent years there has been a sense around the globe that President Kennedy's prediction is about to come true, three decades late.",0.146054208278656,0.10124194622039795
+8282,"Kofi Annan, the United Nations secretary general, said this year that ''the international community seems almost to be sleepwalking'' down a path where states, after long living without nuclear arms, now feel compelled to revisit their logic.",0.022042743861675262,0.34620729088783264
+8282,"He warned of a new arms race -- not one of superpowers, but of regional powers.",0.016224300488829613,0.4834960699081421
+8282,"He warned of a new arms race -- not one of superpowers, but of regional powers.",0.016224300488829613,0.4834960699081421
+8282,"''Perhaps most damaging of all,'' he concluded, ''there is also a perception that the possession of nuclear and other weapons of mass destruction offers the best protection against being attacked.''",0.0063629732467234135,0.8655574321746826
+8282,"A New Nuclear Vision
+  Democrats and Republicans spent the past week arguing over who lost control of North Korea, Bill Clinton or George W. Bush.",0.033407967537641525,0.38412708044052124
+8282,"But seeds of the problem were planted by President Dwight D. Eisenhower, just months after the armistice ended the fighting on the Korean Peninsula in 1953.",0.00994857493788004,0.5193347930908203
+8282,"But seeds of the problem were planted by President Dwight D. Eisenhower, just months after the armistice ended the fighting on the Korean Peninsula in 1953.",0.00994857493788004,0.5193347930908203
+8282,"''It is not enough to take this weapon out of the hands of soldiers,'' President Eisenhower told the United Nations that year, just as his administration was completing a series of 11 nuclear tests.",0.02158755250275135,0.45733314752578735
+8282,''It must be put in the hands of those who will know how to strip its military casing and adapt it to the arts of peace.'',0.10920903086662292,0.08881402760744095
+8282,''It must be put in the hands of those who will know how to strip its military casing and adapt it to the arts of peace.'',0.10920903086662292,0.08881402760744095
+8282,"His program was called Atoms for Peace, and soon involved dozens of nations, all seeking to unlock the magic of nuclear power.",0.45623043179512024,0.008467108942568302
+8282,"The first generation of nuclear reactors sprang up around the globe, as did a huge supporting industry and an international overseer, the I.A.E.A.",0.3173953592777252,0.007975121960043907
+8282,"But almost from the start, evidence accumulated that countries were using the civil alliances and reactor technologies to make bombs.",0.016983212903141975,0.5184895396232605
+8282,"But almost from the start, evidence accumulated that countries were using the civil alliances and reactor technologies to make bombs.",0.016983212903141975,0.5184895396232605
+8282,"By 1960, France had joined the United States, Britain and the Soviet Union as a nuclear weapons state.",0.025812719017267227,0.03878949582576752
+8282,China conducted its first test in 1964.,0.04979892447590828,0.027573464438319206
+8282,"Israel had the bomb by 1967, India by 1974, South Africa by 1982 (it has since given up its weapons) and Pakistan by 1998.",0.023470938205718994,0.25740480422973633
+8282,"All but the original three built their weapons by exploiting at least some technologies that were ostensibly civilian, nuclear analysts say.",0.03039482608437538,0.12487072497606277
+8282,They enriched uranium beyond the low level needed for power reactors.,0.03068375587463379,0.2917340099811554
+8282,"Or they mined the spent fuel of civil reactors for plutonium -- the path that North Korea started taking in the late 1980's or early 1990's, according to American intelligence officials.",0.015625666826963425,0.1322740912437439
+8282,"The international atomic agency, which still inscribes Atoms for Peace on its business cards, has worked hard to fight this kind of cheating while also helping with the basic technology.",0.2925030589103699,0.04715583845973015
+8282,"In the 1980's, it aided Iran's hunt for uranium.",0.016299691051244736,0.5008929967880249
+8282,That's the whole point.'',0.15693818032741547,0.19288352131843567
+8282,"Many of the agency's cooperative projects use nuclear science to humanitarian ends, like fighting disease and treating cancer.",0.3637007176876068,0.01406235434114933
+8282,But others involve more basic atomic skills.,0.13399368524551392,0.0902467742562294
+8282,"''We provide expert services,'' Dr. Salema said, ''so they can learn to do things for themselves.''",0.3460189402103424,0.011024928651750088
+8282,"''We provide expert services,'' Dr. Salema said, ''so they can learn to do things for themselves.''",0.3460189402103424,0.011024928651750088
+8282,"The Technology Boom
+  The Manhattan project scientists who built the first atom bomb predicted that the diffusion of their secret knowledge was inevitable.",0.47121813893318176,0.013055111281573772
+8282,It was just a question of time.,0.207825168967247,0.09991581737995148
+8282,That is becoming easier because of developments both overt and covert.,0.6152473092079163,0.014013088308274746
+8282,"Abdul Qadeer Khan, a chief architect of Pakistan's nuclear arms program who went on to establish the world's largest atomic black market, sold the secrets of how to make centrifuges for enriching uranium to Libya, Iran and North Korea.",0.022011123597621918,0.31705600023269653
+8282,"Tehran insists its intentions are entirely peaceful, though most analysts judge that all three countries bought from the black market because they wanted to make nuclear arms.",0.10218757390975952,0.10195504128932953
+8282,"Dr. Khan sold plans and parts for Pakistan's first-generation centrifuge, the P-1, as well as the next generation, the P-2, which can spin faster to enrich uranium more rapidly.",0.10717587172985077,0.014570184051990509
+8282,"Dr. Khan sold plans and parts for Pakistan's first-generation centrifuge, the P-1, as well as the next generation, the P-2, which can spin faster to enrich uranium more rapidly.",0.10717587172985077,0.014570184051990509
+8282,Investigators are still trying to learn where else Dr. Khan may have planted his nuclear seeds.,0.012214782647788525,0.24815234541893005
+8282,"They discovered outposts of his network in Dubai, Malaysia and South Africa and found that before his downfall in 2004 he visited at least 18 countries, including Egypt, Niger, Nigeria, Sudan, Syria and Saudi Arabia.",0.04913436993956566,0.023243848234415054
+8282,"They discovered outposts of his network in Dubai, Malaysia and South Africa and found that before his downfall in 2004 he visited at least 18 countries, including Egypt, Niger, Nigeria, Sudan, Syria and Saudi Arabia.",0.049134306609630585,0.023243922740221024
+8282,"The worrisome enrichment trends involve not just stealthy military advances but also soaring demands for nuclear power, driven by rising populations, dwindling oil supplies and fears that the combustion of fossil fuels is warming the planet.",0.012040916830301285,0.6841808557510376
+8282,"''The nuclear renaissance is gaining momentum,'' said George B. Assie, vice president for business development at Cameco, the world's largest publicly traded uranium company, based in Canada.",0.6070248484611511,0.004179875832051039
+8282,"In London, the World Nuclear Association says 28 new reactors are under construction, 62 planned, and 160 proposed, most in Asia.",0.045968715101480484,0.01110767386853695
+8282,"The required uranium, it estimates, could run to more than 65,000 tons.",0.06452803313732147,0.050373729318380356
+8282,"The required uranium, it estimates, could run to more than 65,000 tons.",0.06452803313732147,0.050373729318380356
+8282,"While it is not clear if the expansion of the world's civilian atomic infrastructure will ultimately lead to a rise in the number of countries building nuclear arms, it could give more countries the means to do so.",0.12598516047000885,0.039769332855939865
+8282,There are two main ways to turn civilian technology to military use.,0.028010455891489983,0.33650389313697815
+8282,"In May, Brazil, despite growing pressure to give up indigenous production, inaugurated its first uranium enrichment plant -- an assembly of advanced centrifuges in Resende, in the state of Rio de Janeiro.",0.18923361599445343,0.009249570779502392
+8282,"While Iran has aroused global suspicions for erecting a similar plant, Brazil managed to reassure other nations, and the international atomic agency, that its aims are peaceful.",0.09102325886487961,0.09178260713815689
+8282,"''We have an urgent need to expand the electric system,'' said Leonam dos Santos Guimaraes, an official of Electronuclear, which operates nuclear power plants in Brazil.",0.10882556438446045,0.02255488932132721
+8282,Forecasting the size of the revitalized global industry is difficult.,0.05108625441789627,0.2952635586261749
+8282,"Even so, the predictions can be staggering.",0.04950574412941933,0.5342708230018616
+8282,"Hans-Holger Rogner, an economist at the international atomic agency, said that many forecasts for the 21st century foresaw huge expansions beyond the 443 power reactors now operating globally.",0.21603433787822723,0.0072667864151299
+8282,"''An increase to 5,000 reactors is well within the range of many of the longer-range studies,'' Dr. Rogner said, adding: ''People are positioning themselves.",0.14019232988357544,0.011876977980136871
+8282,There seems to be a race coming and nobody wants to be left out.'',0.2257278710603714,0.14297868311405182
+8282,"A Complex Game
+  A day after North Korea's nuclear test, Japan's new prime minister, Shinzo Abe, vowed not to abandon Japan's commitment to reject and never possess nuclear weapons, a cornerstone of Japanese foreign policy since Hiroshima and Nagasaki.",0.06274379789829254,0.06180158257484436
+8282,"But, even so, Japan already has all the component parts.",0.11385093629360199,0.04842009395360947
+8282,"It has many tons of plutonium left over from the operation of its reactors, according to a 2004 government report to the I.A.E.A.",0.023766858503222466,0.12320934236049652
+8282,A small nuclear warhead requires only 10 pounds.,0.20808322727680206,0.07879328727722168
+8282,"Japan is the ultimate example of a ''nuclear option'' state, a country that the world knows could become an atomic power virtually overnight, if need be.",0.23232810199260712,0.06900162249803543
+8282,"''They could be very far down the road toward a virtual deterrent and not be in violation of any of the existing international treaties,'' said Robert L. Gallucci, the former chief American negotiator with North Korea, and now dean of Georgetown University's school of foreign service.",0.04875373840332031,0.058201856911182404
+8282,"''They could be very far down the road toward a virtual deterrent and not be in violation of any of the existing international treaties,'' said Robert L. Gallucci, the former chief American negotiator with North Korea, and now dean of Georgetown University's school of foreign service.",0.04875373840332031,0.058201856911182404
+8282,South Korea has also vowed not to pursue nuclear weapons.,0.02867794781923294,0.1351657658815384
+8282,"But it has an extensive network of nuclear power reactors and a few years ago, I.A.E.A.",0.21978701651096344,0.018864508718252182
+8282,inspectors found evidence of undeclared experimentation to make highly enriched uranium.,0.02528979256749153,0.13561390340328217
+8282,inspectors found evidence of undeclared experimentation to make highly enriched uranium.,0.02528979256749153,0.13561390340328217
+8282,"In the early 1990's, South Korea signed an agreement to keep the Korean Peninsula nuclear-free -- but it signed the accord with North Korea.",0.05801289901137352,0.012988290749490261
+8282,Iran's nuclear rise has prompted concerns that the Middle East could experience similar pressures.,0.008787852711975574,0.5804609060287476
+8282,"In the region, only Israel is believed to possess nuclear arms, although it has never confirmed that.",0.016301488503813744,0.185821071267128
+8282,"If Iran -- a Shiite state -- does indeed build nuclear weapons, there are fears that Sunni powers like Saudi Arabia or Egypt will be tempted to make their own bombs.",0.013150290586054325,0.46792975068092346
+8282,"Egypt, which long ago sought to build nuclear arms, may be starting to rethink its earlier renunciation.",0.026459312066435814,0.15352444350719452
+8282,The 1998 nuclear tests by India and Pakistan shook Cairo.,0.04127106815576553,0.22108718752861023
+8282,"''Egypt's leaders had placed their bet clearly in favor of the Middle East and the world moving away from nuclear weapons,'' said Robert J. Einhorn, a former senior State Department nonproliferation official.",0.09953442960977554,0.029183821752667427
+8282,''But here was a disquieting indication that movement might be in the opposite direction.'',0.012321272864937782,0.5084601640701294
+8282,''But here was a disquieting indication that movement might be in the opposite direction.'',0.012321272864937782,0.5084601640701294
+8282,"Recently, the international atomic agency found that Egypt had kept some of its old and new efforts cloaked in secrecy, including a continuing project to acquire uranium ore in the Sinai desert.",0.017208220437169075,0.20233158767223358
+8282,"In September, Cairo announced plans to revive its stalled program to build reactors for generating nuclear power.",0.06399048119783401,0.02214287780225277
+8282,"It gave no sign of whether it, like Iran, planned to make reactor fuel on its own.",0.014834461733698845,0.3723030090332031
+8282,"So the question now is whether North Korea's test, and Iran's challenge, will change the calculus.",0.020732950419187546,0.10832607746124268
+8282,"''When additional countries get the bomb, it does create new pressures,'' said Matthew Bunn of the Kennedy School of Government at Harvard, who tracks the spread of nuclear technology.",0.019236566498875618,0.17099891602993011
+8282,"''But each country is unique and there's little risk that the dominoes will fall quickly, especially if we take steps to prevent it.''",0.03464056923985481,0.42981597781181335
+8282,"''But each country is unique and there's little risk that the dominoes will fall quickly, especially if we take steps to prevent it.''",0.03464056923985481,0.42981597781181335
+8282,"New Ground Rules
+  When atomic specialists gathered in Vienna in September to discuss new ground rules for a second nuclear age, their proceedings were fueled by the fear that some of the old restraints -- both technological and political -- are fraying.",0.019405458122491837,0.4162745177745819
+8282,The central proposal debated at the I.A.E.A.,0.053908586502075195,0.011434786021709442
+8282,The central proposal debated at the I.A.E.A.,0.053908586502075195,0.011434786021709442
+8282,"'s headquarters sounded simple: No longer should nations be permitted to develop their own means of enriching uranium to make reactor fuel, which Iran and other developing states have claimed as their inalienable right under the Nuclear Nonproliferation Treaty.",0.01982932910323143,0.4789242446422577
+8282,"Nearly 40 years after the treaty was drafted, the dangers simply seem too great.",0.009214464575052261,0.862285315990448
+8282,"Instead, the argument went, nations should band together to make multinational fuel banks where they could watch one another, making sure no fuel is diverted for bomb production.",0.03695347160100937,0.25466182827949524
+8282,"''A threat exists,'' said Sergei Kirienko, director of the Russian Federal Atomic Energy Agency.",0.012442740611732006,0.41709232330322266
+8282,"''We understand that only those solutions that are resolved together, that ensure access for all nations today, will be successful.''",0.8225055932998657,0.007727855816483498
+8282,The Bush administration has backed similar plans.,0.05280156806111336,0.05239078775048256
+8282,"But while there is agreement on the problem, solutions bogged down in bickering -- from weapons states that want to maintain their capacity and from developing nations that sniff a conspiracy to deny them the same nuclear rights that large powers have long enjoyed.",0.02296181209385395,0.46545374393463135
+8282,"''We should guard against the notion that sensitive technologies are safe in the hands of some, but pose a risk when others have access to them,'' said Buyelwa Sonjica, the energy minister of South Africa, which wants to restart its enrichment program and build up to six reactors.",0.027592359110713005,0.10845310240983963
+8282,"Few parties involved in the debate are optimistic about reform, and some say the enterprise is doomed to failure.",0.010672884061932564,0.8085295557975769
+8282,"''Nuclear power is inextricably linked with nuclear proliferation,'' the environmental group Greenpeace said in a recent statement.",0.017526360228657722,0.39672404527664185
+8282,''None of the schemes being promoted will solve this problem.,0.007261281833052635,0.8887407779693604
+8282,"So far, though, the countries that the world most wants to stop from enriching say they have seen no reason to do so.",0.042447205632925034,0.41053304076194763
+8282,"At a dinner in New York in September, President Mahmoud Ahmadinejad of Iran looked supremely confident as he batted away the idea that other countries could be relied upon to provide him with the nuclear fuel he said he needed.",0.4622596204280853,0.014787287451326847
+8282,"''Before stopping enrichment by others, why don't you stop building the next generation of nuclear weapons?''",0.023359330371022224,0.4497586786746979
+8282,he asked his American hosts.,0.037088170647621155,0.052752234041690826
+8282,he asked his American hosts.,0.037088170647621155,0.052752234041690826
+8282,"Then, smiling, he suggested that the United States just buy its nuclear fuel from Iran's new facilities.",0.06011824682354927,0.14999718964099884
+8282,"He would sell it to Washington, he said, ''with a 50 percent discount.''",0.050191767513751984,0.025294272229075432
+8284,"Rethinking the Unthinkable
+
+FIVE MYTHS ABOUT NUCLEAR WEAPONSBy Ward Wilson
+Illustrated.",0.24224528670310974,0.02376173436641693
+8284,187 pp.,0.08244586735963821,0.041349075734615326
+8284,Houghton Mifflin Harcourt.,0.05453876405954361,0.008399871177971363
+8284,"$22.THE SECOND NUCLEAR AGEStrategy, Danger, and the New Power PoliticsBy Paul Bracken306 pp.",0.02378513664007187,0.07267756015062332
+8284,Times Books/Henry Holt & Company.,0.05519022420048714,0.015150962397456169
+8284,Times Books/Henry Holt & Company.,0.05519022420048714,0.015150962397456169
+8284,$29.NUCLEAR IRANThe Birth of an Atomic StateBy David Patrikarakos340 pp.,0.056162331253290176,0.02283868007361889
+8284,I.,0.28259217739105225,0.08702237904071808
+8284,$28.,0.11294947564601898,0.0626320168375969
+8284,One of the striking features of our long coexistence with nuclear weapons is how the fear of them has receded.,0.31934699416160583,0.07976311445236206
+8284,"In the 1950s and '60s, when Hiroshima and Nagasaki were vivid memories, these novel and monstrous weapons loomed over our politics and penetrated our popular culture.",0.013394329696893692,0.7892859578132629
+8284,"In the 1950s and '60s, when Hiroshima and Nagasaki were vivid memories, these novel and monstrous weapons loomed over our politics and penetrated our popular culture.",0.013394329696893692,0.7892859578132629
+8284,The nuclear doomsday thriller ''On the Beach'' filled us with visceral dread.,0.0098158223554492,0.8805209994316101
+8284,The dark satire of ''Dr.,0.030839035287499428,0.4404514729976654
+8284,.Yes we all will go together when we go.,0.6414744853973389,0.006661546882241964
+8284,"Fear of nuclear weapons spiked for a time after 9/11, when we confronted the possibility of fissile material in the hands of stateless enemies, and you can find a reservoir of existential fear today in Israel, as it contemplates a nuclear Iran.",0.009968139231204987,0.8147017359733582
+8284,The nuclear weapons of fragile Pakistan and inscrutable North Korea preoccupy large sectors of our intelligence community.,0.013347703032195568,0.7398631572723389
+8284,But for most of us anxiety has given way to a kind of complacency.,0.026286805048584938,0.6257048845291138
+8284,But for most of us anxiety has given way to a kind of complacency.,0.026286805048584938,0.6257048845291138
+8284,"The longer we have gone without seeing nuclear weapons used, the more we assume they will not be used.",0.033727534115314484,0.5018526911735535
+8284,"Three new books challenge that complacency, from three different directions.",0.5707491040229797,0.02008443884551525
+8284,"Three new books challenge that complacency, from three different directions.",0.5707491040229797,0.02008443884551525
+8284,"''Five Myths About Nuclear Weapons'' is a roundabout and insistently counterintuitive argument for nuclear disarmament, from a writer who has spent 30 years immersed in the think-tank head games of nuclear deterrence and proliferation.",0.01129989419132471,0.5879504084587097
+8284,"Ward Wilson, who is now a senior fellow at the Monterey Institute of International Studies, predicates his argument not so much on the apocalyptic horror of these weapons as on their uselessness.",0.029075678437948227,0.3845965564250946
+8284,It has the tone of a TED talk: an avid speaker bursting with one big idea and 18 minutes to hold your attention.,0.6597038507461548,0.010974076576530933
+8284,"Wilson, as his title announces, has lined up a series of assumptions about nuclear weapons and deployed revisionist history -- or an oblique angle on history -- to knock them down.",0.012250138446688652,0.6017917990684509
+8284,Take the received wisdom about Hiroshima and Nagasaki.,0.024207742884755135,0.311023086309433
+8284,Wilson demonstrates that historically the destruction of cities has not been a way of winning wars; it is the destruction of armies that counts.,0.010369827970862389,0.7803608775138855
+8284,"To rebut the notion that nuclear weapons are a stabilizing force because they deter risky behavior, Wilson summons examples in which they did no such thing: Soviet nukes did not deter Kennedy from throwing a blockade around Cuba; American nuclear might did not deter China from entering the Korean War; Israel's unacknowledged but known arsenal did not deter Egypt and Syria from attacking in 1973.",0.02346104010939598,0.40877193212509155
+8284,"Wilson's arguments are cogently presented, though they are not quite as original or contrarian as he makes them out to be.",0.0772341936826706,0.25588706135749817
+8284,"Wilson's arguments are cogently presented, though they are not quite as original or contrarian as he makes them out to be.",0.0772341936826706,0.25588706135749817
+8284,"To his contention that nuclear weapons don't always deter risky behavior, one could readily respond: Nobody says they do.",0.01633536070585251,0.5476605296134949
+8284,But nukes have done a pretty good job of deterring the use of nukes.,0.2696933448314667,0.18180817365646362
+8284,But nukes have done a pretty good job of deterring the use of nukes.,0.2696933448314667,0.18180817365646362
+8284,"Wilson's prescription is ''a nuclear pause,'' a global freeze on the spread, modernization and financing of nuclear arsenals, until leaders of the world get it through their thick skulls that these prized weapons are no asset.",0.009858704172074795,0.7510561347007751
+8284,"To which Paul Bracken, who comes from the Herman Kahn/Henry Kissinger school of realism, would say: Good luck with that.",0.16756375133991241,0.10127837210893631
+8284,"To which Paul Bracken, who comes from the Herman Kahn/Henry Kissinger school of realism, would say: Good luck with that.",0.16756375133991241,0.10127837210893631
+8284,"The idea that nuclear weapons serve no purpose may have sounded plausible in a simpler time, when a few major powers shared a nuclear monopoly.",0.04069814085960388,0.423446387052536
+8284,"But it is a much harder sell to the newer and aspiring members, who are the subject of Bracken's ''Second Nuclear Age.''",0.05395837873220444,0.21396268904209137
+8284,"As the number of nuclear states has grown to nine, he argues, the whole game board has been upended.",0.03968712314963341,0.15702736377716064
+8284,"For nuclear newcomers, the bomb is both a product of and an instrument for nationalist aspirations.",0.03347685560584068,0.3732190728187561
+8284,"Moreover, in this new, dangerously complicated world, nuclear weapons, while they may not be exploded, are assuredly used in many ways: to bluff, to intimidate, to rally the populace, to throw opponents off balance.",0.02501521445810795,0.5724666714668274
+8284,"''Anyone who says that nuclear weapons aren't usable should take a look at North Korea,'' Bracken writes.",0.011456956155598164,0.5239200592041016
+8284,''Nuclear weapons are used every single day to extort food and oil from the rest of the world to keep the regime going.'',0.008853265084326267,0.7091929316520691
+8284,"Disarmament, he would say, is a sweet fantasy.",0.7624338865280151,0.01905864290893078
+8284,"Disarmament, he would say, is a sweet fantasy.",0.7624338865280151,0.01905864290893078
+8284,The best we can hope for is to ''manage'' the nuclear menagerie -- and we cannot be confident of success.,0.025818387046456337,0.6814936995506287
+8284,"(This is probably true, but I do wish he had spent some time on the countries that have actually given up atomic weapons or weapons programs, like South Africa, Libya and post-Soviet Ukraine.)",0.07449737191200256,0.3493172824382782
+8284,Bracken's aim is to provoke a conversation that goes beyond the familiar nuclear tropes of the cold war and considers the myriad ways nuclear weapons figure in the calculations of lesser powers as they jockey for influence.,0.04616035893559456,0.10357947647571564
+8284,"He teaches at Yale, and his prose style -- conversational, didactic and repetitive -- sounds as if it was transcribed from the lecture hall.",0.0573851503431797,0.2113986760377884
+8284,"He teaches at Yale, and his prose style -- conversational, didactic and repetitive -- sounds as if it was transcribed from the lecture hall.",0.0573851503431797,0.2113986760377884
+8284,But he draws effectively on his considerable experience of military war games to illustrate the many ways a regional rivalry might play out in a ''nuclear context.'',0.10603740066289902,0.053084734827280045
+8284,"How, for example, does Pakistan, which is clearly losing both a nuclear and a conventional arms race to a richer, technologically superior India, restore its strategic credibility?",0.03620161861181259,0.3079373240470886
+8284,Does it put its warheads on a hair trigger?,0.014192143455147743,0.056787457317113876
+8284,One excellent place to start thinking about bad options is Iran.,0.02051505632698536,0.7930911183357239
+8284,The political consensus in America and Israel -- that a nuclear-armed Iran is ''unacceptable'' -- seems to preclude thinking very hard about how either Iran or its neighbors would behave in a world that did include Iranian nukes.,0.008489460684359074,0.7152550220489502
+8284,"Bracken devotes a long, unsettling chapter to what that world might look like, and plays out a variety of mostly disturbing situations that could ensue.",0.011965515092015266,0.7347127199172974
+8284,"Bracken devotes a long, unsettling chapter to what that world might look like, and plays out a variety of mostly disturbing situations that could ensue.",0.011965515092015266,0.7347127199172974
+8284,His conclusion is that a nuclear-­armed Iran is less dangerous than the consequences of a preventive war to stop it from getting the bomb.,0.014240396209061146,0.6907990574836731
+8284,"Whether you agree with him or not (I do), contemplating the repercussions of either option should make you yearn for a negotiated end to Iran's nuclear ambitions.",0.025994526222348213,0.5050287842750549
+8284,"What has been sorely missing from the debate about Iran's nuclear program is a serious, reported effort to understand what goes on in the minds of the Iranians.",0.022026166319847107,0.504733145236969
+8284,"David Patrikarakos, a journalist who has written for a number of high-end British periodicals, fills that void with ''Nuclear Iran,'' a cleareyed history of the Iranian nuclear program, enriched by access to a number of key participants and a wealth of scholarly empathy.",0.16723322868347168,0.031697679311037064
+8284,"The book contains more administrative detail and diplomatic byplay than a lay reader will crave, but it also includes a succinct and subtle rendering of modern Iranian political history and a digestible primer on the basics of nuclear science.",0.2627658545970917,0.013690394349396229
+8284,"(For the record, Patrikarakos, unlike Bracken, believes that, as counterproductive as an attack on Iran might be, ''the prospect of a nuclear-armed Iran is worse.'')",0.017288297414779663,0.6410164833068848
+8284,"In large measure, the history of nuclear Iran is the story of the relationship (''pathology'' might be a better word) between Iran and the United States.",0.05757182836532593,0.04148164018988609
+8284,"Our present Iran problem, we are reminded, is partly of our own making.",0.011992757208645344,0.6811491250991821
+8284,"Our present Iran problem, we are reminded, is partly of our own making.",0.011992757208645344,0.6811491250991821
+8284,"We installed the shah, who embraced nuclear power as a flag of Persian modernity.",0.11304081976413727,0.04299212247133255
+8284,We indulged Saddam Hussein in his brutish attack on Iran -- a war that led Iran's Islamist government to conclude that it was on its own in the world.,0.007997007109224796,0.8310229182243347
+8284,We indulged Saddam Hussein in his brutish attack on Iran -- a war that led Iran's Islamist government to conclude that it was on its own in the world.,0.007997007109224796,0.8310229182243347
+8284,The fact that we invaded Afghanistan while paying court to terrorist-­breeding (but nuclear) Pakistan taught Iran that weapons of mass destruction command deference.,0.006165206432342529,0.8498545289039612
+8284,"Then, in the Bush axis-of-evil years, our hard-­liners convinced their hard-liners that nothing short of regime change would satisfy Washington.",0.02186538837850094,0.7059018015861511
+8284,"Add these understandable fears to a long history of xenophobia and Persian status anxiety, and it would be astounding if Iran didn't at least contemplate acquiring the bomb.",0.006951938848942518,0.8462695479393005
+8284,"And while the evidence is circumstantial and disputed, Patrikarakos entertains no doubt that Iran's nuclear ambition is in part military.",0.02484218403697014,0.325787752866745
+8284,"As early as 1984, Ali Khamenei, then president and now supreme leader, embraced a nuclear program as ''a deterrent in the hands of God's soldiers.''",0.0389169417321682,0.15614746510982513
+8284,"''No serious observer can believe that Iran's nuclear-related activities are solely for the purpose of building and maintaining nuclear power plants for civilian uses,'' Patrikarakos writes.",0.011681918986141682,0.6308864951133728
+8284,"He lays out in unsparing detail the duplicity and subterfuge employed to keep Iran's enrichment program secret, the cozy relationship with the infamous Pakistani nuclear merchant A. Q. Khan and the diplomatic stalling and gamesmanship that tortures the patience of the West.",0.011415654793381691,0.6754817366600037
+8284,"But he also demonstrates that underlying the program is Iran's deep need to secure its position and prestige in the world, that it is (''supreme irony'') a bid for acceptance, albeit on its own terms.",0.047864869236946106,0.34445202350616455
+8284,"Patrikarakos points out that in the early days of our attack on Afghanistan, Iran armed our allies, the Northern Alliance, extradited members of Al Qaeda and otherwise played on our side.",0.011969263665378094,0.4810386002063751
+8284,"Patrikarakos is convinced that the Iranians are pursuing a nuclear weapon capability, which is not the same as a nuclear arsenal.",0.01474416721612215,0.40759435296058655
+8284,"In his view, Iran's leaders know assembling and stockpiling weapons would mean leaving the Nonproliferation Treaty and becoming a pariah state.",0.010523153468966484,0.642964780330658
+8285,"Rethinking the Unthinkable
+
+Some experts want to apply recent neuroscience research to the decision making that could lead to doomsday.",0.04087180644273758,0.24253176152706146
+8285,"Nuclear war has returned to the realm of dinner table conversation, weighing on the minds of the public more than it has in a generation.",0.011995864100754261,0.7622265219688416
+8285,"It's not just ''Oppenheimer's'' big haul at the box office: Since Russia's invasion of Ukraine, the country's officials have made nuclear threats.",0.014551565982401371,0.7223058938980103
+8285,Russia has also suspended its participation in a nuclear arms control treaty with the United States.,0.009580978192389011,0.5084769129753113
+8285,North Korea has launched demonstrative missiles.,0.03785790130496025,0.2725176215171814
+8285,North Korea has launched demonstrative missiles.,0.03785790130496025,0.2725176215171814
+8285,"The United States, which is modernizing its nuclear weapons, shot down a surveillance balloon from China, which is building up its atomic arsenal.",0.038393646478652954,0.1498587429523468
+8285,"''The threat of nuclear use today, I believe, is as high as it has ever been in the nuclear age,'' said Joan Rohlfing, president and chief operating officer of the Nuclear Threat Initiative, an influential nonprofit group in Washington, D.C.",0.028531227260828018,0.32205861806869507
+8285,"In this environment, a conventional crisis runs a significant risk of turning nuclear.",0.02216253988444805,0.4755776822566986
+8285,It only requires a world leader to decide to launch a nuclear attack.,0.013285727240145206,0.670815110206604
+8285,And that decision making process must be better understood.,0.19337372481822968,0.1080692857503891
+8285,And that decision making process must be better understood.,0.19337372481822968,0.1080692857503891
+8285,"Historically, scholarship on nuclear decision making grew out of economic theory, where analysts have often irrationally assumed that a ''rational actor'' is making decisions.",0.019916780292987823,0.4039280116558075
+8285,"''We all know that humans make mistakes,'' Ms. Rohlfing said.",0.04205856844782829,0.08670242875814438
+8285,And there are so many examples of human failures over the course of history.,0.00645097391679883,0.9160559177398682
+8285,Why do we think it's going to be any different with nuclear?'',0.015793774276971817,0.5414807796478271
+8285,But growing scientific understanding of the human brain hasn't necessarily translated into adjustments in nuclear launch protocols.,0.02955174259841442,0.23656104505062103
+8285,Now there's a push to change that.,0.11997655779123306,0.06348798424005508
+8285,Now there's a push to change that.,0.11997655779123306,0.06348798424005508
+8285,"The organization led by Ms. Rohlfing, for instance, is working on a project to apply insights from cognitive science and neuroscience to nuclear strategy and protocols -- so leaders won't bumble into atomic Armageddon.",0.12730669975280762,0.02982890047132969
+8285,"But finding truly innovative, scientifically backed ideas to prevent an accidental or unnecessary nuclear attack is easier said than done.",0.06559524685144424,0.4244828522205353
+8285,So is the task of presenting the work with adequate nuance.,0.08673649281263351,0.18561147153377533
+8285,So is the task of presenting the work with adequate nuance.,0.08673649281263351,0.18561147153377533
+8285,Experts also need to persuade policymakers to apply research-based insights to real-world nuclear practice.,0.08316952735185623,0.04187643155455589
+8285,"''The boundaries of that discourse are extraordinarily well protected,'' said Anne I. Harrington, a nuclear scholar at Cardiff University in Wales, referring to internal pushback she says government insiders have faced when challenging the nuclear status quo.",0.22488780319690704,0.04154455289244652
+8285,''So anyone who thinks that they're going to make changes from the outside alone -- I think that won't happen.'',0.013853142037987709,0.7441244125366211
+8285,''So anyone who thinks that they're going to make changes from the outside alone -- I think that won't happen.'',0.013853142037987709,0.7441244125366211
+8285,The world's nuclear powers have different protocols for making the grave decision to use nuclear weapons.,0.019438888877630234,0.23701833188533783
+8285,"In the United States, absent an unlikely change to the balance of power among the branches of government, the decision rests with just one person.",0.04849883168935776,0.08458304405212402
+8285,"''The most devastating weapons in the U.S. military arsenal can be ordered into use by only the president,'' said Reja Younis of the Center for Strategic and International Studies in Washington, D.C., who is also a Ph.D. candidate in international relations at the Johns Hopkins School of Advanced International Studies.",0.028898051008582115,0.20105908811092377
+8285,"In a crisis involving nuclear arms, Ms. Younis said, the president would probably meet with the secretary of defense, military leaders and other aides.",0.033117979764938354,0.0336805023252964
+8285,"Together, they would evaluate intelligence and discuss strategy, and the advisers would present the president with possible actions.",0.04211458936333656,0.017231736332178116
+8285,"Together, they would evaluate intelligence and discuss strategy, and the advisers would present the president with possible actions.",0.04211458936333656,0.017231736332178116
+8285,"''Which could range from 'let's do nothing and see what happens' to 'let's full-scale nuclear attack,''' said Alex Wellerstein, a professor at the Stevens Institute of Technology in New Jersey and head of a research project called ''The President and the Bomb.''",0.030814295634627342,0.18716418743133545
+8285,"In the end, though, only the president makes the call -- and they can forgo guidance from advisers.",0.035921692848205566,0.19175834953784943
+8285,"''These are the president's weapons,'' Ms. Rohlfing said.",0.021601371467113495,0.16320115327835083
+8285,"Ahead of his electoral victory in 2016, experts and political opponents began raising concerns about investing in Donald J. Trump the power to order a nuclear attack.",0.015566389076411724,0.5772793292999268
+8285,That debate continued in Congress through his term.,0.037652965635061264,0.08324404805898666
+8285,That debate continued in Congress through his term.,0.037652965635061264,0.08324404805898666
+8285,"By the time he left office, the Speaker of the House, Nancy Pelosi, openly asked the chairman of the Joint Chiefs of Staff to limit his ability to launch nuclear weapons.",0.02695099450647831,0.28861311078071594
+8285,"It was in this milieu that Deborah G. Rosenblum, the executive vice president of the Nuclear Threat Initiative, invited Moran Cerf, a neuroscientist who is currently a professor at the Columbia Business School, to give a lecture to the organization in 2018.",0.04681631922721863,0.014350810088217258
+8285,He titled it ''Your Brain on Catastrophic Risk.'',0.029500314965844154,0.17247866094112396
+8285,He titled it ''Your Brain on Catastrophic Risk.'',0.029500314965844154,0.17247866094112396
+8285,"(Today, Ms. Rosenblum serves in the Biden administration as assistant secretary of defense for nuclear, chemical and biological defense programs -- an office that briefs the president on nuclear matters.)",0.0739373043179512,0.00711853988468647
+8285,"In a black T-shirt and jeans, Dr. Cerf briefed a room of experts and researchers on what brain science had to say about existentially troubling topics like nuclear war.",0.04591677710413933,0.05585845932364464
+8285,"The visit preceded a collaboration involving Dr. Cerf and a nonprofit called PopTech, whose conference Dr. Cerf hosts.",0.3163067102432251,0.0026434543542563915
+8285,"The visit preceded a collaboration involving Dr. Cerf and a nonprofit called PopTech, whose conference Dr. Cerf hosts.",0.3163067102432251,0.0026434543542563915
+8285,"The groups, with a grant from the Carnegie Corporation of New York, are working to provide the government with science-based suggestions to improve nuclear launch protocols.",0.3258295953273773,0.007046787068247795
+8285,"Changing those policies is not impossible, but would require the right political scenario.",0.04479395970702171,0.2677055299282074
+8285,"Along the way, he did mandatory military service in Israel, worked as a white-hat hacker, consulted on films and TV and won a Moth GrandSlam storytelling competition.",0.08089879900217056,0.11545806378126144
+8285,"Dr. Cerf said his primary critique of the system for starting a nuclear war is that despite advances in our understanding of the fickle brain, the status quo assumes largely rational actors.",0.026319092139601707,0.41224637627601624
+8285,"In reality, he says, the fate of millions rests on individual psychology.",0.020709922537207603,0.5243637561798096
+8285,"Maybe one commander in chief functions better in the morning, another in the evening; one is better hungry, the other better sated.",0.5102910399436951,0.04892859607934952
+8285,Other ideas for improving the protocols that Dr. Cerf has spoken about publicly generally can be traced back to existing research on decision making or nuclear issues.,0.1126214787364006,0.016728756949305534
+8285,Dr. Cerf says one important factor is speaking order during the big meeting.,0.33915409445762634,0.007368415128439665
+8285,"''That's a classic experiment done in the '50s,'' said David J. Weiss, a professor emeritus at California State University, Los Angeles, referring to studies conducted by the psychologist Solomon Asch.",0.11238162964582443,0.011575079523026943
+8285,Dr. Cerf has also proposed decreasing the time pressure of a nuclear decision.,0.10361038893461227,0.012288015335798264
+8285,The perception of a strict ticking clock to respond to a nuclear attack originated before the United States developed a more robust nuclear arsenal that might survive a first strike.,0.026662684977054596,0.2642885744571686
+8285,"''We know that compressed time is bad for most decisions and most people,'' Dr. Cerf said -- an idea that goes back to at least the 1980s.",0.012282765470445156,0.7188043594360352
+8285,"Ideally, he says, if the United States received information indicating a launch, then the president could assess it and make a decision outside the direct heat of right-away.",0.0439724363386631,0.020638931542634964
+8285,"The group's main recommendation, though, mirrors proposals by other advocates: Require another person (or people) to say yes to a nuclear strike.",0.017903855070471764,0.24790264666080475
+8285,"Dr. Wellerstein, who did not contribute to the group's research, says that such a person needs the explicit power to say no.",0.02012396603822708,0.20042099058628082
+8285,"''Our belief is that the system we have, which relies on a single decision maker, who may or may not be equipped to make this decision, is a fragile and very risky system,'' Ms. Rohlfing said.",0.01065672654658556,0.6724728941917419
+8285,"While Dr. Cerf and colleagues have other papers in the works, the research from the project that he has produced doesn't address nuclear weapons head-on.",0.023213258013129234,0.3739776909351349
+8285,"In one paper, participants made riskier decisions when they pretended to be merchants seeking deals on unidentified fruits of unknown value.",0.022514406591653824,0.36605119705200195
+8285,"In one paper, participants made riskier decisions when they pretended to be merchants seeking deals on unidentified fruits of unknown value.",0.022514406591653824,0.36605119705200195
+8285,Dr. Cerf says that research is relevant to scenarios of high risk and low probability -- like starting nuclear war -- which often have numerous sources of uncertainty.,0.06036197766661644,0.07199264317750931
+8285,"A nuclear decision maker might be unsure of whether a missile is really in the air, how high a nuke's yield is, why the missile was launched or whether more missiles will follow.",0.023807194083929062,0.2354140430688858
+8285,Another of Dr. Cerf's studies involves climate change.,0.09386063367128372,0.01199700590223074
+8285,"''You basically change your own brain without anyone telling you anything,'' Dr. Cerf said.",0.07891430705785751,0.03436936438083649
+8285,He thinks the results could be applied to nuclear scenarios because you could use bets to make people care about nuclear risk and support changes to policy.,0.1304231882095337,0.0428476519882679
+8285,The findings could also be used to evaluate the thinking and prediction of aides who advise the president.,0.03817043825984001,0.059089794754981995
+8285,"''It's just really easy to sell them stuff if you have enough bravado,'' Dr. Fischhoff said.",0.32924333214759827,0.02124161459505558
+8285,"Any brain, even a commander in chief's, has a difficult time with the large-scale empathy required to understand what launching a nuclear weapon means.",0.011456584557890892,0.8470895290374756
+8285,"''We can't really perceive what it means to kill 30 million people,'' Dr. Cerf said.",0.007696293760091066,0.7608276605606079
+8285,"''If we're faced with choices that pose a conflict between security and saving distant foreign lives to which we're numb because they're just numbers, we go with security,'' Dr. Slovic said.",0.028088565915822983,0.25870293378829956
+8285,Dr. Slovic has also researched factors that tend to make people -- including presidents -- more likely to favor a nuclear launch.,0.076102614402771,0.047735631465911865
+8285,"In one experiment, for instance, he found that the more punitive domestic policies a person supported -- like the death penalty -- the more likely the person was to approve of using the bomb.",0.023449977859854698,0.5335637927055359
+8285,"In one experiment, for instance, he found that the more punitive domestic policies a person supported -- like the death penalty -- the more likely the person was to approve of using the bomb.",0.023449977859854698,0.5335637927055359
+8285,"Other researchers, like Janice Stein, a political scientist at the University of Toronto, have looked into scenarios where military officers show a reluctance to pass information up the chain of command that may trigger a nuclear launch.",0.020018376410007477,0.11310610175132751
+8285,"That actually happened in 1983, when Col. Stanislav Petrov's command center near Moscow received data suggesting the United States had launched intercontinental ballistic missiles.",0.03319629281759262,0.05685830116271973
+8285,He was right.,0.4450608491897583,0.0872582495212555
+8285,"Because the colonel feared a nuclear war fought under false pretenses more than he feared not retaliating, a third world war did not begin.",0.013164971023797989,0.78260737657547
+8285,"In the past, Dr. Wellerstein says, nuclear launch plans have adapted to changing circumstances, philosophies and technologies.",0.10620880126953125,0.009129295125603676
+8285,"And presidents have changed the protocols because of fears that emerged in their historical moments: that the military would launch a nuke on its own, that the country would experience a nuclear Pearl Harbor or that an accident would occur.",0.013072981499135494,0.6006564497947693
+8285,Perhaps today's fear is that individual psychology governs a world-altering choice.,0.018667319789528847,0.48849889636039734
+8285,Perhaps today's fear is that individual psychology governs a world-altering choice.,0.018667319789528847,0.48849889636039734
+8285,"Given that, working to understand how brains might work in a nuclear crisis -- and how they could work better -- is worthwhile.",0.32709255814552307,0.056969910860061646
+8285,"What comes after the science -- how to change policy -- is complicated, but not impossible.",0.09530392289161682,0.12509660422801971
+8285,"What comes after the science -- how to change policy -- is complicated, but not impossible.",0.09530392289161682,0.12509660422801971
+8285,"Nuclear protocols may have a sense of permanence, but they're written in word processors, not stone.",0.03904223069548607,0.23706473410129547
+8285,"''The current system that we have didn't fall out of the sky fully formed,'' Dr. Wellerstein said.",0.07269172370433807,0.04914838820695877
+8291,"Reversing Ban, Bush Approves Deal With India For Nuclear Sales
+
+President Bush reversed a decades-old ban on nuclear cooperation with India on Monday, signing legislation allowing the United States to sell civilian nuclear fuel and technology to India for the first time since that country tested a nuclear device in 1974.",0.17238762974739075,0.009244004264473915
+8291,"Mr. Bush, who has taken a hard line against nuclear programs in Iran and North Korea, negotiated the atomic energy pact during a visit to India in March, and Congress approved the measure shortly before adjourning this month.",0.05198081210255623,0.04154941067099571
+8291,"In return for access to American technology, India must now open its nuclear program to international inspection.",0.11285640299320221,0.03582016006112099
+8291,"''This is an important achievement for the whole world,'' Mr. Bush said during a signing ceremony in the East Room of the White House.",0.909101128578186,0.00329705816693604
+8291,"''This is an important achievement for the whole world,'' Mr. Bush said during a signing ceremony in the East Room of the White House.",0.909101128578186,0.00329705816693604
+8291,"''After 30 years outside the system, India will now operate its civilian nuclear program under internationally accepted guidelines, and the whole world is going to be safer as a result.''",0.777118444442749,0.006915964651852846
+8291,Critics say the pact will open the door to nuclear proliferation.,0.009673499502241611,0.5898917317390442
+8291,"Representative Edward J. Markey, the Massachusetts Democrat who has been a leading opponent of the bill, said it ''may well become the death warrant to the international nuclear nonproliferation regime.''",0.008445498533546925,0.6704484820365906
+8291,"The White House counters that the pact serves American strategic interests by strengthening ties between India and the United States, the world's two largest democracies, and that it has no plans to offer a similar deal to any other country, including Pakistan.",0.10355757921934128,0.021840734407305717
+8291,"''The administration, I think, rightly argued that India is a unique case,'' said Bruce Riedel, who advised President Clinton on South Asia, adding, ''It's a democracy with a proven track record of not exporting its technology.''",0.1738768368959427,0.0387139655649662
+8291,"Yet Congress was concerned about the possibility that India might export its technology, so much so that lawmakers inserted a provision requiring Mr. Bush to certify that India was not transferring nuclear material or technology to Iran.",0.01594868116080761,0.3953935205936432
+8291,"R. Nicholas Burns, the under secretary of state for political affairs, said the White House construed the reporting requirement as advisory, a stance that Mr. Bush underlined by issuing a signing statement clarifying the White House's interpretation of the bill.",0.02693595178425312,0.02125340700149536
+8291,"R. Nicholas Burns, the under secretary of state for political affairs, said the White House construed the reporting requirement as advisory, a stance that Mr. Bush underlined by issuing a signing statement clarifying the White House's interpretation of the bill.",0.02693595178425312,0.02125340700149536
+8291,"Speaking to reporters before the signing on Monday, Mr. Burns said the administration was satisfied that India, which twice voted to impose sanctions on Iran for its nuclear activities, ''also wishes to deny Iran a nuclear weapons capability.''",0.11054908484220505,0.04192211478948593
+8205,"Reflecting on Nukes
+
+Somewhere along the line nuclear weapons became the Rodney Dangerfield of global threats.",0.022906381636857986,0.2910021245479584
+8205,"Sure, there's the current kerfuffle over Iran's nuclear program, but American schoolchildren aren't exactly diving under their desks about it.",0.021412527188658714,0.4653734564781189
+8205,Al Qaeda and the Islamic State and climate change and hackers are what give us the jitters.,0.010882876813411713,0.8315438628196716
+8205,"But nukes reclaim the spotlight over the next few days, or at least the attention of television.",0.07275280356407166,0.16171254217624664
+8205,"This summer is the 70th anniversary of the first atom-bomb test and of the weapon's first use in wartime, and TV loves anniversaries.",0.9010676145553589,0.0030259396880865097
+8205,"''The Bomb,'' Tuesday night on PBS, devotes two hours to the subject.",0.07563211023807526,0.005102772265672684
+8205,"''The Bomb,'' Tuesday night on PBS, devotes two hours to the subject.",0.07563211023807526,0.005102772265672684
+8205,"It was an opportunity to bring us up to date on whether nuclear weapons should still be in our Top 5 Things to Worry About, but the program is virtually all history lesson.",0.05203604698181152,0.344870001077652
+8205,"And that history, especially for people old enough to have lived it, is very familiar.",0.2783995270729065,0.03968889266252518
+8205,"And that history, especially for people old enough to have lived it, is very familiar.",0.2783995270729065,0.03968889266252518
+8205,We hear about the race to develop an atomic bomb that could be used against Germany before Germany developed one that could be used against the Allies.,0.039462193846702576,0.08398064970970154
+8205,"That, of course, led to the Manhattan Project, and the best parts of ''The Bomb'' are the recollections of people who were part of it.",0.6082945466041565,0.01937714032828808
+8205,It also leans too heavily on those funny vintage clips that make everyone back in the early days of the Cold War look like idiots.,0.015525469556450844,0.8438848853111267
+8205,"For instance, a test supposedly proved that unkempt homes were more likely to burn up in an atomic blast than well-kept ones.",0.02048090286552906,0.6271756887435913
+8205,"Yes, it's amusing, but we've been laughing at 1950s and early '60s naïveté for a long time.",0.3040023744106293,0.23714099824428558
+8205,"Yes, it's amusing, but we've been laughing at 1950s and early '60s naïveté for a long time.",0.3040023744106293,0.23714099824428558
+8205,"The arms race is dutifully chronicled and the anti-nuke movement too, but only in its final minutes does the program get around to noting that nuclear bombs are still with us and that countries other than the United States and Russia have them.",0.03416905924677849,0.4682145416736603
+8205,"There's a brief suggestion that if India and Pakistan ever go at it the whole world will suffer from collateral damage, but the thought doesn't linger.",0.01247567217797041,0.6329054832458496
+8205,"The program includes what the channel says is the last known interview with Theodore Van Kirk, navigator on the Enola Gay, which dropped the bomb on Hiroshima.",0.026763126254081726,0.024272719398140907
+8205,"Mr. Van Kirk, who died last year, summarizes what living under a nuclear cloud has meant.",0.029839973896741867,0.31274497509002686
+8205,"''I think we're all more aware of life,'' he says simply.",0.3806118965148926,0.014610407873988152
+8205,"''I think we're all more aware of life,'' he says simply.",0.3806118965148926,0.014610407873988152
+8205,"There's nothing quite so eloquent in any of the anniversary-related PBS programs, which also include ''Uranium: Twisting the Dragon's Tail'' on Tuesday and Wednesday nights, and an episode of ''Nova'' on Wednesday night that examines the Fukushima nuclear power plant calamity of March 2011.",0.01982968859374523,0.6072860360145569
+8205,"''Uranium'' features Derek Muller, creator of the YouTube science and engineering channel Veritasium, telling us everything we could want to know about uranium: What it is, how it forms, how its properties were discovered, what it's used for.",0.3358948826789856,0.004107798915356398
+8205,The ''Nova'' episode provides a somber antidote to his chirpiness.,0.2157534956932068,0.11099448800086975
+8205,"It doesn't link itself overtly to the anniversary of the atomic bomb, but you can make your own connections easily enough.",0.053597964346408844,0.15479837357997894
+8301,"Review/Television; Debate About U.S.'s Nuclear Arsenal
+
+As the Presidential candidates argue over which nuclear weapons to keep and which to cut, the complexities of nuclear policy tend to be simplified for point-scoring purposes.",0.03330551087856293,0.10676295310258865
+8301,So tonight's showing of ''To What End?'',0.04485058784484863,0.022296542301774025
+8301,"Proponents and critics of the four main directions in which a new Administration might move present their arguments in a brief and coherent way, with the help of a bit of background from Marvin Kalb.",0.09937698394060135,0.02256717160344124
+8301,"One wishes that the producer, Roger Weisberg, had resisted opening the program with a trite picture of the explosion of the atomic bomb over Hiroshima and then employing cartoons for illustration as though his audience was made up of children or nitwits, but those are small faults in a generally sensible program.",0.017080271616578102,0.7109059691429138
+8301,"The first approach to nuclear policy goes under the rubric of ''peace through strength,'' much heard these days in political rallies.",0.05502888187766075,0.13616019487380981
+8301,"Specialists from two conservative research organizations, the Hudson Institute and the Hoover Institute, warn that the Russians cannot be trusted to keep agreements and are impressed only by superior power.",0.012132850475609303,0.6706523895263672
+8301,"As Richard Pipes, of Harvard University, puts it, military superiority is ''the only way to deal with the Russians.''",0.10826008021831512,0.057663172483444214
+8301,Supporters of arms control agreements respond that superiority is ''simply unachievable'' in a nuclear age.,0.06598606705665588,0.3297812342643738
+8301,They agree with Soviet officials interviewed here that the superpowers' goal should be to reduce political tensions by agreements that offer predictability and restraint.,0.11317740380764008,0.03248584643006325
+8301,They agree with Soviet officials interviewed here that the superpowers' goal should be to reduce political tensions by agreements that offer predictability and restraint.,0.11317740380764008,0.03248584643006325
+8301,"Robert S. McNamara, Secretary of Defense in the Kennedy Administration, calls America's present nuclear strategy ''bankrupt.''",0.009070150554180145,0.6624470353126526
+8301,He recalls how his experience during the Cuban missile crisis shocked him into a conviction of the need for a system of ''minimum deterrence'' that would reduce America's nuclear arsenal to only what is needed to discourage a strike by Moscow.,0.020203137770295143,0.38192129135131836
+8301,"The third approach, advanced by the Reagan Administration, seeks safety through defense rather than offense.",0.07394570857286453,0.08221252262592316
+8301,"The means would be the Strategic Defense Initiative, popularly known as ''Star Wars.''",0.11627497524023056,0.018617013469338417
+8301,"If both sides can rely on an effective defense against a nuclear attack, maintains Dr. Edward Teller, neither will feel a need to strike first.",0.0796051099896431,0.06031416356563568
+8301,He calls the ability to destroy an opponent's missiles in flight ''a peace shield.'',0.07764078676700592,0.1736144870519638
+8301,"Albert Carnesale of Harvard, an advocate of mutual deterrence, finds fault with both the hard liners and the Coffin-Schell cadre.",0.01622765325009823,0.41262179613113403
+8301,He says he prefers some risk of war with nuclear weapons to a greater risk without them.,0.021250292658805847,0.4824562072753906
+8301,That seems to be the political consensus at the moment.,0.05105752870440483,0.20378582179546356
+8200,"Red Scares and False Alarms
+
+What Marxists used to call the dustbin of history is proving a grab-bag of surprises in the Soviet Union.",0.018419895321130753,0.6761828064918518
+8200,Newly released materials from Nikita Khrushchev's memoirs and a brace of scientific papers throw fresh light on the Soviet nuclear program and the Cuban missile crisis.,0.02944379672408104,0.03471296280622482
+8200,The disclosures reopen old arguments in ways profoundly subversive of cold war certainties.,0.03690434619784355,0.2682310938835144
+8200,Americans who have long protested the innocence of Julius and Ethel Rosenberg now have to reckon with an unsettling passage in the recollections taped by Khrushchev before his death in 1971.,0.008729656226933002,0.6574348211288452
+8200,The former Soviet leader says he was present when Stalin and Molotov said that the Rosenbergs ''provided very significant help in accelerating the production of our atomic bomb.'',0.12182921171188354,0.023428844287991524
+8200,"Standing alone, this is hearsay evidence from a deceased witness.",0.014303757809102535,0.5040212869644165
+8200,"Not so, according to papers just published by two qualified Soviet scientists.",0.029817873612046242,0.1852777749300003
+8200,They report that the device detonated in 1953 wasn't a hydrogen bomb at all but an enhanced atomic bomb.,0.041574373841285706,0.20606569945812225
+8200,"Americans apparently misread the fallout to ascribe, mistakenly, a strategic breakthrough to Soviet bomb-makers.",0.008862332440912724,0.7288166880607605
+8200,Mr. Castro has told biographers that he gave no such order.,0.026883117854595184,0.09511122852563858
+8200,The other is that Mr. Castro urged the Soviet Union to launch a pre-emptive nuclear strike against the U.S. during the 1962 missile crisis.,0.016829734668135643,0.21176022291183472
+8200,"Khrushchev writes that the Cuban leader, reminded of his recklessness in a conversation, tried to deny it.",0.01284835021942854,0.4116053581237793
+8200,"First, he resisted the insane advice of his headstrong Cuban ally.",0.022970227524638176,0.5124030709266663
+8200,"And second, he left a candid memoir of the world's closest brush with a nuclear holocaust.",0.016430141404271126,0.6128372550010681
+8188,"Reagan Aide Says MX Plan Increases Likelihood of War
+
+A military adviser to the Administration has charged that President Reagan's new nuclear defense program made atomic war more likely and conflicted with the Republican Party's campaign platform.",0.022132787853479385,0.32189542055130005
+8188,"William van Cleave, appointed by President Reagan as General Advisory Committee on Arms Control, said yesterday that the decision to deploy about 36 MX missiles in existing silos rather than shuttling them in a maze of desert shelters invited a first strike by the Soviet Union.",0.0242559015750885,0.1280064731836319
+8188,"William van Cleave, appointed by President Reagan as General Advisory Committee on Arms Control, said yesterday that the decision to deploy about 36 MX missiles in existing silos rather than shuttling them in a maze of desert shelters invited a first strike by the Soviet Union.",0.0242559015750885,0.1280064731836319
+8188,"William van Cleave, military advisor to Reagan Administration, declares that new nuclear defense program increases likelihood of atomic war
+Mr. van Cleave said that the decision, part of a $180 billion strategic package unveiled Oct. 2, left the land-based nuclear missiles vulnerable to attack, although the Republican platform on which Mr. Reagan was elected pledged not to let this happen.",0.01423248928040266,0.5015116333961487
+8188,"''These decisions do not reflect sufficient concern with the window of vulnerability,'' Mr. van Cleave said, using a phrase employed by Mr. Reagan to describe the period of danger to American land-based missiles.",0.010594410821795464,0.616747260093689
+8071,"REPORT SAYS IRAN SEEKS ATOMIC ARMS
+
+In the wake of revelations by United Nations inspectors about Iraq's advanced nuclear weapons program, an American intelligence assessment has concluded that at least some of Iran's revolutionary leaders are intent on developing nuclear weapons.",0.02363196574151516,0.2500845789909363
+8071,"The brief, cautiously worded assessment, contained in a broad, classified National Intelligence Estimate on Iran that is still subject to revision, also concludes that Iran's nuclear program is disorganized and only in an initial stage of development.",0.00819929875433445,0.6357747912406921
+8071,Some Administration officials -- as well as independent arms-control analysts -- say they believe that the assessment underestimates the scope of Iranian intentions.,0.012847303412854671,0.3781149089336395
+8071,Some Administration officials -- as well as independent arms-control analysts -- say they believe that the assessment underestimates the scope of Iranian intentions.,0.012847303412854671,0.3781149089336395
+8071,"Since Iran-Iraq war ended in 1988, Iran's revolutionary leaders have actively sought nuclear-related technology from countries like China, India, Argentina, Pakistan and Germany.",0.05690009146928787,0.06425382941961288
+8071,"Officials say they are most concerned about Iran's nuclear cooperation with China, which was formalized in June 1990 with an agreement to develop a small research reactor in the central Iranian city of Isfahan.",0.014393736608326435,0.33469539880752563
+8071,"Since then, China has sent a number of top scientists to Iran and has trained Iranian engineers and physicists.",0.22674356400966644,0.0085249412804842
+8071,"'A Matter of Concern'
+ The Administration has also learned that Iran recently received a calutron, a crude device that can be used to enrich uranium, from Beijing.",0.011829049326479435,0.2949811816215515
+8071,"The Administration consensus is that the calutron is one typically used for peaceful purposes, not readily adaptable to enriching uranium for use in nuclear weapons, and not like the calutrons built by Iraq that were clearly designed to enrich uranium.",0.014884650707244873,0.5420119762420654
+8071,But another official expressed concern that Iran might be able to improve on and duplicate the calutron to eventually produce the hundreds needed to enrich uranium.,0.03158078342676163,0.16256342828273773
+8071,But another official expressed concern that Iran might be able to improve on and duplicate the calutron to eventually produce the hundreds needed to enrich uranium.,0.03158078342676163,0.16256342828273773
+8071,"When asked about the Chinese-Iranian nuclear cooperation at a Senate Foreign Relations subcommittee hearing today, Richard H. Solomon, Assistant Secretary of State for East Asian and Pacific Affairs, said, ""It is apparent that there is the sale of some nuclear-related technologies.",0.025001637637615204,0.03197573497891426
+8071,There is something going on here.,0.08756083250045776,0.14948506653308868
+8071,Many of the details of Administration concern were first reported by the Washington Post today.,0.033669859170913696,0.04177571088075638
+8071,"China's Reactor Denials
+ The State Department over the last few years has tried to dissuade governments from cooperating with Teheran on nuclear projects, and the issue is likely to be discussed if Secretary of State James A. Baker 3d visits Beijing as is tentatively planned next month.",0.01816645637154579,0.14019641280174255
+8071,"Earlier this month, the Chinese Foreign Ministry denied as ""groundless"" press reports that China was building a nuclear reactor in Iran that was part of a secret weapons program.",0.010387842543423176,0.4712516963481903
+8071,"Washington is also concerned about what one official called Iran's ""shopping around"" for a much larger nuclear reactor.",0.015091434121131897,0.3315821588039398
+8071,One Iranian press report has suggested that Iran was seeking such technology from India.,0.023291198536753654,0.14476841688156128
+8071,"And senior Administration officials said that in the past year Iranian officials met with Mirza Aslam Beg, then Pakistan's Chief of the Staff of the Army, who agreed to share technology, a plan that was quickly vetoed by Pakistan's civilian leadership.",0.016805529594421387,0.3758639693260193
+8071,"A Right to Arms
+ In recent years, several Iranian officials have spoken openly about Iran's right to possess nuclear weapons.",0.03088667429983616,0.08887340873479843
+8071,"In a speech to the Revolutionary Guards in 1988, for example, President Hashemi Rafsanjani declared: ""We should fully equip ourselves both in the offensive and defensive use of chemical, bacteriological and radiological weapons.",0.051729701459407806,0.03579876944422722
+8071,"At other times, Mr. Rafsanjani has called for the complete prohibition and destruction of such weapons.",0.030623584985733032,0.36000606417655945
+8071,"In an interview with the Persian daily Abrar last week, the Deputy President, Ataollah Mohajerani, said that all Muslim countries should be allowed to develop nuclear weapons if Israel remains a nuclear power.",0.03706566244363785,0.05191469565033913
+8071,But he went further.,0.27484336495399475,0.016580132767558098
+8071,But he went further.,0.27484336495399475,0.016580132767558098
+8071,"""Israel should be totally deprived of its nuclear capacity,"" he said.",0.008440791629254818,0.8172825574874878
+8071,"""I mean, what has been done to Iraq in respect of its nuclear capacity should be done exactly to Israel.""",0.021902363747358322,0.43502745032310486
+8071,"Although some Iran experts interpreted Mr. Mohajerani's remarks as little more than anti-Israeli comments fueled by the peace talks in Madrid, they were unsettling to American policymakers who have sought to portray Iran's foreign policy as pragmatic.",0.012550817802548409,0.5952771306037903
+8071,"Although some Iran experts interpreted Mr. Mohajerani's remarks as little more than anti-Israeli comments fueled by the peace talks in Madrid, they were unsettling to American policymakers who have sought to portray Iran's foreign policy as pragmatic.",0.012550817802548409,0.5952771306037903
+8071,"Iran's nuclear program was launched in the 1960's by the Shah, Mohammed Reza Pahlevi, whose $30 billion plan envisaged 20 nuclear plants by the year 2000.",0.03952556475996971,0.0372210331261158
+8071,Iran's only working nuclear reactor is a small American-built research facility on the campus of Teheran University.,0.0200246199965477,0.13125088810920715
+8071,"Some Administration officials question why oil-producing Iran would need nuclear reactors and are worried that Iran's large bank of nuclear scientists, many of them leftovers from the era of the Shah, would be invaluable to a nuclear arms program.",0.028275342658162117,0.26570308208465576
+8071,Several officials and independent experts say they think Iran's nuclear threat is more serious than is portrayed in the intelligence assessment.,0.026481246575713158,0.23566541075706482
+8071,"""There is no doubt that Iran is pursuing nuclear, chemical and biological weapons and seeking to obtain long-range missiles from North Korea and to develop them in Iran,"" said Anthony Cordesman, a military expert whose conclusions are included in his 1991 book, ""Weapons of Mass Destruction in the Middle East.""",0.024902619421482086,0.26104098558425903
+8074,"REPORTED U.S. CHANGE IN ATOM-WAR STRATEGY CONDEMNED BY SOVIET
+
+A commentator of the official Soviet press ageny, Tass, charged today that the Carter Administration's new nuclear war strategy, as reported from New York and Washington, ''pushes the world toward nuclear disaster.''",0.0158428605645895,0.42392095923423767
+8074,"The charge expanded on a condemnation of the strategy yesterday in Pravda, the principal newspaper of the Soviet Communist Party.",0.016101568937301636,0.344421923160553
+8074,"The charge expanded on a condemnation of the strategy yesterday in Pravda, the principal newspaper of the Soviet Communist Party.",0.016101568937301636,0.344421923160553
+8074,"Citing reports in The New York Times and The Washington Post that the United States' nuclear-deterrence strategy would now be based on destroying Soviet missile bases and political headquarters in a prolonged war rather than on destroying Soviet cities in a mass attack, the Tass commentator, Anatoly Krasikov, said:
+''The White House is trying to instill in Americans and people of other countries the idea that it is possible to wage a nuclearmissile war dealing blows only against troops and command posts while the civilian population escapes suffering or suffers only minimally.",0.02452952414751053,0.3131037652492523
+8074,This is a very dangerous doctrine whose aim is to lull the people's vigilance and to bring closer the destruction of civilization.'',0.007124736439436674,0.9100561141967773
+8074,"He said the strategy would require a new generation of more precise missiles, and ''it would be naive to think that the Soviet Union would be idle'' if such new weapons were produced.",0.023939436301589012,0.35276082158088684
+8074,"The Soviet Union has long been sensitive to any suggestion that the United States might be moving from a doctrine of ''mutual assured destruction,'' under which each side seeks to deter the other by holding its cities and industries hostage to nuclear obliteration, to a ''counterforce'' strategy, under which the emphasis would be on destroying the other side's missile bases.",0.013954224064946175,0.45285463333129883
+8074,"The Tass commentary said, ''Certain persons on the other side of the ocean have not yet given up the idea of a 'first strike,' believing they can escape retribution.",0.028609802946448326,0.18544484674930573
+8074,"The same calculation was made by Hitler, and everyone knows how his venture ended.",0.01277781743556261,0.7641650438308716
+8074,An even sorrier fate will befall those who dare to be the first to push the button in our nuclear era.',0.008992896415293217,0.8625140190124512
