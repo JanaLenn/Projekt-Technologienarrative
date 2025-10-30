@@ -1,0 +1,910 @@
+doc_id,sentence,p_positive,p_negative,sentence_polarity
+8915,"Scientists Meet Analytical Challenge of an Ephemeral Element
+
+FOR 23 years scientists have known of a bizarre, man-made element that can be created only one atom at a time, each surviving for only a few seconds.",0.9932395219802856,0.0067604719661176205,0.9864790559849279
+8915,"Chemical analysis of this new element, recently named seaborgium, seemed out of the question.",0.0007568416185677052,0.9992431402206421,-0.9984863167343765
+628,"ABROAD AT HOME; LACKING THE EVIDENCE
+
+Prime Minister Begin explained the attack on Iraq's nuclear reactor at a press conference June 9, two days after the raid.",0.0010808489751070738,0.9989191293716431,-0.9978383020019802
+628,"Israel had to act, he said, because Saddam Hussein, the Iraqi President, ''wanted to destroy our existence, in fact our people and our country.''",0.9929367899894714,0.007063243538141251,0.9858735133963589
+1279,"As It Returns to Negotiations, North Korea Lashes Out at Japan
+
+North Korea called Japanese officials ''political imbeciles'' on Saturday for saying they would not accept the North as a nuclear power, less than a week after it agreed to return to international arms talks on its atomic program.",0.00132751336786896,0.9986724853515625,-0.9973449732598648
+1279,"In typically harsh words, North Korea also condemned the United States as ''fanatic warmongers who destroy peace and security on the Korean Peninsula.''",0.0023389526177197695,0.9976609945297241,-0.9953220945163259
+5129,"Iraq Balks at Naming Its Nuclear Suppliers
+
+Iraq is still refusing to name the suppliers of materials and equipment used in the country's clandestine nuclear weapons program despite pledges to do so, the International Atomic Energy Agency said on Friday.",0.0010305845644325018,0.9989694356918335,-0.9979388309118885
+5129,"As a result, there is no guarantee that all the nuclear supplies have been declared to inspectors or that Iraq will not try to buy from the same suppliers again, said Dimitri Perricos, who this month headed the agency's 12th inspection trip to Iraq.",0.0023031062446534634,0.9976969361305237,-0.9953937877048866
+5129,"""There is a political decision not to divulge information of this nature,"" Hans Blix, the agency's director general, said at a news conference.",0.0027387854643166065,0.9972611665725708,-0.994522428807651
+8568,SCIENCE WATCH; Evidence for Neutrino Mass?,0.012203251011669636,0.9877967238426208,-0.9755934973619663
+8568,"Since May, physicists have been astir over a hypothesis that neutrinos, thought to be the most prevalent sub-atomic particles in the universe, have mass.",0.9963696002960205,0.00363041996024549,0.9927391602255937
+8568,"Numerous experiments have been designed to affirm or deny that assertion, made by Dr. Frederick Reines of the University of California at Irvine and others.",0.9822346568107605,0.017765313386917114,0.9644693721663061
+1742,"Bhutto Says She Favors Pact With India to Bar Atom Arms
+
+Prime Minister Benazir Bhutto of Pakistan today denied that her country was building a nuclear bomb and said she would like to work for nuclear nonproliferation with India.",0.9944159984588623,0.005583984777331352,0.9888320302571308
+1742,"Interviewed on British television, Ms. Bhutto said, ''We would like to make our region free from the threat of nuclear proliferation and that is why we would like to work with India as our neighbor to prevent any pressures in the future.''",0.9979277849197388,0.0020722609478980303,0.9958554782933075
+1742,"She added, ''Pakistan has not, nor do we have any intention of putting together or making, a bomb, or taking it to the point where you can put it together.''",0.0017810744466260076,0.9982189536094666,-0.9964378512056914
+9121,"South Africa Signs a Treaty Allowing Nuclear Inspection
+
+South Africa signed the Nuclear Non-Proliferation Treaty today, permitting inspection of all its atomic installations.",0.9976215958595276,0.002378355711698532,0.995243288345246
+9121,"Foreign Minister Roelof F. Botha signed his country's accession to the treaty at a ceremony here attended by the visiting British Foreign Secretary, Douglas Hurd.",0.9977511763572693,0.002248817589133978,0.9955023647935097
+9080,"Slowdown in Program to Clean Up Nuclear Waste in Washington State Is Drawing Criticism
+
+The Energy Department is drawing increasing criticism for its plan to slow down its cleanup of radioactive waste in tanks at the Hanford nuclear reservation in Washington State.",0.0011243557091802359,0.9988756775856018,-0.997751288655512
+9080,"The energy secretary, Samuel W. Bodman, told the Senate Energy Committee on Thursday that there are issues ''where we do have differences of opinion'' on how thoroughly the underground tanks should be emptied.",0.9934821724891663,0.006517760455608368,0.9869644782136965
+6902,"North Balks, Threatening Korean Pact
+
+The Clinton Administration's agreement to have North Korea freeze its nuclear program could fall apart over the North's continued refusal to let South Korea supply it with two new light-water reactors, American officials said today.",0.0011164970928803086,0.9988835453987122,-0.997767005908125
+6902,"The officials said they were disappointed that North Korean officials, in talks held last week in Berlin, had continued to insist that another country provide the light-water reactors that the agreement promises to the North in exchange for freezing its weapons-oriented nuclear program.",0.001157861901447177,0.998842179775238,-0.9976842762926196
+6902,"Under an agreement signed in October, the two countries said they would try to work out details about the light-water reactor project by April 21.",0.9949679970741272,0.005031965207308531,0.989936069204796
+7840,"Political Tensions Rise in Iran as Hard-Liners Chafe at Deal
+
+Tensions between the Iranian president, Hassan Rouhani, and more conservative authorities over the country's nuclear agreement and its future are turning increasingly bitter, punctuated by public exchanges and growing signs of an anti-American backlash, including arrests.",0.002514985390007496,0.9974850416183472,-0.9949700293548411
+7840,"Mr. Rouhani is insisting that the nuclear deal signed in July not only will create the basis for an end to Iran's prolonged economic isolation, but could be the start of new relations with the United States under certain conditions.",0.9972208738327026,0.00277913361787796,0.9944417328046619
+7840,Yet even his cautious statement of optimism has provoked a stormy reaction.,0.002949101384729147,0.9970508813858032,-0.9941017971279247
+9464,"THE NATION; ADVISE YIELDS TO CONSENT IN NUCLEAR FUEL VOTE
+
+It was a squeaky victory, and therefore especially gratifying to senior Carter Administration officials who had lobbied the Senate mercilessly for days.",0.997818112373352,0.002181893913075328,0.9956362122002863
+9464,"By a margin of two votes, the Senate approved last week the sale of 38 tons of enriched uranium to India, shipments authorized by President Carter last June.",0.9941137433052063,0.005886323284357786,0.9882273542142315
+8778,"STATE PANEL'S STUDY OF SHOREHAM ATOM PLANT ENDS IN WIDE DISAGREEMENT
+
+Exerpts from report, page B8.",0.0005323460209183395,0.999467670917511,-0.9989353079751985
+8778,"Members of Governor Cuomo's commission on the Shoreham nuclear power plant agree that it was a mistake to build the reactor, but after six months of hearings and deliberations, there appears to be agreement on very little else.",0.0005979183479212224,0.9994020462036133,-0.9988041632607682
+8778,"The commission's 13 members now disagree even on what their chairman, Dr. John H. Marburger 3d, says they agreed to when they drafted their report to Mr. Cuomo - such things as whether the Long Island Lighting Company, the owner of the reactor, is prepared to run it and whether it would pay to open the plant.",0.0012512364191934466,0.998748779296875,-0.9974975271999446
+11142,"U.S. Seeking to Strengthen Nuclear Agency
+
+After the Persian Gulf war, when international inspectors got a better opportunity to look around a defeated Iraq, they discovered that President Saddam Hussein had secretly been developing nuclear weapons.",0.01789902150630951,0.9821010231971741,-0.9642019585867139
+11142,"To deter such an ominous possibility from threatening the world again, Washington wants to strengthen the powers of the International Atomic Energy Agency, which is responsible for guarding against the diversion of nuclear material to bomb-making.",0.9928681254386902,0.007131793536245823,0.9857364117708145
+11142,"But the effort has run into determined resistance, not from rogue states bent on acquiring nuclear arsenals, but from two allies -- Germany and Japan -- that fear a new burden on their flourishing nuclear power industries.",0.003911117557436228,0.9960888624191284,-0.9921777647275074
+11142,"While expressing commitment to nonproliferation, diplomats from each country, in separate interviews today, said the expanded powers that Washington is seeking for the atomic energy agency would place unfair economic and financial burdens on the owners of nuclear power plants.",0.012947458773851395,0.9870525002479553,-0.9741050813901961
+11142,"Next week, the atomic energy agency's 35-member board of governors will meet in Vienna, where a majority of the nations will seek to persuade the Germans and Japanese to change their positions.",0.021206900477409363,0.9787930846214294,-0.9575861984122088
+11142,"The board operates by consensus, and the determined opposition of any member could scuttle the changes.",0.9982553124427795,0.0017447094433009624,0.9965105811887712
+7352,"Why does Mr. Safire find it so hard to believe that chemicals that kill insects and weeds, kill the birds that eat them, kill the fish that swim in them, will ultimately kill us either directly or by destruction of the food chain?",0.0013739687856286764,0.9986259937286377,-0.997252062324737
+7352,"Instead he focuses on the conservative Chicken Little lament that the Communists are coming, only now it is the terrorists, i.e., the nuclear holocaust is coming unless we spend more money on bombs.",0.0012859917478635907,0.9987139701843262,-0.9974280164053656
+7352,"As I recall, the United States is the only nation actually to use an atomic weapon.",0.9862776398658752,0.01372235082089901,0.9725552981016308
+7352,Few nations even test them anymore.,0.00299301790073514,0.9970069527626038,-0.9940139640219254
+5404,"Japan’s Plan for Fukushima Wastewater Meets a Wall of Mistrust in Asia
+
+The government in Tokyo says criticism of its intention to release treated water into the ocean is unscientific.",0.0008298892644234002,0.999170184135437,-0.9983402215919823
+5404,"South Korea has called the proposal “utterly intolerable.”
+TOKYO — In late 2019, the Japanese government convened diplomats from 22 countries for a briefing on its handling of more than a million tons of wastewater from Fukushima’s crippled nuclear reactors.",0.0007142229587770998,0.9992857575416565,-0.9985715540535932
+5404,"Storage space was rapidly running out, the authorities explained, and they were considering several solutions.",0.9906201362609863,0.009379884228110313,0.9812402319271687
+5004,"Iran: Talks End on Encouraging Note
+
+VIENNA -- The second round of talks between Iran and six world powers over Iran's nuclear program ended Wednesday with all parties expressing satisfaction with the discussions, which were the most detailed so far on each of the main issues dividing them.",0.9988693594932556,0.0011306292144581676,0.9977387415445512
+5004,"Both Catherine Ashton, the European Union's foreign affairs chief and the chief negotiator for the six powers, and Mohammad Javad Zarif, the Iranian foreign minister, described the talks as ''useful and substantive.''",0.9986844658851624,0.0013154948828741908,0.9973690101300354
+10803,"U.S. AGAIN SAYS IT WON'T JOIN SOVIET MORATORIUM
+
+The Reagan Administration, responding to a speech by Mikhail S. Gorbachev, today repeated assertions that it would not join a Soviet moratorium on underground nuclear tests.",0.0014185348991304636,0.9985815286636353,-0.9971629303810738
+10803,Mr. Gorbachev said in his speech that the Soviet Union was extending its moratorium on such tests until Jan. 1.,0.8892036080360413,0.11079644411802292,0.7784071233201448
+1859,"Brazil Comes Clean About Its Bomb
+
+Brazil's new civilian President, Fernando Collor, has moved courageously in recent weeks toward a noble goal: keeping Latin America free of nuclear weapons.",0.9986200332641602,0.001379921450279653,0.9972401569734625
+1859,He has publicly confirmed what many long suspected - that his country's military has been working secretly for 15 years to build an atomic bomb.,0.9900228381156921,0.009977172128856182,0.9800456559457308
+1859,He's prepared to ban exports of nuclear and missile technology.,0.004374226089566946,0.9956257343292236,-0.9912515474736006
+1859,"And he's called for a ban on nuclear tests, even for peaceful purposes, across Latin America.",0.7975319027900696,0.202468141913414,0.5950637342746385
+1859,These are helpful steps but he can do more by denying funds for the military's nuclear programs and by allowing international inspection of Brazil's reactors.,0.9926577210426331,0.007342309225350618,0.9853153819927871
+1859,The U.S. can help Mr. Collor nudge his fractious military along by suspending sales of supercomputers the military badly wants.,0.9653136134147644,0.0346863716840744,0.9306272555971862
+7685,"Pakistani Scientist Is Focus Of Atomic Sale Investigation
+
+Pakistani officials said Wednesday that their investigation into the sale of the nation's nuclear technology to Iran had now focused on Abdul Qadeer Khan, the father of Pakistan's atomic bomb, and that a ""security ring"" had been set up around his house five days ago to keep him from leaving the country.",0.005050187464803457,0.9949498176574707,-0.9898996251211399
+7685,"But it was unclear whether the government had the political will, to bring charges against the widely revered scientist.",0.9892370104789734,0.010762989521026611,0.9784740209569682
+6429,"NORTH KOREA SITE AN A-BOMB PLANT, U.S.",0.009089113213121891,0.9909109473228455,-0.9818217746732107
+6429,"AGENCIES SAY
+
+United States intelligence agencies have detected a huge secret underground complex in North Korea that they believe is the centerpiece of an effort to revive the country's frozen nuclear weapons program, according to officials who have been briefed on the intelligence information.",0.9884225726127625,0.011577400378882885,0.9768451986158844
+6429,"The finding has alarmed officials at the White House and the Pentagon, who fear that it may be an effort to break out of a four-year-old agreement in which North Korea pledged to give up its nuclear weapons program in exchange for billions of dollars in Western aid.",0.0016504114028066397,0.9983495473861694,-0.9966991770573598
+6429,"The finding also follows a string of provocations by the North, including missile sales to Pakistan and the incursion of a small North Korean submarine carrying nine commandos off the South Korean coast this year.",0.013576164841651917,0.9864237904548645,-0.9728476691019196
+585,"A Widening Nuclear Divide
+
+MADBAN, India -- When a farmer named Praveen Gawankar and two neighbors began a protest four years ago against a proposed nuclear power plant here in this coastal town, they were against it mainly for not-in-my-backyard reasons.",0.006989447399973869,0.9930105805397034,-0.986021105589632
+585,"They stood to lose mango orchards, cashew trees and rice fields, as the government forcibly acquired 2,300 acres to build six nuclear reactors -- the biggest nuclear power plant ever proposed anywhere.",0.006430560722947121,0.9935693740844727,-0.9871388777146689
+585,"But now, as a nuclear disaster unfolds in distant Japan, the lonely group of farmers has seen support for their protest swell to include a growing number of Indian scientists, academics and former government officials.",0.9981252551078796,0.0018746830755844712,0.996250633616062
+585,"''We are getting ready for bigger protests,'' Mr. Gawanker said.",0.9879023432731628,0.012097678147256374,0.975804644222786
+1598,"The partners, meanwhile, are negotiating for positions in other Washington law firms.",0.015386643819510937,0.984613299369812,-0.9692267106117575
+1598,"Nuclear Power Blues
+T he nuclear power industry these days is as blue as a farmer who lost his only milk cow.",0.0025095914024859667,0.997490406036377,-0.9949808171811783
+1598,"Disappointed in the Reagan Administration, unhappy with its press coverage and concerned that it is losing ground with the public, the industry has concluded that it is threatened with a public relations meltdown of sorts.",0.0008221230236813426,0.999177873134613,-0.9983557539453223
+724,"ANDERSON SAYS CARTER AND REAGAN HAVE 'FOLLY' ALLIANCE ON ATOM WAR
+
+John B. Anderson charged yesterday that President Carter and Ronald Reagan ''have formed an alliance of folly'' based on ''the fatal belief that nuclear wars can be limited and perhaps even won.''",0.0010342341847717762,0.9989657402038574,-0.9979315315764822
+724,"''Now, obviously, neither Mr. Carter nor Mr. Reagan is advocating nuclear war,'' the independent Presidential candidate told a luncheon of the Council on Foreign Relations in Manhattan.",0.9819230437278748,0.018076887354254723,0.9638462227988854
+724,''But I consider both of them to be seriously misguided in their endorsement of the so-called nuclear war-fighting thesis.'',0.0005114278174005449,0.9994885921478271,-0.9989771443846214
+724,"AN-A
+In his first major campaign address on United States-Soviet relations, Mr. Anderson called, in effect, for a cautious but less belligerent attitude toward Moscow while opposing any military alliance with China.",0.9977534413337708,0.0022465609945356846,0.9955068780203944
+12005,"World Briefing Asia: North Korea: Visit Set To Nuclear Lab
+
+Three inspectors from the International Atomic Energy Agency arrive in North Korea next Tuesday for a four-day visit to an isotope production laboratory at the North Korean nuclear complex at Yongbyon.",0.993096649646759,0.0069033182226121426,0.9861933631101736
+12005,"But Melissa Fleming, public affairs officer at the agency headquarters in Vienna, made clear that the visitors would not inspect installations suspected of harboring enough weapons-grade plutonium for two warheads, which was produced before the signing of the Geneva agreement in 1994.",0.00825507566332817,0.9917449355125427,-0.9834898488568754
+2448,"Congress May Lift Ban on Wheat Sales to India and Pakistan
+
+Under pressure from farmers, the Government is poised to re-allow the sale of wheat to India and Pakistan despite economic sanctions by the United States against those countries for their recent nuclear tests.",0.9963223934173584,0.003677570028230548,0.9926448596736834
+2448,"Allowing wheat sales would seem to undermine Washington's moral outrage against India and Pakistan, but a movement to skirt the sanctions on wheat has caught on in Congress, and President Clinton encouraged the movement on Friday as he sought greater flexibility in exercising sanctions around the world.",0.9962642788887024,0.0037357485853135586,0.9925285030336523
+2167,A county bus strike early this month lasted a day.,0.001971322577446699,0.9980286955833435,-0.996057354915712
+2167,"He has railed, a rarity, at the Nuclear Regulatory Commission and Consolidated Edison over a series of leaks and other problems at the Indian Point 2 nuclear plant in Buchanan but now accepts N.R.C.",0.9845609664916992,0.015439019538462162,0.9691219604907454
+2167,assurances that the plant is safe.,0.9985536932945251,0.0014462671242654324,0.9971074656359821
+10663,"U.N. Inspection-Unit Leader Seems Tailored for the Job
+
+A co-worker says David A. Kay, the cool-headed American nuclear inspector who is standing off Iraq's military in a Baghdad parking lot, is just ""a regular guy thrust into extraordinary circumstances"" -- circumstances, she might have added, for which he appears well suited by training and temperament.",0.9986124038696289,0.0013875277945771813,0.9972249442202128
+10663,"The 51-year-old Texan's resume almost suggests that he has been prepping for a crisis between United Nations inspectors and a developing-world dictator since his days as a Columbia University graduate student, 25 years ago.",0.018849560990929604,0.9811505079269409,-0.9623008806153215
+4205,"INDIA TO REPROCESS SPENT NUCLEAR FUEL; Decision to Produce Plutonium Is a Challenge to U.S. in Dispute Over Delays in Supplies
+
+The highest officials of India's Atomic Energy Commission said here today that they had authorized the reprocessing of spent nuclear fuels into much more toxic and dangerous plutonium oxide.",0.003539199475198984,0.9964608550071716,-0.992921601434257
+4205,The decision to begin full-scale but temporary operations at a previously unused 10-year-old reprocessing plant represents a thinly veiled challenge to the United States over what India regards as Washington's delays in releasing nuclear fuel under the terms of a purchase agreement.,0.007092380430549383,0.9929076433181763,-0.9858152394747853
+4205,"As successive shipments of enriched uranium for the Tarapur nuclear power plant were delayed by Congress, Indian officials hinted that if pressed this country had the ability to maintain the plant without the American supplies by simply converting the stored nuclear waste that accumulated from earlier United States deliveries.",0.010740683414041996,0.9892592430114746,-0.9785186315904569
+4205,The Tarapur facility can run on a plutonium fuel made from reprocessed spent uranium.,0.9930283427238464,0.006971597671508789,0.9860568038249171
+40,"Mr. Prokip said there was hope that the ships might be spared because they are operated by Turkey, a country that has mediated agreements between Russia and Ukraine during the war.",0.011006747372448444,0.988993227481842,-0.9779865047005802
+40,"Stationing U.N. experts at critical substations
+  With most of its thermal and hydroelectric power plants destroyed or badly damaged, Ukraine has relied on its three operational nuclear power stations to keep the lights on.",0.9946925044059753,0.005307530984282494,0.9893849384061153
+40,"Together, they can provide 7.7 gigawatts of electricity per hour, more than half of the country's current generation capacity, according to DiXi Group, a Ukrainian energy think tank.",0.9983868598937988,0.001613152795471251,0.9967736944490001
+2262,"Mr. Butler said that he would travel to Iraq late next week to discuss arrangements for the inspections of the presidential sites with Deputy Prime Minister Tariq Aziz, and that inspections of the presidential sites will begin within ""a couple of days.""",0.9953445792198181,0.004655355121940374,0.9906892891438037
+2262,"The International Atomic Energy Agency, which has a mandate to rid Iraq of nuclear weapons, is making 10 of its inspectors available to join the United Nations team looking for chemical and biological weapons, Mr. Butler said.",0.9913808703422546,0.008619174361228943,0.9827616520471735
+2262,"Jayantha Dhanapala, the Under Secretary General for Disarmament, who is to supervise inspections at the presidential sites, will enlist senior diplomats to accompany the inspectors, under the arrangement worked out by Mr. Annan.",0.9940422177314758,0.005957786459475756,0.9880844271299979
+1120,This antique technology will keep the NASA circus flying but does little for industry.,0.0005089762271381915,0.9994909763336182,-0.9989820474964337
+1120,"The Department of Energy plans a $5 billion atom smasher, even though it promises few commercial spinoffs and will rob funds from physics research of greater relevance.",0.000575125333853066,0.999424934387207,-0.9988497493999892
+1120,"Why does this country's research policy remain so incoherent, while Japan targets one high-tech industry after another and wrests dominance from American competitors?",0.004136060830205679,0.9958639144897461,-0.9917278781344405
+3454,"This may seem like an irrelevant question, given that both the White House and Congress are controlled by a party that rejects the scientific consensus about human-driven climate change.",0.010461792349815369,0.9895381927490234,-0.9790764149876044
+3454,"But the proposition that it could, long a dream of an environmental movement as wary of            nuclear energy as it is of fossil fuels, has been gaining ground among policy makers committed to reducing the nation’s carbon footprint.",0.9960152506828308,0.003984758164733648,0.9920304837400514
+3454,Democrats in both            the United States Senate and in            the California Assembly have proposed legislation this year calling for a full transition to renewable energy sources.,0.9977847933769226,0.0022151952143758535,0.9955696095197077
+2216,"Celebrating the Web; an Atomic Movie; a Hurricane Over Saturn - Correction Appended
+
+So many piquant tidbits this week: We were able to see a revival of the world's first Web site (which had no funny cat photos), watch the first movie starring tiny atoms, and view the first images of a surprisingly Earth-like hurricane swirling over Saturn.",0.9986282587051392,0.001371775520965457,0.9972564490509728
+2216,"Developments
+Computer Science
+Happy Birthday, WWW!",0.9987976551055908,0.0012023653835058212,0.9975952692812614
+6391,"(Page 1, Column 3.)",0.01475844718515873,0.9852415919303894,-0.9704831067832814
+6391,"Israel wants a nuclear treaty to bar atomic weapons from the Middle East and plans to introduce its own proposal for this on Tuesday at the United Nations, its diplomats said in New York.",0.9949795603752136,0.005020422860980034,0.9899591541087271
+6391,"Emphasizing its change in policy, Israel will support an Egyptian proposal to keep nuclear arms out of the Middle East.",0.9980508089065552,0.0019491610582917929,0.9961016777653336
+6391,(1:5.),0.0184172336012125,0.981582760810852,-0.9631655325907832
+9266,Study Says U.S.,0.014079715125262737,0.985920250415802,-0.9718405687781587
+9266,"Rejected Safer Nuclear Test Site
+
+When the United States chose Nevada as the site for atmospheric tests of nuclear weapons four decades ago, Government officials knew the choice would mean that more people would be exposed to radiation than at an alternative site in North Carolina, a new study asserts.",0.005146666895598173,0.9948533177375793,-0.9897066660496381
+9266,"But, the report made public today by a private anti-war group says, officials chose the Nevada site because it was already under Government control and could be used sooner and because it was closer to bomb production plants.",0.026862982660531998,0.9731369614601135,-0.9462740316758174
+5904,"Reports From Europe
+Scientists at the conference reported that the European observations, taken in the highway tunnel under Mont Blanc, Western Europe's highest mountain, supported the findings from the Soudan mine and from the mine beneath Lake Erie.",0.9985901713371277,0.0014098415849730372,0.9971803168654929
+5904,"The European observations were carried out by a collaboration of physicists from CERN, the European nuclear researech center near Geneva, and Italian laboratories at Frascati, Milan and Turin.",0.9980556964874268,0.0019442812772467732,0.9961114373580469
+5904,In the three experiments hundreds of tons of iron or thousands of tons of water were rigged with instruments to detect the decay of protons or neutrons within that material.,0.9931957721710205,0.006804227828979492,0.9863915443410546
+11206,"U.S. WEIGHS RISK THAT ATOM WAR COULD BRING FATAL NUCLEAR WINTER
+
+The Federal Government has embarked on a broad program to assess the theory that fires set by even a limited exchange of nuclear weapons would blot out so much sunlight with smoke and soot that life on earth would be all but extinguished.",0.015468033030629158,0.9845319390296936,-0.9690639330734289
+11206,"According to Federal officials, the scientific study is to involve more than a dozen Government agencies and cost up to $50 million.",0.00126941897906363,0.9987305998802185,-0.9974611620887559
+2490,"But in an interview with journalists on Tuesday, Mr. Putin claimed that Ukraine’s offensive was sputtering and that it had recently lost three times as many tanks as Russia had, figures that could not be confirmed.",0.0017270739190280437,0.9982728958129883,-0.9965458520563973
+2490,"The United Nations’ chief nuclear energy watchdog, Rafael Mariano Grossi, ventured into the war zone on Thursday to visit the endangered Zaporizhzhia Nuclear Power Plant, held since last year by Russian forces.",0.9972917437553406,0.0027081845328211784,0.9945836305449453
+2490,"Mr. Grossi, head of the International Atomic Energy Agency, cited new safety fears because the destruction last week of the Kakhovka dam had drained the reservoir that supplies water to keep the plant’s nuclear fuel from melting down.",0.003216436831280589,0.9967836141586304,-0.9935671266644568
+2490,"After crossing the front line to reach the plant, he explained the concern in posts on Twitter, but did not say what he had found.",0.001846710336394608,0.9981532692909241,-0.9963065792509697
+4297,"IRAN IS SHIELDING NUCLEAR EFFORTS IN TUNNEL MAZES
+
+Last September, when Iran's uranium enrichment plant buried inside a mountain near the holy city of Qum was revealed, the episode cast light on a wider pattern: Over the past decade, Iran has quietly hidden an increasingly large part of its atomic complex in networks of tunnels and bunkers across the country.",0.9618170857429504,0.03818294033408165,0.9236341213223085
+4297,"In doing so, American government and private experts say, Iran has achieved a double purpose.",0.9985639452934265,0.0014360303757712245,0.9971279391775809
+5259,This is Wal-Mart's specialty.,0.9930478930473328,0.006952089257538319,0.9860958212379011
+5259,"I create a global supply chain down to the last atom of efficiency so that if I sell an item in Arkansas, another is immediately made in China.",0.9882686138153076,0.011731380596756935,0.9765372386744012
+5259,"(If Wal-Mart were a country, it would be China's eighth-largest trading partner.)",0.07681658864021301,0.9231834411621094,-0.8463668272973529
+772,"AROUND THE NATION; Decision on Atom Plant Possible Next Month
+
+Government safety officials said today that they could decide by Feb. 15 whether to allow the Diablo Canyon nuclear plant to start up despite scores of new reports about the safety of the facility's design and construction.",0.9882535934448242,0.011746326461434364,0.9765073451945402
+772,"However, officials of the Nuclear Regulatory Commission told a House subcommittee that at least 15 of the assertions about the California plant would have to be resolved first.",0.04474532976746559,0.9552546739578247,-0.9105093407975369
+6231,"A12
+
+Russia-Iran Arms Deal
+The Kremlin signed an accord that will let Iran buy jets, missiles and other weapons from Russia.",0.9958600401878357,0.004139971453696489,0.9917200571880065
+6231,And the atomic energy ministry said it planned to deliver the first of two nuclear reactors to Iran next month.,0.9974531531333923,0.0025468049570918083,0.9949063898713507
+6231,"The arms deal comes six years after Moscow stopped such sales to Iran under pressure from the United States, which regards Iran as a leading sponsor of terrorism.",0.9825602173805237,0.01743975467979908,0.9651204896649145
+1639,[B10.],0.9835805296897888,0.016419442370533943,0.9671611143404572
+1639,"TODAY'S COLUMNS
+An order from Korea has revived hopes at Atomic Energy that its business in nuclear reactors is not gone.",0.9943649768829346,0.005635024048388004,0.9887299519127313
+1639,Talking Deals.,0.9956963062286377,0.004303660709410906,0.991392678295612
+2865,"The baby-steppers believe that only by a series of small, incremental agreements can the arms race be slowed; they are willing to risk the locking-in of a Soviet advantage to achieve some measure of arms control.",0.9890127182006836,0.01098731067031622,0.9780253792928187
+2865,The giant-steppers believe that the time is ripe for a breakthrough that will reduce the nuclear arsenals; they are willing to risk the delays of a Soviet propaganda offensive to accomplish genuine arms reduction.,0.9957396984100342,0.004260282963514328,0.991479433913272
+2865,"Each position can be defended, but a difference in debating tone has become apparent: the giant-steppers may think the other side to be naive, but impute no sinister or subversive motive to the believers in the SALT agreements.",0.007168928161263466,0.9928309917449951,-0.9856621425281148
+2238,"Chemist Asserts Backing on Fusion
+
+B. Stanley Pons, an electrochemist at the University of Utah who last month threw scientists into turmoil by asserting that he had achieved nuclear fusion in a jar of water at room temperature, said today that 60 laboratories around the world had told him that they had duplicated parts of his work.",0.9928478002548218,0.007152145728468895,0.9856957077694057
+2238,"But he added that many of them had not made their results public and might not do so in the near future, partly because of concerns about giving away information that could be used in patent applications.",0.005737537518143654,0.9942623972892761,-0.9885249242146343
+12131,"It also ended a multiweek stretch of relative calm in Kyiv, Ukraine’s capital, during which several American officials visited the city.",0.0032479665242135525,0.9967520236968994,-0.9935040668870564
+12131,"In other news from the war, the U.N.’s atomic watchdog denounced international complacency over safety at Ukraine’s Zaporizhzhia nuclear plant, after Russian shelling again cut power today.",0.002854736056178808,0.9971452355384827,-0.9942905277244686
+12131,4.,0.98459792137146,0.01540201622992754,0.9691959656170468
+10696,"U.N. Nuclear Chief Welcomed in Libya
+
+Libya welcomed the scrutiny of the United Nations nuclear watchdog on Saturday and promised its cooperation with the International Atomic Energy Agency.",0.9980925917625427,0.001907454221509397,0.9961850917314099
+10696,"The agency's chief, Mohamed ElBaradei, arrived in Tripoli with a team of experts and praised Libya's new openness as a step in the right direction.",0.998768150806427,0.0012317876098677516,0.9975364246275509
+4335,"ISRAEL OPENS TRIAL IN ESPIONAGE CASE
+
+The espionage trial of Mordechai Vanunu, the former nuclear technician who told a British newspaper what he said were details of Israel's nuclear weapons industry, began today in a Jerusalem courtroom behind closed doors and boarded windows.",0.006000284571200609,0.993999719619751,-0.9879994309069045
+4335,The prisoner was transferred to the Jerusalem district courthouse in a police van with the windows painted and sealed to prevent any additional revelations.,0.0023847713600844145,0.9976152181625366,-0.9952304572288636
+7022,"North Korea's Atomic Bravado Incites a Host of Skeptics
+
+Just days away from the scheduled opening of discussions with the United States, North Korea appeared to announce today that it was reprocessing nuclear fuel rods, a step that would suggest development of atomic weapons.",0.0019011081894859672,0.9980989098548889,-0.9961977836886404
+7022,"Later, however, the statement was withdrawn from North Korea's official Web site amid confusion over the accuracy of the translation.",0.0012105099158361554,0.9987894892692566,-0.9975789801653572
+12140,"Ukrainian officials are also seeking donations for routers and other equipment to put internet service into bomb shelters, including those at schools.",0.9942050576210022,0.005794933065772057,0.9884101337595285
+12140,"In other news from the war:
+An official at Ukraine’s atomic energy company said that international inspectors should visit the Zaporizhzhia power plant, where shellfire damaged a nuclear fuel storage facility.",0.004686607047915459,0.9953134059906006,-0.9906267860253911
+12140,"Russian propaganda is becoming multilingual, relying on languages like Spanish and Arabic to evade social media moderators.",0.9896548986434937,0.010345078073441982,0.9793098433704065
+2979,"Effort to Solve Energy Woes Clashes With Nuclear Safety
+
+If the collapse of nuclear controls in Russia poses the near-term threat that terrorists could seize plutonium to make nuclear weapons, longer-term fears arise from nuclear energy programs launched by America's closest allies: Japan, Britain and France.",0.002740992698818445,0.9972590208053589,-0.9945180146753982
+2979,"Over the next two decades these countries, as well as Russia, plan to vastly increase the world's stockpiles of plutonium.",0.012118981219828129,0.9878809452056885,-0.9757620357760723
+7781,"Physicists Manage to Create The First Antimatter Atoms
+
+Physicists at the European Laboratory for Particle Physics announced yesterday that they had created, for forty-billionths of a second, the first complete atoms of antimatter ever made by human beings or seen in nature.",0.9964146614074707,0.0035853376612067223,0.9928293246699156
+7781,"In an antiatom, the antimatter equivalent of an ordinary atom, the electrical charges of all the component particles are reversed; while an ordinary atom has a positively charged nucleus with one or more negatively charged electrons orbiting it, the antimatter atom has a negatively charged nucleus with positively charged orbiting electrons.",0.9838318824768066,0.016168102622032166,0.967663794273121
+7781,"An ordinary atomic nucleus contains positively charged protons, while its antimatter counterpart contains negatively charged antiprotons.",0.9829121828079224,0.017087800428271294,0.9658243985695785
+7781,"Unless an antimatter atom is kept from coming into contact with an ordinary atom, the two atoms annihilate each other in a violent flash of energy -- a fact that may explain the apparent absence of antimatter in the natural universe.",0.010406128130853176,0.9895938634872437,-0.9791877435628682
+7781,"Antiprotons are routinely made in physics laboratories, as are antielectrons, which are also called positrons.",0.9907048344612122,0.009295102208852768,0.9814097944039966
+2852,"ERROR IN SITING REACTOR PLANT IN SOUTH RUSSIA IS DISCLOSED
+
+The problems at the giant Atommash reactor-manufacturing plant that brought censure from the Politburo last summer and evidently set back the nuclear power program apparently stemmed from siting the factory too close to a manmade lake, Soviet sources said today.",0.007212734315544367,0.9927873015403748,-0.985574531885164
+2852,"They said geological surveys of the site at Volgodonsk, on the Don River's Tsimlyansk Reservoir in southern Russia, had failed to take account of the effect the reservoir would have on the shore area, and the foundations of the plant were undermined by erosion.",0.0010677857790142298,0.9989321827888489,-0.9978644283738481
+8146,"Radioactive Iodine Detected in Ocean, Despite Gains at Japanese Plant
+
+TOKYO -- Workers made incremental progress at the stricken Fukushima Daiichi nuclear plant on Thursday, but disturbingly high radiation readings there as well as miles away continued to reinforce fears that Japan's crisis was far from over.",0.004860553424805403,0.995139479637146,-0.9902788934707976
+8146,"The death toll from the earthquake and tsunami that crippled the plant three weeks ago rose to nearly 11,600, with more than 16,000 people listed as missing.",0.006558057852089405,0.9934419393539429,-0.9868838842581883
+5080,"Iran’s Captive Minds; Bret Stephens
+
+In June 2014, Dina Esfandiary and Ariane Tabatabai wrote an article in The Bulletin of the Atomic Scientists, making the case that Iran had “genuine and reasonable concerns” about its nuclear fuel supplies and that it would need many more centrifuges to become energy independent.",0.9813594818115234,0.01864050328731537,0.9627189928688763
+5080,"There had to be “a mechanism to guarantee Iranian supply,” they wrote, a position plainly sympathetic to Tehran’s interests.",0.9972967505455017,0.002703197533264756,0.9945936046517692
+6210,The action has renewed a debate over whether Japan is trying to sanitize its past.,0.0073234401643276215,0.9926764965057373,-0.9853531187427734
+6210,"A5
+Kenya churches warned of curbs    A11
+ 
+National    A16-31, B4-6
+ 
+Atomic Energy officials denied being informed of serious reactor incidents at the Savannah River Plant.",0.001779363607056439,0.9982206225395203,-0.9964412727355901
+6210,They suggested that the commission was kept in the dark because of national security concerns.,0.0010928998235613108,0.9989070892333984,-0.9978142003279603
+9470,THE NATION: Order on Nuclear Plants; Atoms for Peace And War: Is There A Clear Distinction?,0.9842332005500793,0.015766829252243042,0.9684663424343216
+9470,"IN April 1946, in a proposal to the newly formed United Nations, the United States took the first formal steps to establish a doctrine of clear division between civilian and military uses of nuclear technology.",0.9956958293914795,0.004304165486246347,0.9913916689824217
+9470,That was the cornerstone of Washington's political effort to control the spread of nuclear weapons while promulgating the development of nuclear power.,0.986156702041626,0.013843257911503315,0.9723134830672627
+9470,Now critics of the Reagan Administration are arguing that the United States has taken a provocative step toward breaching that doctrine.,0.002684728940948844,0.9973152279853821,-0.9946305418858254
+1646,(30.),0.03948139771819115,0.9605186581611633,-0.9210372089750863
+1646,A method for disposing of nuclear wastes by storing them chemically in high-silica glass was developed.,0.990362286567688,0.009637747891247272,0.9807245048807377
+1646,Radioactive atoms become part of the glass and suitable for storage.,0.9859640598297119,0.014035864733159542,0.9719282684150582
+1646,Patents.,0.02453068643808365,0.9754693508148193,-0.9509386289505601
+6691,"New Rules on Atom Fuel to Japan
+
+Japan and the United States have agreed that aircraft carrying plutonium from Europe to Japan will not enter American airspace or refuel at American airports, resolving Congressional concerns about the safety of the shipments.",0.993775486946106,0.0062244972214102745,0.9875510053590935
+6691,"In letters exchanged between the two nations and in a letter from the State Department to Congress, officials enumerated for the first time some details about the shipments that had been left vague in a recent agreement between the two countries.",0.9959976673126221,0.00400233268737793,0.991995334624252
+123,2 More U.N.,0.9933972358703613,0.006602798122912645,0.9867944042020893
+123,"Inspection Teams Arrive in Baghdad
+
+United Nations inspectors of nuclear and ballistic weapons arrived here today in the latest test of whether Baghdad is willing to comply fully with the gulf war cease-fire.",0.9928713440895081,0.007128701079636812,0.9857425984837351
+123,"The start of their mission, which follows a standoff with Baghdad over United Nations flights, comes as the Government has made it clear that it wants improved relations with Washington.",0.9925359487533569,0.007464027032256126,0.985071945573029
+2538,There were three.,0.9200313091278076,0.07996874302625656,0.8400625222880362
+2538,"There was the man seen around the world as a Stalinist maniac, who 44 years ago sent his troops pouring over the 38th parallel to unify the Korean Peninsula on his own terms, and who four decades later burst again onto the front pages as a man in search of a nuclear bomb to save his regime.",0.982528030872345,0.01747196912765503,0.9650560617437248
+2538,"This was the Kim who intimidated his neighbors into silence, who used his unpredictability as a weapon.",0.014108274132013321,0.9858917593955994,-0.9717834526810349
+3854,"Principle of Equivalence
+Even though the new findings seemed to undermine a basic assumption made by Einstein - the principle of equivalence that stemmed from Galileo's work - scientists said the hypothesized new force, called the hypercharge, was so weak and local that, if it did exist, it should not fundamentally alter Einstein's principles as the basic tool of modern cosmology.",0.9942641854286194,0.005735753104090691,0.9885284930857077
+3854,"The other known forces are electromagnetism, gravity and the strong and weak forces governing nuclear structure.",0.989983081817627,0.010016870684921741,0.9799662576776249
+3854,"The new analysis suggests that, contrary to Galileo's assertion, a feather would fall faster than a coin if dropped from the same height in a vacuum.",0.01738482527434826,0.9826151132583618,-0.965230347313142
+6271,The fighting seems to suggest the violence in Natal province has spread.,0.0027563676703721285,0.9972436428070068,-0.9944872647160202
+6271,"A1
+ 
+Rebel leader in Liberia bars West Africans from leaving    A10
+ 
+Soviet nuclear weapons production has a history of intense radioactive contamination and exposure of high doses to workers, according to American experts who studied the Soviet program.",0.003685288829728961,0.9963147044181824,-0.9926294222897827
+6271,"A3
+ 
+Some Soviet citizens forced into exile between 1966 and 1988 have had their citizenship restored.",0.9961135387420654,0.0038863997906446457,0.9922271999399456
+3106,"A dabbler before he became a serious painter in 1954, Von Bruenchenhein used his fingers, bakers' tools, even strands of his wife's hair to get pigment on canvas.",0.9948635697364807,0.005136442370712757,0.9897271153819605
+3106,"At first his fervent imagery tended toward the big bang, as in ''Atomic Age'' (1955), depicting the atmospheric inferno of a nuclear explosion.",0.9707242846488953,0.029275745153427124,0.9414485114371746
+3106,"But gradually the work began to reflect an exaggerated, Surrealistic view of the natural world, rife with reptilian coils, sinister insectoid palps and spiky vegetation, floating in a kind of cosmic soup and animated by brilliant color transitions.",0.9975003600120544,0.002499678637832403,0.9950006429165646
+4082,Some electric utilities and power plants coordinate their unpaid bills.,0.0015716240741312504,0.998428463935852,-0.9968567521273778
+4082,"Kursk Atomic Power Station, a government-owned nuclear plant, has been left with millions in unpaid bills by local electric utilities across central Russia.",0.0017925123684108257,0.9982074499130249,-0.99641497512696
+4082,"So instead of promising to pay off its suppliers itself, Kursk Atomic pays off its own bills with i.o.u.",0.0013868262758478522,0.9986131191253662,-0.997226347295869
+4082,'s that companies can redeem in the form of electricity at local utilities that owe Kursk Atomic money.,0.988655686378479,0.011344281025230885,0.9773114372089979
+4082,"""You can talk about these things for weeks and never get a thing done,"" laughed Mr. Baranov, who heads Rossiisky Kredit's veksel-trading operation.",0.0006383662112057209,0.9993616938591003,-0.9987232676532835
+11311,"UKRAINE TO CLOSE CHERNOBYL PLANT
+
+Ukraine's Government has agreed to shut down the remaining nuclear reactors at its power plant in Chernobyl, which was heavily damaged in a catastrophic accident in 1986, the Clinton Administration said today.",0.011477821506559849,0.9885221719741821,-0.9770443568362496
+11311,"After three days of meetings with an American delegation, Ukraine abandoned its insistence that nuclear production must continue at the plant, agreeing instead to a joint effort with the United States to find options like energy conservation and nonnuclear power generation to replace electricity from the plant, which generates about 1,800 megawatts of power.",0.9810938835144043,0.01890614628791809,0.9621877085500956
+11311,A thousand megawatts is often described as the amount of electricity used by a million typical American homes.,0.8829830288887024,0.11701694130897522,0.7659661104065302
+3014,"Security risks, which had helped prompt the Energy Department to overhaul lab management, have remained a problem.",0.0018811739282682538,0.9981188178062439,-0.9962376521113696
+3014,"And Livermore's biggest project, the National Ignition Facility, a giant array of lasers designed to fuse hydrogen atoms, has been plagued by delays, cost overruns, and heath and safety concerns.",0.0015220404602587223,0.9984779953956604,-0.9969559191876338
+3014,"''Everybody thought that with privatization we could save money and get more transparency,'' said Peter Stockton, a senior investigator at the nonprofit Project on Government Oversight who has studied the national laboratories since the 1970s.",0.9894111752510071,0.01058883685618639,0.9788223265430505
+5645,"LONG ISLANDERS; NUCLEAR METHODS PUT TO OTHER USES
+
+''IT'S not a question of whether we're going to do it or not,'' said Garman Harbottle of Setauket, a senior chemist at the Brookhaven National Laboratory in Upton.",0.9755292534828186,0.02447080798447132,0.9510583870384145
+5645,''It's a question of whether we're going to do it right.,0.9903586506843567,0.009641398675739765,0.9807172035993403
+5062,"Iran and U.S. Agree on Path Back to Nuclear Deal
+
+In indirect talks in Vienna, the U.S. and Iran agreed to try to synchronize Washington’s lifting of sanctions and Iran’s limiting of uranium enrichment.",0.998432457447052,0.00156754394993186,0.996864912103519
+5062,BRUSSELS — The United States and Iran agreed through intermediaries on Tuesday to establish two working groups to try to get both countries back into compliance with the 2015 Iran nuclear deal.,0.9969606995582581,0.003039262257516384,0.9939214752518696
+5062,"In a meeting of the current members of the deal in Vienna, all parties agreed to establish one working group to focus on how to get the United States back to the deal by lifting harsh economic sanctions imposed or reimposed after President Donald J. Trump pulled out of the accord in May 2018.",0.9968360662460327,0.0031638683285564184,0.9936722629278987
+8495,Russians Balk at Opening Nuclear Sites to U.S.,0.001398879219777882,0.9986011385917664,-0.9972022416092794
+8495,"Eyes
+
+This was supposed to be a banner day for American-Russian cooperation.",0.001185235334560275,0.9988148212432861,-0.9976295294639979
+8768,"The typical Con Edison customer uses only 3,199 kilowatt hours a year - about half the national average.",0.0007096446352079511,0.9992903470993042,-0.9985807107168544
+8768,"New Plants May Be Needed
+If Con Edison's Indian Point nuclear power plant was ordered closed, Mr. Kleinman said, ''it would clearly hasten the day when new power plants would have to be built.''",0.010896123014390469,0.9891039133071899,-0.9782077547617696
+8768,"''I seriously doubt those measures could prevent that from happening,'' he added.",0.0005767906550318003,0.9994232654571533,-0.9988464187536674
+4570,"India Leader Struggles To Complete Nuclear Deal
+
+The Indian government is desperately trying to salvage a landmark nuclear deal with the United States that has emerged not only as a personal test for Prime Minister Manmohan Singh, but also as a symbol of the difficulties of enacting policy in India's system of coalition politics.",0.9722474217414856,0.0277525894343853,0.9444948217506035
+4570,"At issue this week is whether the fragile government led by Mr. Singh's Congress Party will go through with the deal, even if it means being pushed to the brink of what, in a time of discontent over soaring food and fuel prices, it wants to avoid: early elections,  before the end of its five-year term in May.",0.008315236307680607,0.9916847944259644,-0.9833695278947704
+4628,"Inspector Lists Computers With Atomic Secrets as Missing
+
+The office in charge of protecting American technical secrets about nuclear weapons from foreign spies is missing 20 desktop computers, at least 14 of which have been used for classified information, the Energy Department inspector general reported on Friday.",0.0013799058506265283,0.9986201524734497,-0.9972401884587131
+4628,"This is the 13th time in a little over four years that an audit has found that the department, whose national laboratories and factories do most of the work in designing and building nuclear warheads, has lost control over computers used in working on the bombs.",0.0007016770541667938,0.9992983341217041,-0.9985966459063514
+4628,"Aside from the computers it cannot find, the department is also using computers not listed in its inventory, and one computer listed as destroyed was in fact being used, the audit said.",0.002572675934061408,0.9974272847175598,-0.994854647928421
+3987,"Hiroshima and Nagasaki in Black and White
+
+The mushroom cloud is one of those images that's hard to process without resorting to abstractions.",0.005645375698804855,0.9943546056747437,-0.988709248391095
+3987,In our minds this symbol of nuclear Armageddon has somehow become detached from the weapon's deadly efficacy.,0.006606033071875572,0.9933939576148987,-0.9867879337322152
+3987,"Art has sometimes attacked this disconnect: see Warhol's ''Atomic Bomb,'' Takashi Murakami's skull-faced plume and the ending montage of ''Dr.",0.007375160697847605,0.992624819278717,-0.9852496783079675
+3987,Strangelove.'',0.7884317636489868,0.21156823635101318,0.5768635272973968
+117,"2 IN HOUSE WITHDRAW ATOM CURB
+
+Members of the House Foreign Affairs Committee backed away today from a measure to cut off aid to any nation that manufactures a nuclear bomb.",0.02515285089612007,0.9748470783233643,-0.9496942946461464
+117,They acted after Administration officials told them privately that Israel might fall into that category.,0.00489978538826108,0.995100200176239,-0.990200429081026
+7626,"At the Los Alamos laboratory, Lazarus evolved the manual calculations of the Manhattan project into computerized numerical analysis.",0.9978526830673218,0.002147306688129902,0.9957053865787482
+7626,"In 1951, his first assignment was to estimate yields of atomic explosions using a method proposed by Hans Bethe and a primitive computer.",0.9905245900154114,0.009475400671362877,0.9810491984798001
+7626,"He soon moved his calculations to a more powerful device -the first stored-memory computer, MANIAC, which was designed by Nick Metropolis and others.",0.996609091758728,0.003390897996723652,0.9932182039360831
+9692,"But the plant at Al Dawrah has as sinister a history as any on the weapons inspectors' list of about 1,000 sites across Iraq -- sites the inspectors plan to search painstakingly.",0.9720150828361511,0.02798488363623619,0.9440302308500509
+9692,"Al Dawrah's story took a sharp turn in 1995, when Mr. Hussein's son-in-law, Gen. Hussein Kamel, then in charge of all of Iraq's nuclear, biological and chemical weapons programs, defected to neighboring Jordan with millions of dollars of government money.",0.012139596045017242,0.987860381603241,-0.9757208073663076
+9692,"Among the secrets he took with him was confirmation of a huge biological weapons program that Iraq had insistently denied, with Al Dawrah as one of the principal production plants.",0.9875810146331787,0.01241900585591793,0.9751619887960973
+485,"A Q&A ON NUCLEAR POLITICS; PROPOSALS, LIKE WEAPONS, ARE ALSO PROLIFERATING
+
+ALTHOUGH the United States and the Soviet Union have apparently made little progress in arms control negotiations, there has been no shortage of ideas and theories for and against different proposals offered by the two sides.",0.008378776721656322,0.9916212558746338,-0.9832424471019381
+485,What follows is a discussion of some of the arguments.,0.9975437521934509,0.002456192160025239,0.9950876154055973
+6989,"North Korea Shows Video of Atom Site
+
+Partly lifting the veil of strict secrecy from its mysterious nuclear projects, North Korea suddenly broadcast a videotape today showing what it described as a series of conventional nuclear power plants, on the same site that the United States maintains is the core of a huge weapons complex.",0.9940330386161804,0.005966948810964823,0.9880661022270392
+6989,"The release came just hours before the beginning of an elaborate 80th birthday celebration for North Korea's hard-line Communist leader, Kim Il Sung.",0.9958926439285278,0.004107391461730003,0.9917852173662713
+11383,"To the outside world, the administration seems divided over whether to promote the overthrow of Iran's Islamic Republic -- perhaps by force -- or to tacitly support the approach embraced by the Europeans, which favors negotiations and a series of incentives that would ultimately require American participation.",0.004318139515817165,0.995681881904602,-0.9913637211523669
+11383,"''You need to get everybody to read from the same page, the Europeans and the Americans,'' said Mohamed ElBaradei, head of the International Atomic Energy Agency, in an interview in Davos on Friday.",0.9839203953742981,0.016079576686024666,0.9678408457284664
+11383,"''This is not a process that is going to be solved by the Europeans alone,'' he added.",0.006852871272712946,0.993147075176239,-0.9862942567196309
+5694,"Leaving Iran's Nuclear Past a Mystery
+
+VIENNA -- The Iranian nuclear crisis began a decade ago when Tehran's leaders refused to answer questions from international inspectors about evidence that a secret team of scientists, working in a complex organization that sprawled across military and university laboratories, were experimenting with the technology to build a nuclear weapon.",0.00331454211845994,0.9966854453086853,-0.9933709156787403
+5694,"Ten years of standoffs, sanctions, cyberattacks and negotiations followed.",0.9930257797241211,0.006974236108362675,0.9860515280031275
+1118,"America Needs France's Atomic Anne
+
+It's not often that I find myself recommending a French state-owned industry as the answer to major U.S. problems, but I guess there's an exception to every rule.",0.991356611251831,0.008643381297588348,0.9827132372750442
+1118,"In this case the exception is the French nuclear energy company Areva, which provides about 80 percent of the country's electricity from 58 nuclear power plants, is building a new generation of reactor that will come on line at Flamanville in 2012, and is exporting its expertise to countries from China to the United Arab Emirates.",0.9966153502464294,0.0033846336882561445,0.993230732513744
+1118,"Contrast that with the United States, where just 20 percent of electricity comes from nuclear plants, no commercial reactor has come on line since 1996, no new reactor has been ordered for decades, and debate about nuclear power remains paralyzing despite its clean-air electricity generation in the age of global warming.",0.017580021172761917,0.9824199676513672,-0.9648399572605673
+1118,"Areva is headed by Anne Lauvergeon, a brilliant product of France's top schools.",0.9987479448318481,0.0012520290911197662,0.9974959417514646
+3986,"Hiroshima and History
+
+To the Editor:
+A mere catalogue of heretofore unknown horrors in the development of nuclear weapons - specific facts disclosed for the first time in my book, ''Day One: Before Hiroshima and After'' - would be far too long for this space.",0.9571117758750916,0.042888205498456955,0.9142235874044617
+3986,"But in fairness to your readers, permit me to mention a few of these additions to history that remained studiedly ignored in Nathan Reingold's review (Nov. 18).",0.9906883239746094,0.00931168906390667,0.9813766221140264
+5937,"Man in the News: Avul Pakir Jainulabdeen Abdul Kalam; Self-Made Bomb Maker
+
+Among the Indian scientists who successfully detonated five nuclear tests in the northwestern desert last week, none seemed more visibly delighted by the acclaim waiting in New Delhi than Dr. A. P. J. Abdul Kalam.",0.9957375526428223,0.004262404050678015,0.9914751915284729
+5937,"An impish, shaggy-haired bachelor, Dr. Kalam is widely regarded as the central figure in India's drive to join the small club of nuclear-armed nations.",0.9959375858306885,0.004062463995069265,0.9918750724137002
+5937,"Dr. Kalam, 66, has never hidden the passion for a powerful India that has driven him since he was growing up in a poor family on the coast of Tamil Nadu.",0.998518168926239,0.0014818098861724138,0.9970363801638662
+5901,"MUSIC REVIEW; Reich Evokes a Nuclear Holocaust
+
+This season's new-music adventures at Miller Theater came to an end on Thursday evening with a program devoted to two of Steve Reich's big works of the 1980's, ""Tehillim"" (1981) and ""The Desert Music"" (1984, in a revised edition from this year).",0.9968804121017456,0.003119655651971698,0.9937606891177992
+5901,"The performers were Ossia and Alarm Will Sound, two energetic ensembles from the Eastman School of Music that joined forces in both works and were conducted by Alan Pierson.",0.9987375140190125,0.001262530218809843,0.9974749396730859
+8305,"Review/Television; Iran and the A-Bomb: Fears Despite Denials
+
+Iran already ranks high on the ever-lengthening list of countries whose prospective possession of a nuclear bomb sends a chill along the global spine, and tonight's ""Frontline"" report will do nothing to stop the shivers.",0.0014148516347631812,0.9985852241516113,-0.9971702969439293
+8305,"The picture that emerges from ""Iran and the Bomb"" is of a Government bent on acquiring the ingredients of a nuclear weapon even as it makes peaceful overtures to the West.",0.028388196602463722,0.9716118574142456,-0.9432236098610031
+8305,"The technique is to buy a reactor here, some fuel there and other elements anywhere they can be found in the international arms bazaar.",0.0050248815678060055,0.9949750900268555,-0.9899502365779311
+443,Why is a light ray so fast and a whisper so slow?,0.009767739102244377,0.9902322292327881,-0.9804645211759405
+443,Why are atoms so tiny and stars so big?,0.03766186535358429,0.9623380899429321,-0.9246762659246734
+443,Why is the universe so old?,0.9507113099098206,0.04928867518901825,0.9014226481521451
+5879,"MOSCOW NOW SEES CHERNOBYL'S PERIL LASTING FOR YEARS; PLANS BADLY HURT
+
+The Chernobyl disaster did serious harm to the Soviet nuclear power program and has forced a review of the location and size of atomic generating plants, a Government official said today.",0.005521564278751612,0.9944784641265869,-0.9889568717551915
+5879,"Some nuclear stations are near big cities, and a four-reactor station similar to the Chernobyl plant is situated not far from Leningrad.",0.031892258673906326,0.9681077599525452,-0.9362154838393303
+5879,Nuclear central steam plants are under construction in the suburbs of other cities.,0.9765525460243225,0.023447474464774132,0.9531050520303337
+5879,"The official, Andronik M. Petrosyants, who is chairman of the State Committee for the Peaceful Uses of Atomic Energy, said at a news conference that the Chernobyl accident ''hurt the nuclear program badly.''",0.04302319139242172,0.9569768309593201,-0.913953619137529
+5879,"Report Sent to Vienna Agency
+The news conference was called to discuss a report on the accident that has been submitted to the International Atomic Energy Agency in Vienna.",0.9890276193618774,0.010972382500767708,0.9780552350383618
+5879,"The report, which has become available abroad but was not distributed here, did not deal with the issue of whether the accident had set back the nuclear power program and had forced a basic review of siting policies.",0.0014148852787911892,0.9985851049423218,-0.9971702294137484
+5879,"In assessing the causes of the Chernobyl accident, the report mentioned some reactor design flaws, but attributed the disaster mainly to six operator errors.",0.01412809919565916,0.9858719706535339,-0.9717438035813823
+10899,U.S.,0.06606671959161758,0.9339332580566406,-0.8678665578624845
+10899,"Delays New Mexico Waste Site's Opening
+
+Faces with a lawsuit and growing political opposition in New Mexico, the United States Department of Energy today postponed at least until the end of November the opening of the nation's first permanent nuclear waste repository.",0.0012963013723492622,0.9987037181854248,-0.9974073973050095
+10899,"The postponement came one day before the first truckload of waste was to leave a Government nuclear weapons plant in Idaho and head south to Carlsbad, N.M., the site of the repository, the Waste Isolation Pilot Plant.",0.0019302498549222946,0.9980698227882385,-0.9961395005695981
+10899,"The decision was made after a lawsuit was filed today in Federal District Court in Washington by Tom Udall, New Mexico's Attorney General, seeking a court order to halt its opening.",0.0018962629837915301,0.9981037378311157,-0.9962074740345112
+6197,But the new study found that there was no evident benefit in taking AZT early.,0.0007490766001865268,0.9992509484291077,-0.9985018468361261
+6197,"A1
+ 
+U.N. TO PRESS NORTH KOREA
+The International Atomic Energy Agency declared that North Korea had violated its obligations to open its suspected nuclear weapons sites to inspections.",0.0012577951420098543,0.9987422823905945,-0.997484409910023
+6197,"For the first time, the agency asked the United Nations Security Council to enforce the provisions of international agreements intended to limit the spread of nuclear arms.",0.9967910647392273,0.003208966925740242,0.9935820663507495
+6197,"A2
+ 
+HARSH LIFE FOR BOSNIA YOUNG
+Bosnian children had no worries before the war, refugees say, and now they make up a large part of the refugee flood.",0.011042553931474686,0.9889574646949768,-0.9779148925474398
+9972,"The 1991 Budget: Nuclear Weapons; Administration Plans No Money for Plutonium Processing Plant
+
+The Bush Administration has notified Idaho lawmakers that it will not provide money in next year's budget to build a plutonium processing plant that was once the centerpiece of the Energy Department's plan to rebuild its deteriorating nuclear weapons industry.",0.0014349162811413407,0.998565137386322,-0.9971301675907367
+9972,"The plant, using advanced lasers to purify plutonium for bombs, was to have been the first new nuclear weapons manufacturing plant since a military nuclear reactor was completed in 1963 at the Hanford Reservation in Washington State.",0.9951809644699097,0.004819072317332029,0.9903618557189062
+9972,"Government plans call for its construction at the Idaho National Engineering Laboratory, a 890-square-mile Federal atomic reservation near Idaho Falls.",0.9918099045753479,0.008190094493329525,0.9836198109971022
+9972,"The Government has spent $588 million on planning and research for the project, which was proposed in 1981.",0.9955747127532959,0.004425332881510258,0.9911493346398866
+5433,Dr. Greenstein's research was rich and broad.,0.9987726807594299,0.001227258937433362,0.9975454819761206
+5433,"He measured the elemental makeup of stars, finding that they varied considerably, some rich in carbon, others heavier in other atoms.",0.9978590607643127,0.002140902914106846,0.9957181940152686
+5433,"Working with physicists, he helped explain how nuclear reactions within stars could produce all of the naturally occurring elements.",0.9983591437339783,0.001640830421820283,0.9967183390705509
+5433,"Dr. Greenstein also explained how the vibrations of electric and magnetic fields in light from distant stars, which point in random directions when they are emitted, become partly lined up by the time they reach Earth.",0.9969959259033203,0.0030040517449378967,0.9939918963748386
+11516,"If the scribes listen very closely, they can sometimes hear a nuance dropping.",0.9755204916000366,0.024479540064930916,0.9510409214194747
+11516,"For example, there was the Taiwan press's remarkable report in March of a nuclear scientist who had defected to the United States.",0.997198224067688,0.0028018062002956867,0.9943963877680242
+11516,"Like other dispatches from around the world, the Taiwanese reports were translated and made available to the public and press by the Foreign Broadcast Information Service.",0.9979370832443237,0.0020629733335226774,0.9958740535653958
+11681,"Washington; SUMMITRY AND THE BOMB (2)
+
+When the leaders of the major industrial nations meet in Ottawa on July 20-21, President Reagan will be asked some hard questions about United States policy on the export of nuclear knowledge and materials to other countries.",0.9813206791877747,0.01867935061454773,0.9626412998833178
+11681,"For while Washington, long before the days of Reagan, has talked more about the dangerous spread of nuclear weapons than any other capital in the world, it has been the principal exporter of nuclear information ''for peaceful purposes,'' without having any effective policy for keeping its information and nuclear materials from being used in secret to produce atomic weapons.",0.0141295175999403,0.9858704209327698,-0.9717409630621413
+11681,"As The Wall Street Journal pointed out the other day, the United States supplies nearly all the noncommunist world's highly enriched uranium for power plants.",0.0748801976442337,0.9251198172569275,-0.8502396069422861
+3481,"-- everyone turns to wearing pelts, carrying torches and cannibalism.)",0.002692323410883546,0.9973076581954956,-0.9946153530781952
+3481,"The cause of the ''Afterworld'' calamity seems to be atomic, as a Japanese sage tells the hypersquare ad guy, Russell Shoemaker, that the phenomena in burnt-out New York remind him of Hiroshima.",0.01474193949252367,0.9852580428123474,-0.9705161204922611
+3481,"Shoemaker will spend the balance of the 130-episode series on a vision quest, crossing the country using bootlegged transportation, in an effort to find his wife and child, dead or alive, in Seattle.",0.9971367120742798,0.002863305853679776,0.9942733883943126
+10749,The United Nations cease-fire resolutions ending the Persian Gulf war required Iraq to give up all of its weapons of mass destruction.,0.9888705611228943,0.011129382997751236,0.9777412327597143
+10749,An Iraqi team was at the International Atomic Energy Commission in Vienna today to discuss demolition of installations at Al Atheer nuclear plant outside Baghdad.,0.0072627500630915165,0.9927372336387634,-0.9854744996360928
+10749,The plant had escaped damage in allied attacks during the gulf war last year.,0.9956153631210327,0.0043846964836120605,0.9912306075544811
+3651,"American diplomats, for their part, stressed that their military forces continued to enjoy a remarkable degree of patience and even support, given the undisputed enormity of West Germany's military burden.",0.9986338019371033,0.001366221928037703,0.9972675562081373
+3651,"#900,000 NATO Troops More than 900,000 soldiers from seven different countries - about 250,000 of them American - armed with 10,000 tanks, 1,600 jet fighters, 1,600 helicopters, plus large arsenals of chemical, nuclear and other weapons fill hundreds of bases and depots across the densely populated lands.",0.9898766875267029,0.010123323649168015,0.9797533529269581
+3651,Their maneuvers cause millions of dollars in damage annualy to land and roads and their jets scream past regularly at tree-top level.,0.002775004366412759,0.9972250461578369,-0.99444999154659
+11917,"With Issues to Resolve, Bush Welcomes Putin to Camp David
+
+President Bush welcomed President Vladimir V. Putin of Russia to Camp David today for another meeting intended to show the two as problem-solvers who work best in informal settings, even as they appear still divided on Iraq and on Russia's continued insistence that its sales of nuclear technology to Iran are benign.",0.9974243640899658,0.002575654536485672,0.9948486910219844
+11917,The meeting came during a week when the International Atomic Energy Agency has found new evidence that Iran is enriching uranium.,0.03261594474315643,0.9673840403556824,-0.9347681095407214
+11917,"Mr. Putin, who expressed doubts two years ago that Iran was seeking nuclear weapons, has begun to concede that Tehran may be doing exactly that -- even while denying that Russian technology is contributing to the effort.",0.00924756284803152,0.9907524585723877,-0.9815048746991287
+11917,"For two years now, Mr. Bush has been raising the issue, and for two years White House officials have insisted that they are making progress, without much noticeable change in the Russian position.",0.0008749407134018838,0.999125063419342,-0.9982501185794297
+11334,The account was supported by local residents reached by telephone in recent days.,0.9985914826393127,0.0014084449503570795,0.9971831098943167
+11334,"North of the dam, speculation continued to swirl around Russian intentions at the Zaporizhzhia Nuclear Power Plant, which has been occupied by Russian forces since early in the war, and where Ukrainian intelligence has estimated that at least 500 Russian soldiers are garrisoned.",0.01710229367017746,0.9828976988792419,-0.9657954124038353
+11334,"Rafael Mariano Grossi, the head of the International Atomic Energy Agency, said at a news conference in Rome on Friday that the agency was “almost there” in brokering a deal for Russian troops to pull out of the plant and to create a demilitarized zone around the facility, which has been at the center of frequent shelling.",0.9935338497161865,0.006466185208410025,0.9870676300338506
+11334,"“We have a proposal on the table which, simply put, is aiming to stop the folly of bombing the largest nuclear power plant in Europe,” he said.",0.9964202642440796,0.0035797124728560448,0.9928405748866017
+11334,"Although the Kremlin has pushed back on Ukrainian suggestions that its forces were preparing to leave the nuclear plant, Alexei Likhachev, the head of Russia’s nuclear energy agency, confirmed that negotiations were continuing with the International Atomic Energy Agency, the United Nations’ nuclear watchdog group.",0.9947715401649475,0.005228487309068441,0.9895430256681685
+10866,U.S.,0.06606671959161758,0.9339332580566406,-0.8678665578624845
+10866,"CITES PAKISTANI PLEDGE NOT TO MAKE ATOM ARMS
+
+Pakistan has given the Reagan Administration ''absolute assurances'' that it is neither developing nor planning to develop nuclear weapons, Under Secretary of State James L. Buckley said today.",0.9956948757171631,0.004305058158934116,0.9913898831118059
+10866,"''I was assured by the ministers and by the President himself that it was not the intention of the Pakistan Government to develop nuclear weapons,'' he told a Senate Government Affairs subcommittee.",0.9936422109603882,0.006357732694596052,0.9872845338933675
+10866,"Mr. Buckley added that Pakistan, which has not signed a 1968 treaty to curb the spread of nuclear weapons technology, had made no promise not to seek a weapons-making ability or nuclear explosions such as one by India in 1974.",0.00266211642883718,0.9973378777503967,-0.9946757671103399
+10866,"''One has to make a distinction between the nuclear option and nuclear weapon,'' he told the Senate panel.",0.9804497957229614,0.019550146535038948,0.960899704671232
+10866,"Pakistan vows to Reagan Administration that it is neither developing nor planning to develop nuclear weapons$3 Billion Aid Accord Reached
+Mr. Buckley's testimony was in the context of the United States' policy on the nuclear spread, now under review.",0.996819257736206,0.00318077951669693,0.9936384412025989
+10866,"At the end of a visit Mr. Buckley made to Pakistan earlier this month, the two sides announced a $3 billion aid package, including the supply of advanced F-16 fighter planes.",0.9982056617736816,0.0017943650018423796,0.9964112700914088
+11819,"White House Hails Action By Pakistani On Atom Sales
+
+The White House praised President Pervez Musharraf of Pakistan on Thursday for breaking up what now appears to have been one of the world's largest nuclear proliferation networks, and made little mention of his decision to pardon Abdul Qadeer Khan, the scientist at its center, and terminate any investigations into whether the military was involved.",0.995267391204834,0.004732646048069,0.990534708255481
+11819,"In a reflection of how far the administration is going to bolster General Musharraf, the White House spokesman, Scott McClellan, declined to answer questions from reporters traveling here with President Bush about whether the United States would now press Pakistan to sign the nuclear nonproliferation treaty.",0.0020537865348160267,0.9979462027549744,-0.9958924268853792
+11819,"In the past few months, the White House has issued stern warnings that Libya and Iran must fully comply with the treaty -- including allowing highly intrusive inspections by international inspectors -- and demanded that North Korea rejoin the treaty, which it renounced last year.",0.9934648871421814,0.006535152439028025,0.9869296956382954
+7110,"Nuclear Commission Fines Pennsylvania Utility
+
+The Philadelphia Electric Company has paid the Nuclear Regulatory Commission $50,000 for illegally dismissing a worker who was exposed to radioactive gas at its Peach Bottom Atomic Power Station.",0.02127402275800705,0.9787259101867676,-0.9574519516299596
+7110,"The worker, George A.",0.9788463115692139,0.021153656765818596,0.9576926851277454
+12133,"The group said it was granting the prisoners amnesty to mark the Lighting Festival, a three-day holiday that begins today.",0.9980658888816833,0.001934161758981645,0.9961316766769349
+12133,"North Korea launched a ballistic missile off its east coast this morning, just hours after special envoys on North Korea met in Washington, D.C., to discuss how to deal with the isolated country’s nuclear capabilities.",0.0012958828592672944,0.9987040758132935,-0.997408234173357
+12133,"The Chinese economy increased by 4.9 percent in the third quarter, markedly slower than the 7.9 percent increase in the second quarter.",0.0031634534243494272,0.9968365430831909,-0.9936730931282111
+3292,FOR L.I.,0.9911043643951416,0.00889563374221325,0.9822087324814525
+3292,"ATOM LAB'S WORKERS, A DEATH WATCH FOR A DREAM
+
+For five years, Marty Woodle has carried a small loose-leaf notebook, scribbling down ideas as he went about his job at the Brookhaven National Laboratory.",0.9942733645439148,0.005726574454456568,0.9885468503914375
+3292,"Today, he crossed out almost everything in the notebook.",0.0005063634016551077,0.9994935989379883,-0.9989872731575512
+2069,"CLINTON APPROVES A PLAN TO GIVE AID TO NORTH KOREANS
+
+President Clinton approved a plan today to arrange more than $4 billion in energy aid to North Korea during the next decade in return for a commitment from the country's hard-line Communist leadership to freeze and gradually dismantle its nuclear weapons development program.",0.9921557307243347,0.007844336330890656,0.9843113283892417
+2069,"""This agreement will help achieve a longstanding and vital American objective -- an end to the threat of nuclear proliferation on the Korean Peninsula,"" Mr. Clinton said this afternoon, after his top foreign policy advisers described the details of an enormously complex agreement struck with North Korea late Monday.",0.9977560639381409,0.0022439148742705584,0.9955121701553771
+2069,"American and North Korean officials plan to sign the broad accord on Friday, and almost immediately the United States will begin a remarkable new foreign aid program: it will provide for the North, with which it has never signed a peace treaty ending the Korean War, supplies of heavy oil to keep factories running and homes heated.",0.9982178807258606,0.0017820927314460278,0.9964358144415084
+6328,"NEWS SUMMARY
+
+INTERNATIONAL   A3-5
+ 
+Serb Forces Bombard Villages in Kosovo
+Hundreds of Serb police officers pounded villages in Kosovo Province with mortar rounds, set fire to homes and appeared to shoot at men indiscriminately in a sweep to stamp out ethnic Albanian separatist rebels, according to people who fled.",0.001919405534863472,0.9980806112289429,-0.9961611889936299
+6328,"A3
+Russia to Sell Reactors to Iran
+Russia's Atomic Energy Ministry said that it planned to sell several more nuclear reactors to Iran, a rebuff to the United States.",0.7088183164596558,0.2911817133426666,0.41763659067003117
+6328,"Ukraine, meanwhile, withdrew from the Russian program to build a reactor in Iran.",0.0043131145648658276,0.9956868290901184,-0.9913737703832319
+1316,"At Argonne Lab, a Shift From Radioactivity to Supercomputers - Correction Appended
+
+Argonne National Laboratory, the nuclear research facility in the Chicago suburbs that midwifed the atomic bomb, is ending its use of highly radioactive materials -- much to the relief of its neighbors -- in favor of supercomputers that will allow it to pursue a broader palate of scientific research.",0.9966484904289246,0.003351496532559395,0.9932970068464908
+1316,Argonne hopes to lure more federal dollars to help its scientists develop technologies that could support innovations in energy conservation and other fields.,0.9984157085418701,0.00158426642883569,0.9968314670620256
+11720,"West Knew of North Korea Nuclear Development
+
+Several weeks ago, international inspectors showed North Korean officials American surveillance photographs and chemical evidence laying bare an elaborate effort to deceive the inspectors about how much nuclear-bomb fuel the country has produced.",0.002063952386379242,0.9979361295700073,-0.9958720955645537
+11720,That was their last encounter before North Korea's surprise announcement today that it would become the first country to pull out of the Nuclear Nonproliferation Treaty.,0.002559029497206211,0.9974409341812134,-0.9948819408186967
+11720,"The evidence, several diplomatic officials here said, made it clear that investigators knew that North Korea has produced plutonium from its nuclear wastes for at least three years beginning in 1989, enough time to generate enough of the material to produce one or more nuclear weapons.",0.9814466238021851,0.018553316593170166,0.962893364600969
+11720,"""They realized that it was only a matter of time before their huge investment in this project would be shut down,"" one American official said today.",0.0014806510880589485,0.9985193610191345,-0.997038697858738
+11548,The explosion in the Florida skies should make us wonder.,0.0044763111509382725,0.9955236911773682,-0.9910473777179768
+11548,"Mr. Reagan's Strategic Defense Initiative, or ''Star Wars'' policy, depends on the assumption that we might create, maybe in the next century long after he's gone, a shield that would defend the United States from hostile nuclear attack.",0.006628642324358225,0.9933713674545288,-0.9867427154799382
+11548,"But that assumes there will be no accidents, that maybe this defense system would work 96 percent of the time, as a High Frontier report suggests.",0.9869569540023804,0.013043003156781197,0.9739139925679173
+4193,India quickly blamed Pakistan and two Islamic groups operating openly there for the Dec. 13 assault.,0.0034256589133292437,0.9965744018554688,-0.9931486825886946
+4193,"Western diplomats say the troop mobilizations now are the largest they have seen in more than a decade between the two nuclear adversaries, which have waged hot and cold wars for the last half century.",0.9754084348678589,0.02459155209362507,0.9508168951705244
+4193,Both nations say they are reacting defensively to each other's buildups and have every hope that strenuous efforts to resolve their differences through diplomacy will succeed.,0.9933532476425171,0.00664677144959569,0.9867064573536236
+10870,"U.S. CONSULTS IRAQIS ON ISRAELI RAID
+
+The United States has met with Iraq to seek a compromise that would condemn Israel's June 7 raid on Iraq's nuclear reactor but not demand an arms embargo against the Israelis.",0.011920658871531487,0.9880793690681458,-0.9761586829220795
+10870,"Jeane J. Kirkpatrick, the American chief delegate, and Saadun Hamadi, Foreign Minister of Iraq, have been consulting away from the Security Council, where a debate on the raid is under way.",0.009029768407344818,0.990970253944397,-0.9819404635879905
+1666,"BUSINESS TECHNOLOGY; Withstanding 3,000-Degree Heat
+
+An exotic carbon material that has enormous structural strength and can withstand temperatures as high as 3,000 degrees Fahrenheit is being considered for use in such things as nuclear waste containers, laser shields in space weapons systems and even replacements for human bones.",0.9963691234588623,0.0036309268325567245,0.9927381466991027
+1666,"The material, known as a carbon-carbon composite, is being used here by the B.F. Goodrich Company to fabricate wheel brakes for advanced airliners, like the Boeing Company's 747-400.",0.9960151314735413,0.003984892275184393,0.9920302156379113
+6036,"Mohammad Zia ul-Haq: Unbending Commander for Era of Atom and Islam
+
+Mohammad Zia ul-Haq constantly promised democracy without ever really giving it during the 11 years he ruled Pakistan.",0.9882586002349854,0.011741412803530693,0.9765171746981433
+6036,"General Zia, who took power in a coup as his fractious nation deteriorated into fierce rioting, later refused to stop the execution of the man he overthrew, Zulfikar Ali Bhutto, despite protests from leaders around the world.",0.0037914179265499115,0.9962085485458374,-0.9924171638916733
+7301,"Among the laureates are Saul Bellow, the novelist, and Milton Friedman, the conservative economist, whose teachings influenced not only his colleagues but also influential scholars at the university's law school, like Edward H. Levi, who served as attorney general in the Ford administration.",0.998084306716919,0.001915769767947495,0.9961684607561635
+7301,"Beneath the Stagg Field grandstands, Enrico Fermi and his co-workers achieved the first controlled, self-sustaining nuclear reaction on Dec. 2, 1942, the most important step in developing the atomic bomb.",0.9961806535720825,0.0038193403743207455,0.9923613192041246
+7301,"The site is marked with a massive bronze by Henry Moore, ""Nuclear Energy.""",0.9954214692115784,0.004578466527163982,0.9908430663562452
+7301,"In the Loop
+Frank Lloyd Wright's prototypical Prairie Style building, the Robie House, stands nearby, echoing the horizontality of the plains in its strip windows, the deep overhang of its eaves and even in the proportions of his trademark Roman bricks, very long and very skinny.",0.9984068274497986,0.0015931344823911786,0.9968137309129266
+6891,"Nominee for Energy Post Is Accused of Lying
+
+Two former Government investigators testified today that Victor Stello Jr., President Bush's choice to head the nation's nuclear weapons industry, lied to them in an investigation of the Three Mile Island nuclear accident.",0.0006064389017410576,0.9993935823440552,-0.9987871222212875
+6891,"One of the investigators, Julian Greenspun, formerly of the Justice Department, also told the Senate Armed Services Committee that Mr. Stello had been ''a total bully'' when he headed the staff of the Nuclear Regulatory Commission.",0.003971663769334555,0.9960283041000366,-0.9920566722051147
+6891,"Both Mr. Greenspun and John Sinclair, a former N.R.C.",0.9921301007270813,0.007869837805628777,0.9842603234202829
+12198,The airstrikes underscored how many conflicting currents Mr. Biden faces as he attempts to fashion a coherent Iran policy.,0.0010151980677619576,0.9989847540855408,-0.9979696037663304
+12198,"Those include pressures from Congress, from Israel and from Arab allies who worry about his determination to get back into the Iran nuclear accord, and now from a new leader in Tehran, Ebrahim Raisi, the incoming hard-liner who was elected president two weeks ago.",0.009697428904473782,0.9903025031089783,-0.9806051408714823
+12198,He will be inaugurated in August.,0.9985136389732361,0.0014863364631310105,0.9970273269997213
+8368,Rockets strike near spent-fuel storage at an occupied nuclear site.,0.006484369747340679,0.9935156106948853,-0.987031260250692
+8368,Ukraine and Russia blame each other.,0.0008692013216204941,0.9991307854652405,-0.998261597332791
+11048,"U.S. Plans More Sea Exercises On Halting Illegal ArmsTrade
+
+The Bush administration, stepping up pressure on North Korea and Iran on the issue of nuclear programs, announced today that the United States and other nations would carry out 10 joint military exercises in coming months to train for the interception of shipments to and from nations suspected of having illegal arms programs.",0.994331955909729,0.005668026395142078,0.9886639470081343
+11048,"The first exercise -- scheduled for the Coral Sea off Australia this weekend, with Britain, Japan and Australia taking part -- was disclosed over the summer.",0.9980109333992004,0.0019891427364200354,0.996021714829053
+8927,"''While we belonged to different political parties, Scott Matheson never let politics get in the way of doing what was right for the people of Utah,'' he said.",0.9987093210220337,0.001290655229240656,0.9974186894792184
+8927,"As Governor, Mr. Matheson successfully opposed placement of the MX missile system in Utah's western desert and was an early campaigner against open-air testing of atomic weapons.",0.9961695075035095,0.003830443136394024,0.9923391133480776
+8927,"His mother and several aunts, uncles and cousins had died of cancer, and he was particularly concerned about the effects of radiation on health.",0.9580128788948059,0.04198707640171051,0.9160258434417257
+8899,"Science and Secrecy
+
+STALIN AND THE BOMB
+The Soviet Union and Atomic Energy, 1939-1956.",0.9943320751190186,0.005667929537594318,0.9886641409766094
+8899,By David Holloway.,0.992183268070221,0.007816731929779053,0.9843665361394575
+5820,That finding has now been challenged by physicists.,0.0013900541234761477,0.9986099004745483,-0.9972198916258281
+5820,"Thomas A. Cahill, director of the Crocker Nuclear Laboratory at the Davis campus, and his associates have used a powerful cyclotron to fire a penetrating beam of protons through the Vinland Map, and have concluded from their experiment that the ink contains only trace amounts of titanium, amounts consistent with a genuine medieval document.",0.9977355003356934,0.002264429582282901,0.9954711405170471
+5820,"''In the light of these results, the prior interpretation that the map has been shown to be a 20th-century forgery must be re-evaluated,'' they reported in the journal Analytical Chemistry.",0.996513307094574,0.0034867029171437025,0.9930265942345352
+8364,"Robert Serber, 88, Physicist Who Aided Birth of A-Bomb - Correction Appended
+
+Robert Serber, a theoretical physicist who was the intellectual midwife at the birth of the atomic bomb and helped shape particle physics research for decades, died on Sunday at his home on the Upper West Side in Manhattan.",0.018281035125255585,0.9817189574241638,-0.9634379294761167
+8364,He was 88.,0.9940618872642517,0.005938076414167881,0.9881238467393155
+2685,"Despite Sabotage, Iran's Top Leader Endorses Talks to Salvage Nuclear Deal
+
+The declaration by Ayatollah Ali Khamenei appeared to put to rest any speculation that Iran would boycott or quit the Vienna talks aimed at saving the nuclear deal.",0.9983434677124023,0.0016565211117267609,0.9966869577385237
+2685,"Iran's top leader said Wednesday that his country would keep negotiating with world powers over how to salvage the 2015 nuclear deal, quashing speculation that Iran's delegation would boycott or quit participating in protest of the apparent Israeli sabotage of a major uranium enrichment site.",0.9983056783676147,0.001694321632385254,0.9966113567342328
+2685,"The declaration by the top leader, Ayatollah Ali Khamenei, who has the last word on security matters in the country of 80 million, came three days after an explosive blast at the Natanz enrichment site plunged the heavily guarded facility into a blackout and disabled or destroyed hundreds of underground centrifuges used to process uranium into fuel.",0.017985964193940163,0.982014000415802,-0.9640280703380998
+6387,"Prime Minister Yasuhiro Nakasone said he had ordered the Bank of Japan to lower interest rates, in an effort to spur Japanese consumption, especially of foreign goods.",0.9901182055473328,0.00988185778260231,0.9802362856854498
+6387,"Page A1
+ 
+ News analysis: An accord to remove medium- and short-range nuclear missiles in Europe would have little battlefield impact on a war between NATO and the Warsaw Pact countries.",0.002814161591231823,0.9971857666969299,-0.9943716764129246
+6387,"A1
+ 
+ Efforts to protect the ozone layer advanced as officials said a 31-country meeting had agreed in principle to freeze and ultimately reduce production and consumption of chloroflourocarbon chemicals.",0.9982892870903015,0.0017107217572629452,0.9965785565147489
+1127,"In the traditional fate of truly innovative ideas, it was at first rejected by Nature, a leading journal, but Dr. Lauterbur persuaded the editors to reverse their decision.",0.9969967603683472,0.003003246383741498,0.9939935072720792
+1127,"His idea concerned a technique called nuclear magnetic resonance, or N.M.R., spectroscopy.",0.034493882209062576,0.9655061364173889,-0.9310122368659409
+1127,"In that process, molecules are entrained in a strong magnetic field and zapped with radio waves.",0.893342137336731,0.10665778070688248,0.7866844211028743
+6437,"NORTH KOREANS UNVEIL NEW PLANT FOR NUCLEAR USE - Correction Appended
+
+WASHINGTON -- North Korea showed a visiting American nuclear scientist earlier this month a vast new facility it secretly and rapidly built to enrich uranium, confronting the Obama administration with the prospect that the country is preparing to expand its nuclear arsenal or build a far more powerful type of atomic bomb.",0.009152006357908249,0.9908479452133179,-0.9816959863967609
+6437,"Whether the calculated revelation is a negotiating ploy by North Korea or a signal that it plans to accelerate its weapons program even as it goes through a perilous leadership change, it creates a new challenge for President Obama at a moment when his program for gradual, global nuclear disarmament appears imperiled at home and abroad.",0.009289361536502838,0.9907106757164001,-0.9814212776181241
+6437,The administration hurriedly began to brief allies and lawmakers on Friday and Saturday -- and braced for an international debate over the repercussions.,0.018178438767790794,0.981821596622467,-0.963643123750134
+8169,"Rate of Nuclear Thefts 'Disturbingly High,' Monitoring Chief Says
+
+Mohamed ElBaradei, the chief of the International Atomic Energy Agency, said in a speech on Monday that the number of reports of nuclear or radioactive material stolen around the world last year was ''disturbingly high.''",0.9832136631011963,0.016786308959126472,0.9664273811427725
+8169,"Dr. ElBaradei, in his annual report to the General Assembly, said nearly 250 such thefts were reported in the year ending in June.",0.9914826154708862,0.008517397567629814,0.9829652050858657
+8091,"RICKOVER, FATHER OF NUCLEAR NAVY, DIES AT 86 - Correction Appended
+
+Adm. Hyman G. Rickover, the crusty and outspoken naval officer who became the father of the nuclear Navy, died this morning at at his home in Arlington, Va.",0.01175333559513092,0.9882466197013855,-0.9764933277579315
+8091,He was 86 years old.,0.9944272041320801,0.005572780035436153,0.988854439751677
+11412,"But now that uranium prices have increased tenfold, the government has a precious commodity -- and some tough questions -- on its hands.",0.012041967362165451,0.9879580140113831,-0.9759160648260949
+11412,"Furious lobbying has broken out over who should end up with the prize, which will eventually end up as nuclear reactor fuel after being run through an enrichment plant.",0.004446676000952721,0.9955533146858215,-0.9911066479142777
+11412,"And though the material's market value has been estimated at $750 million to $3 billion, one of the companies most vocal in making its case says it deserves the uranium -- without paying a cent for it.",0.9949179887771606,0.005082049872726202,0.9898359006463989
+999,"Across Iran, Nuclear Power Is a Matter of Pride
+
+From nuclear negotiators to student dissidents, from bazaar merchants to turbaned mullahs, Iranians agree: the right to develop nuclear power is a point of national pride.",0.9978050589561462,0.0021949741058051586,0.9956100519325343
+999,"''For a country to have nuclear energy means that it has made progress in all other fields as well, so other countries have to respect its technology,'' said Nilufar, 29, a graduate student in energy management at the prestigious Sharif Industrial University.",0.9976721405982971,0.0023278535809367895,0.9953442928100313
+999,"Nilufar, covered in black so only her face was showing, agreed to be interviewed on such a delicate topic only if her family name was not used.",0.0051071783527731895,0.9948928356170654,-0.9897856434361567
+4718,"Iran Crosses a Key Threshold: It Again Has Sufficient Fuel for a Bomb
+
+So far, the evidence suggests that Iran’s recent actions are calculated to pressure the Trump administration and Europe rather than rushing for a bomb.",0.017247619107365608,0.9827523827552795,-0.9655047618485556
+4718,"WASHINGTON — Iran’s growing stockpile of nuclear fuel recently crossed a critical threshold, according to a report issued Tuesday by international inspectors: For the first time since President Trump abandoned the 2015 nuclear deal, Tehran appears to have enough enriched uranium to produce a single nuclear weapon, though it would take months or years to manufacture a warhead and deliver it over long distances.",0.025617334991693497,0.9743826389312744,-0.948765328679616
+4718,"The International Atomic Energy Agency, which monitors nuclear capabilities and reports to the United Nations, also documented for the first time how Iran’s leadership blocked its inspectors from visiting three critical sites where there was evidence of past nuclear activity.",0.0024773157201707363,0.9975226521492004,-0.9950453683994681
+4718,"The agency’s newly appointed director, Rafael Mariano Grossi, an Argentine diplomat who has spent most of his life working on nuclear issues, said it was urgent for “Iran immediately to cooperate fully with the agency” by allowing it access to the sites, and to answer additional questions “related to possible undeclared nuclear material and nuclear-related activities.”
+In response, Iran said it rejected the agency’s new rounds of questions because it had been cleared of responsibility to answer for its nuclear past.",0.0070597524754703045,0.9929401874542236,-0.9858804941999105
+4718,"Iran, the report quoted Tehran as saying, “will not recognize any allegation on past activities and does not consider itself obliged to respond to such allegations.”
+Taken together, the findings and the demand for more intrusive inspections take the standoff between Washington and Tehran into new territory.",0.0026104748249053955,0.9973894953727722,-0.994779050193598
+10621,"U.N. AIDES SAY IRAQ MAY BE CONCEALING NUCLEAR MATERIAL
+
+United Nations officials said today that they had intelligence information indicating that Iraq has tried to mislead the United Nations by understating its nuclear weapons program and the amount of weapons-grade nuclear material it possesses.",0.004121339414268732,0.9958786964416504,-0.9917573214660195
+10621,"As a result, the special commission appointed by the Security Council to oversee the destruction or removal of Iraq's chemical and biological arms and its nuclear weapons materials has ordered its experts to make new inspections of undisclosed nuclear sites in Iraq next week.",0.9931268692016602,0.006873122416436672,0.9862537550509207
+10621,The inspections were ordered after the United States provided the commission with fresh intelligence from an Iraqi nuclear scientist who defected more than a week ago to American forces occupying an enclave in northern Iraq.,0.17426617443561554,0.8257338404655457,-0.651467656321654
+10621,"Information From Defector
+ In Washington, Government officials who follow the Iraqi nuclear program said the defector had reported that Iraq had eight primary sites for nuclear research and development, three of which were bombed extensively by the American-led military coalition in the Persian Gulf war.",0.03648807480931282,0.9635118842124939,-0.9270238473900164
+10621,"Most of the defector's reports remain unproven and will require additional investigation, the officials said.",0.0015692120650783181,0.9984307885169983,-0.9968615758706733
+7438,"Order on A-Plant Takeovers Causes Confusion in Government and Industry
+
+An executive order directing the Nuclear Regulatory Commission to prepare plans to take control of civilian nuclear plants in the event of a national security emergency was greeted today by puzzlement and confusion in the Government and the nuclear industry.",0.0027143375482410192,0.9972857236862183,-0.9945713252349453
+7438,Neither the Department of Energy nor the N.R.C.,0.0015783123672008514,0.9984216690063477,-0.9968433752058048
+818,"AROUND THE WORLD; China Nuclear Accord Approved by the Senate
+
+The Senate quietly voted approval today of a long-delayed nuclear cooperation agreement between the United States and China.",0.998490571975708,0.0015094481641426682,0.9969811037315177
+818,The action means that American companies can sell China with materials and technology for an ambitious civilian nuclear power program.,0.996959924697876,0.003040149575099349,0.9939197013004092
+818,"The agreement was initialed last year by President Reagan, during his trip to China.",0.9979234933853149,0.0020764917135238647,0.9958470165100721
+1837,"Homer's heroes dismounted from their chariots to fight on foot with spears, using their chariots for show.''",0.0071932063437998295,0.9928067922592163,-0.9856135872913172
+1837,He documents that ''showing the flag'' - by chariot or nuclear aircraft carrier - had its antecedents in Homer.,0.9867107272148132,0.013289252296090126,0.9734214948622768
+1837,The author reaches back to ancient China to reveal how the economy of the marketplace was mobilized to gain military advantage.,0.9987347722053528,0.0012652603909373283,0.9974694792996134
+5831,The fuse was effective against the German V-1 ''buzz bombs'' that were launched toward Britain at the end of the war.,0.9985206723213196,0.0014792939182370901,0.9970414120626455
+5831,"In 1945, when the Army made the details of the fuse public, its significance was compared with that of the atomic bomb.",0.9937127232551575,0.006287262309342623,0.9874254751988077
+5831,Dr. Tuve was made a Commander of the Order of the British Empire.,0.9975053668022156,0.0024946576450020075,0.9950106848309758
+9081,"And because the plant was built when detection systems were not required, the leak went unnoticed until discovered almost by chance when workers excavating around the pool noticed dampness in the surrounding dirt.",0.00400899862870574,0.995991051197052,-0.9919820031410992
+9081,"The leak, which was found in September, has been the latest worry for local officials and nearby residents concerned about the Indian Point nuclear reactors.",0.0032143089920282364,0.9967856407165527,-0.9935713816916456
+9081,"It comes on top of repeated failures in tests of the plant's sirens, which are meant to warn of an emergency.",0.0004877840983681381,0.9995121955871582,-0.9990244317824466
+7309,"OPPONENTS OF ATOM POWER PLANTS IN NORTHWEST SEEM TO BE WINNING
+
+A plan to temporarily shelve two nuclear reactor projects in Washington State appears to be falling apart because of opposition in some of the public-power districts that took part in financing them, officials said today.",0.0036773658357560635,0.9963226318359375,-0.9926452683103711
+7309,"The public utility districts, as utilities that furnish public power are called here in the Northwes t, were leading forces in raising about $2.5 billion for the Washington Public Power Supply System's Proj ects 4 and 5.",0.9971555471420288,0.002844400703907013,0.9943111982944975
+9828,"Ultrasonic waves, for example, are beamed at the heart and their reflections provide doctors with a picture of that organ.",0.9986409544944763,0.001359103131107986,0.9972817938934249
+9828,Nuclear magnetic resonance (N.M.R.),0.9569496512413025,0.043050337582826614,0.9138993238711829
+9828,operates at the molecular level.,0.9950448274612427,0.004955139476805925,0.9900897207177449
+12057,"World Leaders Strike Agreement With Iran to Curb Nuclear Ability and Lift Sanctions
+
+VIENNA --  Iran and a group of six nations led by the United States reached a historic accord on Tuesday to significantly limit Tehran's nuclear ability for more than a decade in return for lifting international oil and financial sanctions.",0.9985507130622864,0.0014493281487375498,0.9971013438209843
+12057,The deal culminates 20 months of negotiations on an agreement that President Obama had long sought as the biggest diplomatic achievement of his presidency.,0.9987364411354065,0.0012635750463232398,0.9974728499472496
+11320,"In addition, the Morris County Medical Society and the county's Public Health Association have announced opposition to further uranium-related activity and at least two state legislators are introducing ''moratorium'' or ''banning'' bills in this fall's session.",0.0018007219769060612,0.9981992840766907,-0.9963985560669931
+11320,"Uranium mine operations in New Jersey meet local opposition
+This grass-roots opposition to the front end of the nuclear industry has its origins in fears about the health effects of mining, ore processing and mine-waste storage, which up to now have been limited almost entirely to sparsely populated desert areas of the Southwest.",0.0037494474090635777,0.996250569820404,-0.9925011053100822
+11320,Such development is not out of the realm of possibility.,0.9957072138786316,0.004292868543416262,0.99141426361983
+9494,"THE REGION; Lilco Loses Ruling On Shoreham Plan
+
+An appeals board of the Nuclear Regulatory Commission today upheld a decision that the Long Island Lighting Company lacked the authority on its own to implement an emergency-response plan at the Shoreham nuclear power plant.",0.0016724636079743505,0.9983275532722473,-0.9966550728395177
+9494,Lilco drafted its own plan after Suffolk County and New York State refused to participate in emergency planning on the ground that no plan could insure the safe removal of residents in case of an accident.,0.9762985706329346,0.02370140515267849,0.9525971885458604
+10476,"The scientists, at the University of Illinois, did not speculate just how hot the bubble became, but said they had managed to create a state of matter called plasma inside the bubble.",0.9923251867294312,0.0076747736893594265,0.9846504520127428
+10476,"In it, some of the electrons have been stripped off the atoms.",0.001463358523324132,0.9985365867614746,-0.9970732827922187
+10476,"''This is the first definitive proof of the existence of a plasma'' during this kind of bubble implosion, said one of the scientists, Dr. Kenneth S. Suslick, a professor of chemistry at Illinois.",0.997075080871582,0.002924959873780608,0.9941500804898017
+9680,"One, which investigates for evidence that Iraq has biological and chemical weapons and long-range missiles that are prohibited, is based in New York and headed by Hans Blix.",0.993461012840271,0.006538942456245422,0.9869221145018953
+9680,"The inspectors who will hunt for signs of a nuclear weapons program are based in Vienna in the Iraq action team of the International Atomic Energy Agency, headed by Jacques Baute.",0.9919435977935791,0.008056406863033772,0.9838871863479797
+9680,"Both team leaders have said they are ready to begin work in Iraq as soon as the logistical arrangements for their communications, transportation, laboratories and lodging there can be arranged.",0.9974639415740967,0.0025360919535160065,0.9949278162620312
+2864,The announcement last Friday that a coalition of Japanese and American scientists had found strong evidence that neutrinos undergo transformation from one type to another (and therefore have mass) also evokes comparisons with Buddhist traditions of dualism.,0.0579400509595871,0.9420599937438965,-0.8841199032601856
+2864,"Neutrino particles have been called ""ghostly"" because of their extraordinary ability to evade entrapment by the electromagnetic and ""strong"" nuclear forces, which affect most other particles.",0.9983105659484863,0.0016894701402634382,0.9966210598404182
+2864,"By contrast, a neutrino can easily zip through the entire earth without hindrance, although once in a great while a neutrino may bang into an electron orbiting an atom and send the electron careening away (where a man-made detector may spot it).",0.9964397549629211,0.0035602243151515722,0.9928795512211546
+2864,It has been known for a decade that neutrinos come in three families.,0.9755562543869019,0.024443751201033592,0.9511124978701618
+8606,"SENATE ATOM-WAR PANEL HEARS HIROSHIMA SURVIVOR
+
+Shigeko Sasamori, her face still scarred from that first blast at Hiroshima despite 39 subsequent operations, recalled in a crowded, silent Senate hearing room that she had been so disfigured by burns that her father could not recognize her when she was found in the rubble.",0.9837839007377625,0.016216110438108444,0.9675677794852737
+8606,"Miss Sasamori and other Hiroshima survivors, as well as American physicians, public health experts and Government officials, testified this week before the Senate Subcommittee on Health and Scientific Research on the probable impact of nuclear war on human health.",0.9977694749832153,0.0022304877638816833,0.9955390243050568
+8606,"Senator Edward M. Kennedy, chairman of the subcommittee, a contender for the Democratic Party's Presidential nomination, said that he had called the hearing because many people seemed to have forgotten about the true meaning of a nuclear war at a time ''when the Soviet Union and the United States may face the onset of a new nuclear arms race.''",0.9953321814537048,0.004667858127504587,0.990664284113519
+8606,"With a floundering strategic arms limitations treaty cooling relations between the United States and the Soviet Union, policy makers in Washington are beginning to talk again of mass evacuations and acceptable losses in the event of a nuclear war.",0.002299348823726177,0.9977006316184998,-0.9954013022616119
+8606,"AN-AA Generation Gap
+Noting that an entire generation of Americans had not even been born in 1945 when the bombs of Hiroshima and Nagasaki ''wiped two great cities from the face of the earth in a nuclear flash,'' Senator Kennedy said: ''It is easier in 1980 to think of the nuclear issue in terms of missile shell games, megatonnage and throw-weights.",0.9855217933654785,0.014478186145424843,0.9710436271148893
+8606,It is perhaps easier to talk technologically and statistically of these things now that the mushroom cloud of a nuclear explosion is a fading shadow on our national memory.'',0.0698319599032402,0.9301680326461792,-0.860336079152082
+8606,"Mr. Kennedy did not directly criticize the President's national security policies, and an aide said that the hearing was not intended to identify the Massachusetts Democrat, who is still campaigning for the Presidential nomination, as the peace candidate.",0.003516076598316431,0.9964839220046997,-0.9929678467925503
+2682,"Despite Its Warnings of Shortage, U.S. Sells Vital Nuclear Gas
+
+The Federal Government has sold American and foreign companies millions of dollars worth of tritium for commercial use even as it has raised alarms over whether it will have enough of the radioactive gas to maintain the nation's nuclear arsenal.",0.008854428306221962,0.9911455512046814,-0.9822911430237353
+2682,"The only American reactors that make the gas, at the Department of Energy's Savannah River Plant in South Carolina, have been shut for safety reasons since April.",0.004060809034854174,0.9959392547607422,-0.9918783824474231
+4027,"House Opens Inquiry Into U.S. Nuclear Power Venture in Saudi Arabia
+
+WASHINGTON -- Top Trump administration officials have pushed to build nuclear power plants throughout Saudi Arabia over the vigorous objections of White House lawyers who question the legality of the plan and the ethics of a venture that could enrich Trump allies, according to a new report by House Democrats released on Tuesday.",0.005761486478149891,0.9942384958267212,-0.9884770268388112
+4027,"The report is the most detailed portrait to date of how senior White House figures -- including Michael T. Flynn, President Trump's first national security adviser -- worked with retired military officers to circumvent the normal policymaking process to promote an export plan that experts worried could spread nuclear weapons technology in the volatile Middle East.",0.9920921921730042,0.007907834835350513,0.98418433075547
+4027,Administration lawyers warned that the nuclear exports plan -- called the Middle East Marshall Plan -- could violate laws meant to stop nuclear proliferation and raised concerns about Mr. Flynn's conflicts of interest.,0.001332701649516821,0.9986673593521118,-0.9973345968625629
+4027,Mr. Flynn had worked on the issue for the company promoting the nuclear export plan and kept pushing it once inside the White House.,0.012504156678915024,0.9874957799911499,-0.9749916850574201
+4027,"But even after Mr. Flynn was fired, the proposal appears to have lingered.",0.002423179103061557,0.997576892375946,-0.9951536421392945
+5025,"Iran's New Leader Turns to Conservatives for His Cabinet
+
+Iran's new president, Mahmoud Ahmadinejad, on Sunday nominated a cabinet dominated by conservatives as officials warned that Iran would not give in to pressure from the West over its nuclear program.",0.001391024561598897,0.9986090064048767,-0.9972179509619552
+5025,Mr. Ahmadinejad's selections for his 21-member cabinet provide the first window into the policies that he may pursue in the next four years.,0.9973106384277344,0.0026894123293459415,0.9946211756133269
+3566,"Britain has allowed modest experiments, though those have met with public discontent.",0.0037746839225292206,0.9962253570556641,-0.9924506324633084
+3566,"Industry hopes that Germany, which decided to end its atomic power after the Fukushima Daiichi nuclear disaster in Japan, would be receptive to fracking have also met with disappointment.",0.0005259251338429749,0.9994741082191467,-0.9989481497663973
+3566,"On Wednesday, the European Parliament voted to tighten the rules on fracking, giving initial approval to a measure to require in-depth environmental impact studies on all such projects.",0.9839889407157898,0.016011115163564682,0.967977771461284
+4660,"Iran's Nuclear Program
+
+To the Editor:
+In '' 'Loose' War Talk Only Helps Iran, President Says'' (front page, March 5), you write, ''Recent assessments by American spy agencies have also reaffirmed intelligence findings in 2007 and 2010 that Iran had abandoned its nuclear program.''",0.004858531057834625,0.9951415061950684,-0.9902829382453291
+4660,I disagree with that statement.,0.0007160876994021237,0.9992839694023132,-0.9985678246819768
+7539,"''Fiskadoro's'' physical geography is gritty, lyrical, surrealistic - a landscape so densely concrete, and so disjointed, that it affects one like a feverish dream whose symbols and images demand interpretation.",0.9982889294624329,0.0017110228072851896,0.9965779542210979
+7539,"It is set in a time-warp described as the Quarantine, some 60 years after the nuclear destruction.",0.9898175597190857,0.010182438418269157,0.9796351231245495
+7539,"The place is the Florida Keys, seemingly the only part of our globe, aside from Cuba, to have survived.",0.9984397292137146,0.001560293254442513,0.9968794135602318
+6572,"NUCLER ARMS AND NEW JOBS CLASH IN IDAHO
+
+A plan to build the first new atomic weapons plant in a quarter of a century has ignited a major political struggle in the Northwest over jobs and nuclear disarmament.",0.9905778169631958,0.009422260336577892,0.98115548078254
+6572,At stake in the battle for public opinion is a $1 billion facility using advanced technology to purify plutonium.,0.9923363327980042,0.0076636625453829765,0.9846726748368759
+7859,"Power has been restored to the Zaporizhzhia nuclear plant, a U.N. watchdog says.",0.9967256784439087,0.0032743157353252172,0.9934513684902381
+7859,Maintaining power at Europe’s largest nuclear plant has been crucial to prevent a meltdown in the shadow of fighting nearby.,0.9981293082237244,0.0018707152921706438,0.9962585695026455
+7859,"After nearly a week offline, the Zaporizhzhia Nuclear Power Plant in southern Ukraine resumed receiving electricity from the country’s power grid, the International Atomic Energy Agency, the U.N. nuclear watchdog, said on Saturday.",0.9818861484527588,0.018113872036337852,0.9637722566686342
+7859,The restoration came after engineers finished repairing a high-voltage line damaged by  shelling.,0.9980123043060303,0.0019876728765666485,0.9960246541551636
+4675,"Iran, Behind Schedule, Installs Equipment at Site for Large-Scale Uranium Enrichment
+
+International nuclear investigators have confirmed that Iran is beginning to install equipment in the large underground chamber in Natanz, the center where Iranian officials have said they will move to industrial-scale enrichment of uranium, according to foreign diplomats and American officials.",0.005139684304594994,0.9948602318763733,-0.9897206305282135
+4675,"Iran said last year that it planned to install 3,000 centrifuges by this spring at Natanz, as a first step toward putting more than 50,000 of the devices in operation to produce nuclear fuel.",0.012076923623681068,0.9879230856895447,-0.9758461529766121
+4675,"But the program has been behind schedule, and based on reports from investigators from the International Atomic Energy Agency, the centrifuges are just now beginning to be assembled.",0.0019405049970373511,0.9980594515800476,-0.9961189898364045
+4675,"Nonetheless, the move signals a continued defiance of the Untied Nations Security Council, which demanded last summer that Iran suspend all uranium enrichment.",0.003036431735381484,0.9969635605812073,-0.9939271364815828
+3253,"FILM REVIEW; A Man, a Woman and an Atomic Bomb
+
+Matthew Broderick has always radiated the boyish charm of a canny whiz kid ingratiating himself with the grown-ups by batting his eyes and doing adorably cute parlor routines.",0.9975054860115051,0.0024945198092609644,0.995010960409523
+3253,What prevents him from becoming an insufferable goody-two-shoes is his brash side-of-the-mouth cheekiness.,0.007542431820183992,0.9924576282501221,-0.9849151372647993
+8029,"REACTOR SAFETY PROBLEMS OF 1985 LISTED - Correction Appended
+
+Safety suffered at commercial nuclear reactors in the United States last year because of broken emergency equipment, inadequately trained operators, badly designed or maintained machinery, management weaknesses and insufficient attention to detail, the Nuclear Regulatory Commission said in a report released today.",0.0031382336746901274,0.9968618154525757,-0.9937235329579716
+8029,The commission has said some of the failures could have been avoided if the industry and the regulators had learned from past mistakes.,0.001999751664698124,0.9980002045631409,-0.9960004964945408
+10116,"''Obsession | Calm'' is set to two movements from Ernest Bloch's ''Four Episodes,'' and ''Brahms Dances'' continues Mr. Rübsam's exploration of this composer's work through a selection of songs.",0.9986926913261414,0.0013072775909677148,0.9973854447357993
+10116,"Also on the program is ''Petit Pas'' (a tribute to Neil Armstrong, whose voice features in the work), and ''Half-Life 102,'' a sextet whose title refers to the 2011 earthquake and Fukushima nuclear disaster in Japan.",0.9975709319114685,0.0024291016161441803,0.9951417969296004
+10116,"At 3 and 8 p.m., Peridance Capezio Center, 126 East 13th Street, East Village, (212) 868-4444, sensedance.org; $30 and $55.",0.9969890713691711,0.003010908607393503,0.9939781826636416
+7176,Nuclear Panel Is Re-examining G.E.,0.03132910281419754,0.9686709642410278,-0.9373417985722273
+7176,"Documents
+
+The Nuclear Regulatory Commission is re-examining documents of the General Electric Company that raised questions about the safety and design quality of some of the company's nuclear plants.",0.01803441159427166,0.9819656014442444,-0.9639311772807766
+7176,"The documents, written in 1975, could leave G.E.",0.9964246153831482,0.0035753692500293255,0.9928492613890644
+42,"'SAFE' FORM OF RADIATION AROUSES NEW WORRY
+
+UNLIKE the dangerous ionizing radiation emitted by nuclear fission and X-rays, the nonionizing radiation that issues from radio transmitters, radar, electric power lines, microwave ovens and a vast array of modern devices has long been considered relatively safe.",0.9604514837265015,0.03954857960343361,0.9209028458014294
+42,"But a spate of recent scientific reports has fueled concern that low doses of nonionizing radiation can cause subtle biological effects in humans and animals that might, conceivably, cause health damage as well.",0.03945871442556381,0.960541307926178,-0.9210825729118932
+7655,"Pakistan Breaks Ground on Nuclear Plant Project With China
+
+ISLAMABAD, Pakistan -- Prime Minister Nawaz Sharif on Tuesday ceremonially broke ground on a $9.59 billion nuclear power complex to be built in Karachi with China's help, seeking to ease Pakistan's long-running energy crisis and signaling a new step by China in becoming a top nuclear supplier.",0.9983870983123779,0.0016129068098962307,0.9967741863957342
+7655,"The deal, which officials said was still being finalized, is a major new advance in energy cooperation between the two countries, dwarfing previous reactor projects built along with China at Chashma, in Pakistan's interior.",0.9987657070159912,0.0012343751732259989,0.997531249855455
+2290,"China Plans Power Plants on the Sea for Islands
+
+HONG KONG -- All the radar systems, lighthouses, barracks, ports and airfields that China has set up on its newly built island chain in the South China Sea require tremendous amounts of electricity, which is hard to come by in a place hundreds of miles from the country's power grid.",0.0063606672920286655,0.9936392903327942,-0.9872786648758866
+2290,Beijing may have come up with a solution: floating nuclear power plants.,0.9914196729660034,0.008580349385738373,0.9828393016111119
+2290,"A state-owned company, China Shipbuilding Industry Corporation, is planning to build a fleet of the vessels to provide electricity to remote locations including offshore oil platforms and the contentious man-made islands, the state-run newspaper Global Times reported on Friday.",0.9937928915023804,0.006207042373716831,0.987585914430711
+2948,But questions that have troubled scientists and environmentalists about food irradiation have never been answered satisfactorily.,0.003908591810613871,0.9960914254188538,-0.9921828165124659
+2948,"No one knows whether the process creates new chemicals at levels that may be harmful, or whether the loss of nutrients from irradiation is unacceptably high, or to what extent adding more processing plants that use nuclear components increases the risk of nuclear accidents.",0.0024670581333339214,0.9975329637527466,-0.9950658838403255
+2948,The proponents of food irradiation ridicule these concerns.,0.0006997407763265073,0.9993002414703369,-0.998600518421503
+12166,"'Missing Link' of Atomic Matter Found
+
+A team of Russian and American scientists has discovered a new element that has long stood as a missing link among the heaviest bits of atomic matter ever produced.",0.9975213408470154,0.0024786025751382113,0.9950427945682605
+12166,"The element, still nameless, appears to point the way toward a brew of still more massive elements with chemical properties no one can predict.",0.9890235662460327,0.010976414196193218,0.9780471711772871
+1668,Also vulnerable to grit are fuel injectors.,0.0020199960563331842,0.9979800581932068,-0.9959600081055053
+1668,"These are very small, so that the fuel is atomized into a fine mist as it is sprayed.",0.004730681423097849,0.9952693581581116,-0.9905386375273059
+1668,"The Little design uses small, super-hard liners for the fuel-injector nozzles, made of diamond, silicon carbide or tungsten carbide.",0.9958189129829407,0.0041811042465269566,0.9916377916500307
+46,"Terrorists who killed the research director of the Siemens electrical group, Karl-Heinz Beckurts, in early July cited his involvement in Star Wars as a reason.",0.005926223937422037,0.9940738081932068,-0.9881475525049943
+46,"Although Mr. Beckurts, a nuclear physicist, had advised Bonn in the Star Wars negotiations with Washington, Siemens is not yet involved in the research program.",0.017476137727499008,0.9825238585472107,-0.9650477244138296
+46,"Indeed, initial European euphoria over the announcement in March 1983 of the five-year, $26 billion American program has turned to a more sober assessment of European industrial roles.",0.23590585589408875,0.7640941143035889,-0.5281882741502092
+7557,"PRIDE AND PUNISHMENT; ISRAELIS INSIST AIR RAID ON IRAQIS WAS JUSTIFIED
+
+Gradually, and in a spirit of sober satisfaction, Israel is beginning to assess the long-term costs and benefits of its destruction of an Iraqi nuclear reactor.",0.9963944554328918,0.00360551243647933,0.9927889748943538
+7557,"Despite international condemnation, officials and foreign affairs specialists are confident that the air attack on an Iraqi nuclear reactor being completed outside Baghdad is receiving quiet applause in many capitals, including those of Arab countries hostile to Iraq.",0.9930577278137207,0.006942206062376499,0.9861155869561693
+7557,"Furthermore, there is some hopeful speculation - admittedly slender - that the dramatic raid may jar some Western countries out of a pattern of willingness to provide technology and fuel to any wealthy Special to the New York Times dictatorship that wants to have its own bomb.",0.00919489748775959,0.9908051490783691,-0.9816102058798406
+5393,"Japan's Nuclear Future in the Balance - Correction Appended
+
+TOKYO -- The accident at the Fukushima Daiichi power plant has done more than spew radiation into the air and sea and force tens of thousands of people to evacuate their homes.",0.01203902531415224,0.9879609942436218,-0.9759219498416326
+5393,"It has blown a big hole in Japan's energy policy, which had assumed that nuclear power would supply a growing part of the country's needs.",0.0005272941198199987,0.9994726777076721,-0.9989454117296507
+5393,"On Tuesday, Prime Minister Naoto Kan said Japan would abandon plans to build new nuclear reactors, saying at a news conference in Tokyo that Japan needed to ''start from scratch'' on its long-term energy policy.",0.0038271513767540455,0.9961728453636169,-0.9923456972205494
+5393,"Japanese officials had said over the weekend that Japan would not abandon nuclear power as an important source of energy, so many existing reactors are expected to keep operating.",0.993381142616272,0.006618865765631199,0.9867622685787082
+5393,"However, experts have been saying that it would now be difficult for Japan to further expand use of nuclear energy and realize a policy that predates the Fukushima disaster: construction of at least 14 new reactors by 2030 to go with the 54 that now exist.",0.0057042790576815605,0.9942957758903503,-0.988591442510526
+5393,"If completed, those reactors would have raised nuclear power's share of Japan's electricity generation to about 50 percent.",0.9966625571250916,0.0033374400809407234,0.9933251198184758
+5393,"Advocates for renewable energy argue that the March earthquake, tsunami and nuclear accident have given the nation a reason to rebuild its economy as a world leader in clean, renewable energy -- even though solar, wind and geothermal combined now account for only 1 percent of Japan's electricity.",0.9976861476898193,0.0023138688411563635,0.9953722623931929
+5393,An additional 8 percent or so comes from hydroelectric power.,0.991344690322876,0.008655295707285404,0.9826894083426203
+10128,"Cherry Lane Theater, 38 Commerce Street, West Village, 866-811-4111, cherrylanetheatre.org.",0.9966874718666077,0.0033125896006822586,0.9933748212048739
+10128,"(Genzlinger)
+'The Oldest Boy' Sarah Ruhl's new play explores the conflict between the nuclear family and Tibetan Buddhist tradition, when an American boy is identified as the reincarnation of a revered monk and teacher.",0.9986300468444824,0.0013699737610295415,0.9972600525334016
+10128,"Celia Keenan-Bolger portrays the conflicted mother in this tenderly drawn but tame and rather predictable play, directed by Rebecca Taichman (2:00).",0.0006318627274595201,0.9993681311607361,-0.9987362745363586
+11824,"White House Turns to Social Media to Sell the Iran deal
+
+It's the #IranDeal for Dummies, brought to you by the White House.",0.006241862196475267,0.9937582015991211,-0.9875162764024684
+11824,"As President Obama makes his increasingly urgent case to the public and a skeptical Congress on behalf of the nuclear accord with Iran, his team rolled out a series of digital tools on Tuesday to build support for it.",0.9987174272537231,0.0012826407328248024,0.9974347187077575
+11824,"The White House started a Twitter account, @TheIranDeal, designed to ""set the record straight"" about the agreement.",0.9952301979064941,0.004769813735038042,0.9904603726399892
+9556,"The scenario called for a simulated detonation in an industrial section of town, causing 150 casualties.",0.004254483617842197,0.9957454800605774,-0.991491032454265
+9556,"It would have had nowhere near the effect of a true nuclear weapon, like the atomic bombs dropped on Japan.",0.000982288853265345,0.9990177154541016,-0.9980354223009333
+9556,"But nuclear devastation is universally understood, and that makes the prospect even of a dirty bomb universally terrifying.",0.9923989176750183,0.007601106073707342,0.9847977882126336
+9556,Authorities are thus compelled to think not only about security against a tangible threat but also against a perceived threat.,0.9986373782157898,0.001362588140182197,0.9972748236269524
+7735,"Though Pauling (1901-94) was one of the best American scientists of the 20th century, he is better known for his obsessive advocacy of vitamin C. The only recipient of two unshared Nobel Prizes -- one for chemistry, one for peace -- he was vilified as a quack and a Communist dupe.",0.015713661909103394,0.984286367893219,-0.9685726771174318
+7735,"A champion of humanitarianism and of the nuclear test ban, he was neglectful of his own children and won a Presidential Medal of Merit for his scientific efforts during World War II.",0.9935321807861328,0.006467799656093121,0.9870644004338351
+7735,"Three new books on Pauling, one of them a collection of his own words, begin with his bucolic childhood in Oregon, playing on farms, in abandoned smelters and behind the counters of general stores.",0.9986227750778198,0.0013771960511803627,0.99724560781712
+1193,"Anxiously, Los Alamos Awaits a New Era
+
+Two of the world's largest military contractors are challenging the nation's largest university system for the job of running Los Alamos, the government's pre-eminent nuclear arms laboratory.",0.989092230796814,0.010907732881605625,0.9781845334434384
+1193,The winner will preside over a program valued as high as $44 billion over two decades.,0.9975293278694153,0.0024707172997295856,0.9950585656227461
+11230,"U.S. and 2 of Its Allies Warn North Korea on Atomic Arms
+
+The United States, Japan and South Korea issued a joint statement here today calling on North Korea to dismantle its clandestine nuclear weapons program ""in a prompt and verifiable manner"" and warned Kim Jong Il, North Korea's leader, that his ""relations with the international community"" hinged on his quick compliance with the demand.",0.9698528051376343,0.030147146433591843,0.9397057042118978
+11230,The statement was issued after considerable behind-the-scenes diplomacy by the United States to form a common front with the Asian allies against North Korea's project to enrich uranium in its latest attempt to develop atomic weapons.,0.9967285394668579,0.0032714568078517914,0.9934570863589287
+11230,But it stopped short of threatening the complete economic isolation of North Korea that the Bush administration has talked about in the last week.,0.004248094744980335,0.9957518577575684,-0.9915038101055005
+286,"Yet from the beginning he exerted so much influence and authority over the new institute that Clement Greenberg, the art critic who was an early patient and referred Jackson Pollock and others, called his treatment method Newtonian.",0.9948621392250061,0.005137797445058823,0.9897244044581398
+286,"Its fundamental premise was to break the bonds between parent and child: “splitting the atom of the nuclear family,” Stille writes, “and scattering its pieces.” Mothers were thought to be particularly malevolent.",0.9569663405418396,0.04303364455699921,0.9139327096025851
+286,"Free love was encouraged— if insisting that close, exclusive attachments are unhealthy can really count as “free.” Alcohol was considered an elixir, as salubrious as green juice.",0.010255157947540283,0.9897448420524597,-0.9794896841039399
+6575,Nagasaki Journal; Today's History Lesson: What Rape of Nanjing?,0.008956093341112137,0.9910439252853394,-0.9820878136504341
+6575,"The greatest danger, Mizuro Fukushima warned gravely, his eyes gleaming fiercely, is that naive schoolchildren may come to believe that the United States dropped the atomic bomb because Japan had done something wrong.",0.9942963719367981,0.005703672766685486,0.9885926549755885
+6575,"What has incensed Mr. Fukushima is one tiny exhibit in a beautiful new museum that opened on April 1 in the city of Nagasaki, near where the second atomic bomb exploded in 1945, three days after the first bomb obliterated Hiroshima.",0.0025743404403328896,0.9974256157875061,-0.9948513188929705
+6575,"The museum is wrenching to tour, with its life-size photos of burned and screaming babies, panoramas of charred corpses, images of teen-agers with their ears melted off.",0.9986866116523743,0.0013133954489603639,0.9973732091197355
+347,"A Legacy of Ashes: The Uranium Mines Of Eastern Germany
+
+BARREN and black, the ashen hills of nuclear waste stand like treeless offspring of the wooded mountains that cradle the towns and villages of this German frontier region.",0.008746538311243057,0.9912534356117249,-0.9825069229203639
+347,"They were once shrouded with the secrecy of the Wismut uranium mines, begun in the first fever of Stalin's drive for atomic weaponry and for years the largest supplier of uranium for Moscow's nuclear effort.",0.9915196299552917,0.008480367250740528,0.9830392654501482
+347,"Five months into German unification, this vast troubled landscape affords a sobering dose of the realities united Germany is up against in cleaning up eastern Germany's environment.",0.9987517595291138,0.0012482033343985677,0.9975035932374976
+11465,"Veterans Under an Atomic Cloud
+
+ALL Edmund Burke wants is the facts, he says.",0.018315913155674934,0.9816840291023254,-0.9633681715724918
+11465,"Mr. Burke, an Air Force veteran who lives in Norwalk, has lost a lung and part of his windpipe to cancer.",0.004481233190745115,0.995518684387207,-0.9910375328788139
+10375,"The World: Breeding Trouble; In North Korea, Every New Bomb Is a Greater Peril
+
+WHILE the Bush administration has insisted that North Korea's efforts to expand its nuclear arsenal is not a crisis, most experts believe it is the gravest security threat in Northeast Asia in a decade.",0.02305118553340435,0.9769487977027893,-0.9538976281593862
+10375,"The danger they see is in the difference between the North Korea of today -- a rogue state that United States intelligence says probably has one or two nuclear bombs -- and a North Korea with an arsenal of six or seven bombs and the means to produce more every year, exactly the fast track the country has put itself on.",0.08748755604028702,0.9125124216079712,-0.8250248840076023
+10375,"Not only would such an expansion vastly increase the military threat to American allies and forces in the region, and potentially to the United States itself, it would also add to the risk that North Korea could sell fissile material on the black market.",0.0019554400350898504,0.998044490814209,-0.9960891196583841
+8347,But the winnowing could go on for decades.,0.007430929224938154,0.9925690293312073,-0.9851381409332058
+8347,"Knowing inflation's identity could be crucial if scientists are ever to unwind cosmic history back to the beginning, when they suspect the universe was ruled by a single unified force instead of the four distinct forces we know today: gravity, electromagnetism and the strong and weak nuclear forces.",0.9965362548828125,0.003463759319856763,0.9930724814576826
+8347,"The Bicep2 waves seem to date from the time that theorists suspect electromagnetism and the weak force divorced the strong force, gravity having already gone its own way, but Dr. Linde says that could be a coincidence.",0.9940264225006104,0.005973590537905693,0.988052819078974
+362,"Thus armed with numbingly intensive documentation, Ms. Jacobsen has put together a set of strong allegations about Area 51's covert history.",0.9948535561561584,0.00514640798792243,0.989707183654107
+362,"Part of ''Area 51'' is devoted to the nuclear weapons testing that began with the Manhattan Project, continued under the aegis of the Atomic Energy Commission and prompted The New York Times to tell tourists, in 1957, about a project called Operation Plumbbob: ''This is the best time in history for the non-ancient but nonetheless honorable pastime of atom-bomb watching.''",0.996209979057312,0.0037900058086961508,0.9924199882668995
+362,Ms. Jacobsen recoils at the weaponry that was being developed and the ghastly results of atomic testing.,0.9560514688491821,0.04394855350255966,0.9121028949586218
+362,But she acknowledges ways in which it wound up keeping Americans safe.,0.9981381893157959,0.0018617635359987617,0.9962764727514486
+3088,It might therefore seem a little uncharacteristic that some physicists are eagerly hoping to see some tiny blue flashes streak through a cathedral-size water tank buried under a mountain: a signal that an inexorable process of annihilation is gnawing away at the universe.,0.9760221838951111,0.023977771401405334,0.9520444550524574
+3088,"The universal rot, if it is real, will take untold eons to complete, but it will be thorough, leaving no stars, no people, no monuments, no cinders, no sonnets, no atoms, no memories.",0.026670608669519424,0.9733293652534485,-0.9466587812690338
+3088,"Except for a faint and ever fading glow, the corpse of our universe would cease to exist.",0.004164325539022684,0.9958356618881226,-0.9916713488162481
+9890,Mr.,0.016369545832276344,0.9836304187774658,-0.9672609071758351
+9890,"Begin's address in part echoed that of Andrei A. Gromyko, the Soviet Foreign Minister, who pledged earlier in the week that Moscow would not use nuclear weapons first in any war.",0.9929814338684082,0.007018528413027525,0.9859629426435014
+9890,Mr.,0.016369545832276344,0.9836304187774658,-0.9672609071758351
+4142,"IF IT'S TOO LATE FOR A FREEZE, WHAT CHANCE FOR A CHILL?",0.0010653797071427107,0.9989345669746399,-0.9978692404711085
+4142,"WITH criticism of the Reagan Administration's arms control policies growing, The Week in Review asked three experts - Senator John Glenn, Democrat of Ohio, Joseph S. Nye Jr., Deputy Under Secretary of State for nonproliferation policy in the Carter Administration, and Eugene V. Rostow, director of the Arms Control and Disarmament Agency - to address themselves to the spread of nuclear weapons around the world.",0.008264637552201748,0.9917353391647339,-0.9834707245097609
+4142,"Excerpts of their discussion with Leslie H. Gelb and Judith Miller of The New York Times Washington bureau and Caroline Rand Herron, an editor of The Review, follow.",0.9975361824035645,0.0024638110771775246,0.9950723778125254
+8636,"SHOREHAM PANEL BACKS LOADING OF NUCLEAR FUEL
+
+A three-judge panel of the Nuclear Regulatory Commission ruled yesterday that the Long Island Lighting Company should be allowed to load nuclear fuel at its Shoreham reactor.",0.015610553324222565,0.9843894839286804,-0.9687788945136628
+8636,"If upheld by the commission, yesterday's ruling would bring the embattled $4.1 billion reactor one step closer to operation, despite the efforts of Suffolk County, in which it is situated, to force the utility to abandon it.",0.9976898431777954,0.002310223877429962,0.9953795525539697
+10384,"Mr. Bush is not the first president to govern in a 24-hour news cycle, but the endless drumbeat no doubt worsens the sense of perpetual crisis.",0.002151230815798044,0.9978487491607666,-0.9956975382812582
+10384,"The media, and sometimes the politicians themselves, have a tendency to inflate every event, from a school shooting to a sniper on the loose to the prospect of nuclear war, into a round-the-clock happening.",0.0037320659030228853,0.9962679743766785,-0.9925358684936146
+10384,"""It plays into the story line that we are now living in this immensely more dangerous, unpredictable world,"" said Richard Norton Smith, a presidential historian who leads the Dole Institute of Politics at the University of Kansas.",0.9971736669540405,0.002826303243637085,0.9943473933432707
+10458,"Three Mile Island: Cleaned Up, and for Sale
+
+With a name that most people equate with nuclear disaster, Three Mile Island might not seem to be choice real estate.",0.9866639375686646,0.013336085714399815,0.9733278291912368
+10458,"But GPU Inc., which owns the plant on an island in the Susquehanna River here, is convinced it can do something that no other company in the country has done: sell a used nuclear reactor.",0.9950814247131348,0.004918583668768406,0.9901628327439271
+10458,"""We've been working on its curb appeal,"" said Jim Langenbach, the site director, sounding a little like a homeowner who just added a new coat of paint before an open house.",0.00405660318210721,0.9959433674812317,-0.9918867933967793
+8909,"Other ideas include firing aloft ''bullets'' of frozen ozone, or placing solar-powered ozone generators in high-altitude balloons.",0.9838846921920776,0.016115285456180573,0.9677694283662617
+8909,"Since ozone consists of three oxygen atoms, and atmospheric oxygen has two such atoms, raw material would be plentiful.",0.9908081889152527,0.009191843681037426,0.9816163132361835
+8909,"Leon Y. Sadler, a chemical engineer at the University of Alabama, writing recently in Chemical and Engineering News, proposed using a fleet of jets to dispense ozone.",0.011115752160549164,0.9888842105865479,-0.9777684948497358
+675,The resolution left the door open for the return of United Nations weapons inspectors to certify the disarmament of Iraq.,0.9946349859237671,0.005364987533539534,0.9892700246471292
+675,Sir Jeremy said his government saw verification of Iraqi disarmament as a natural function for both the International Atomic Energy Agency and the biological and chemical weapons inspection teams.,0.9971498847007751,0.0028501844499260187,0.994299631493338
+675,"Washington this week signaled its willingness to have the atomic energy agency return to Iraq, after the looting of some significant nuclear facilities.",0.964849054813385,0.03515096753835678,0.9296980664937273
+675,"But Washington's attitude toward Mr. Hans Blix's team remains frosty, Sir Jeremy said.",0.0025251051411032677,0.9974748492240906,-0.9949497894863332
+11814,"Whipped by Winds Over Land Parched by Drought, a New Mexico Wildfire Rages
+
+LOS ALAMOS, N.M. -- Driven by a relentless drought and surging summer winds, a wildfire continued to burn virtually unchecked in the Jemez Mountains near Los Alamos National Laboratory on Friday, having already scorched tens of thousands of acres in its path and leaving firefighters scrambling to keep pace.",0.8909326195716858,0.10906744748353958,0.7818651196592225
+11814,"The Las Conchas Fire, now the largest in New Mexico's history, has not spread to the laboratory, which was one of the birthplaces of the atom bomb and still conducts nuclear research, and officials said Friday that they remained confident the blaze would not reach its confines.",0.9939700365066528,0.0060300263576209545,0.9879399480419164
+11814,"So with the laboratory seemingly safe, attention shifted to the nearby Santa Clara Pueblo, which the fire raced toward late in the week, and where concerns were mounting over the safety of the tribe's cultural sites.",0.9879466891288757,0.012053261511027813,0.9758934757870681
+568,A U.N.,0.9939046502113342,0.006095371674746275,0.9878092569163271
+568,"Team Arrives in Iraq For More Atom Inspections
+
+A team of United Nations nuclear inspectors arrived in the Iraqi capital today, the first to visit since the United States and some allies imposed an air-exclusion zone in southern Iraq to prevent attacks on rebel Shiite Muslims by President Saddam Hussein's air force.",0.9957470297813416,0.004253032151609659,0.9914939362225947
+568,"The team leader, Maurizio Zifferero, said it would conduct inspections in Baghdad and other cities under a mandate from the United Nations to destroy Iraq's nuclear capacity.",0.013402575626969337,0.98659747838974,-0.973194850193014
+568,"He declined to identify the sites of the inspections, which are to begin Tuesday.",0.0005291825509630144,0.9994708895683289,-0.9989416349734035
+7463,"PAKISTANI CITIES NUCLEAR ADVANCE
+
+A Pakistani nuclear scientist said in an interview published today that his country could now enrich uranium and could produce its own atomic bomb if necessary.",0.014947057701647282,0.9850528836250305,-0.9701058828417481
+7463,"''Pakistan has broken the Western countries' monopoly on the enrichment of uranium,'' Abdul Qadir Khan told the Urdu-language daily Nawa-i-Waqt.",0.997445821762085,0.002554156119003892,0.9948916876480071
+4399,"Ideas & Trends; When the Government Runs Afoul of Its Own Regulators
+
+PROMISING to make a clean break with 40 years of pollution at its nuclear weapons plants, the Department of Energy has signed agreements with states and with other Federal agencies committing itself to abide by environmental laws and clean up the mess.",0.008645371533930302,0.9913546442985535,-0.982709257204912
+4399,Now the Energy Department has a new problem.,0.0005694320425391197,0.9994305968284607,-0.9988611359468029
+10276,"The Smaller Bombs That Could Turn Ukraine Into a Nuclear War Zone
+
+Military experts say a new generation of nuclear weapons has raised the risk that Mr. Putin might introduce less destructive atomic arms into the battlefields in and around Ukraine.",0.008097324520349503,0.9919026494026184,-0.9838053505360088
+10276,"In destructive power, the behemoths of the Cold War dwarfed the American atomic bomb that destroyed Hiroshima.",0.9774014949798584,0.02259846031665802,0.9548030773452693
+10276,"Washington’s biggest test blast was 1,000 times as large.",0.9798473119735718,0.020152680575847626,0.9596946385470467
+531,"A Soviet Company Offers Nuclear Blasts for Sale to Anyone With the Cash
+
+A new Soviet trading company is trying to market the power of underground nuclear explosions for commercial application to anyone in the world who has the cash.",0.006722431164234877,0.9932774901390076,-0.9865551366124765
+531,"It is the first time that nuclear blasts are known to have been put up for sale, but the venture is surrounded by great uncertainty given the political turbulence in the Soviet Union and rising opposition around the world to nuclear blasts.",0.0036968884523957968,0.9963030815124512,-0.9926062228721426
+531,"The atomic exposions are being marketed by the International Chetek Corporation of Moscow, a private trading company tied to the Soviet arms complex.",0.005931248888373375,0.9940687417984009,-0.988137502111787
+531,Its initial goal is to carry out blasts in the Soviet Union for the incineration of toxic wastes.,0.9448177814483643,0.055182281881570816,0.8896354432253488
+3523,"France Alleges Iran's Nuclear Plan Is for Military Use
+
+France accused Iran of pursuing a nuclear program that could only be intended for military purposes, in comments on Thursday that reflected mounting European frustration with Iran's resumption of uranium enrichment two days ago.",0.0011898907832801342,0.9988101720809937,-0.9976202185820453
+3523,"''Today, it's simple -- no civilian nuclear program can explain the Iranian nuclear program,'' said Foreign Minister Philippe Douste-Blazy on a morning news program on France 2 television.",0.003907530102878809,0.9960924983024597,-0.9921849400152395
+3523,"''So, it's an Iranian clandestine military nuclear program.''",0.007216805126518011,0.9927831888198853,-0.9855663896586032
+3523,"His words drew a swift response from Iran, which insists that its nuclear program is peaceful and strictly intended to provide energy.",0.996129035949707,0.0038709095679223537,0.9922581804413704
+3523,"''I advise Mr. Douste-Blazy to speak diplomatically and not to increase tension,'' Ali Larijani, Iran's chief nuclear negotiator, told Iranian television.",0.9958886504173279,0.00411137193441391,0.991777256313973
+3523,"The French declaration increased the pressure on Iran, before talks next week in Brussels and Moscow with European Union and Russian officials, as Iran tries to avert a showdown at the United Nations Security Council in March.",0.0069648874923586845,0.9930351972579956,-0.9860702261948497
+1471,"Awaiting Iran Deal, Inspectors Prepare New Tools
+
+VIENNA --  On the outskirts of this graceful city, the Iran Task Force of the International Atomic Energy Agency is preparing to move quickly if American and Iranian negotiators here manage to cut a deal on Iran's nuclear program in the coming days.",0.9983012676239014,0.001698721433058381,0.9966025570957083
+1471,The 50 or so members of the agency's most elite inspection unit are readying an array of new surveillance gear that is far more sophisticated than anything used before in Iran.,0.9948681592941284,0.005131861194968224,0.9897362778193681
+6267,"16
+ 
+Pierre Elliott Trudeau of Canada has found himself dragged back into the middle of a political furor in recent days after the publication of excerpts from the diary of one of his former Cabinet ministers.",0.0011688275262713432,0.9988312125205994,-0.9976623450400753
+6267,"9
+ 
+Czechoslovak police crack down on Catholics           10
+ 
+Afghan refugee women suffer under Islamic custom           16
+ 
+Polls suggest close vote for Pinochet           18
+ 
+Ethiopia rebels report victory            22
+ 
+NATIONAL/24-31, 42-46
+ 
+A plan for an atomic weapons plant in Idaho has ignited a major political struggle in the Northwest over jobs and nuclear disarmament.",0.8950092196464539,0.10499075055122375,0.790018492638826
+6267,It would be the first such plant built in a quarter century.,0.9972438812255859,0.0027560831513255835,0.9944878334999939
+9318,"Gail: Meanwhile his opponent, whose name recognition is limited to his immediate family, reprised that old Lyndon Johnson ""Daisy"" ad where the little girl is picking petals off a flower and then suddenly - countdown to Armageddon!",0.0012515385169535875,0.9987484216690063,-0.9974969228654378
+9318,"In this version, when the nuclear bomb goes off, Andrew Cuomo's face comes out of the cloud.",0.0013907711254432797,0.998609185218811,-0.9972184576266859
+9318,Did not expect an ad about atomic warfare in the New York gubernatorial race.,0.0011536185629665852,0.9988464117050171,-0.9976927629429044
+9318,Possible high point of the political week for me.,0.9978679418563843,0.0021319796796888113,0.9957360403050597
+912,"ATOM BOMB PARTS SEIZED IN BRITAIN EN ROUTE TO IRAQ
+
+Six people were arrested in Britain today in what American and British officials said was an attempt to smuggle electronic devices used to trigger nuclear weapons to Iraq.",0.006128799635916948,0.9938712120056152,-0.9877424008698755
+912,"Triggering devices that had been disarmed and other electronic equipment that has military uses were seized in the raids in Britain today, the officials said.",0.009409407153725624,0.9905905723571777,-0.9811811853059871
